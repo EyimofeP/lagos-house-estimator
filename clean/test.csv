@@ -1,0 +1,2629 @@
+Price,Serviced,Newly Built,Furnished,Bedrooms,Bathrooms,Toilets,Neighborhood,Type,City
+72000000.0,1,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+70000000.0,0,1,0,4,4,5,Ologolo,Terraced Duplex,Lekki
+380000000.0,0,1,0,5,5,7,Lekki Phase 1,Detached Duplex,Lekki
+45000000.0,0,0,0,4,5,5,Ikota,Semi Detached Duplex,Lekki
+175000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+380000000.0,0,1,1,4,4,4,Other Ikoyi,Detached Duplex,Ikoyi
+70000000.0,1,1,1,4,5,5,Ikota,Semi Detached Duplex,Lekki
+120000000.0,1,1,1,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+70000000.0,1,1,0,6,6,7,Ikate,Semi Detached Duplex,Lekki
+115000000.0,0,0,1,5,5,6,Victoria Garden City,Detached Duplex,Lekki
+118000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+60000000.0,0,1,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+75000000.0,0,0,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+60000000.0,1,1,0,4,4,4,Ologolo,Semi Detached Duplex,Lekki
+170000000.0,0,0,0,4,5,4,Lekki Phase 1,Detached Duplex,Lekki
+130000000.0,0,1,0,5,4,6,Agungi,Detached Duplex,Lekki
+42000000.0,0,0,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+300000000.0,0,0,0,5,5,6,Onikoyi,Terraced Duplex,Ikoyi
+200000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+90000000.0,1,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+120000000.0,0,1,0,4,4,5,Waziri Adeola Odeku,Detached Duplex,Victoria Island
+300000000.0,0,1,0,4,4,5,Other Victoria Island,Terraced Duplex,Victoria Island
+40000000.0,0,0,0,4,3,3,Ikota,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,4,Other Ikeja,Detached Duplex,Ikeja
+80000009.0,0,1,0,5,5,6,Ologolo,Detached Duplex,Lekki
+135000000.0,1,0,1,5,5,6,Agidingbi,Detached Duplex,Ikeja
+125000000.0,0,1,0,5,6,6,Chevron,Detached Duplex,Lekki
+70000000.0,0,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+10000000.0,0,1,0,5,6,6,Chevron,Detached Duplex,Lekki
+200000000.0,0,0,0,5,5,6,Other Ikeja,Detached Duplex,Ikeja
+56000000.0,0,1,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+165000000.0,0,0,0,5,5,6,Ikate,Detached Duplex,Lekki
+58000000.0,0,0,0,5,5,6,Allen Avenue,Terraced Duplex,Ikeja
+50000000.0,0,1,1,3,3,3,Lekki Phase 1,Detached Duplex,Lekki
+85000000.0,0,1,0,3,4,4,Ikate,Semi Detached Duplex,Lekki
+145000000.0,0,1,0,5,5,5,Chevron,Semi Detached Duplex,Lekki
+150000000.0,0,0,0,6,7,8,Ikota,Detached Duplex,Lekki
+200000000.0,0,1,0,4,4,6,Other Ikoyi,Terraced Duplex,Ikoyi
+45000000.0,0,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+66000000.0,0,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+50000000.0,0,1,0,4,4,5,Ologolo,Terraced Duplex,Lekki
+55000000.0,0,0,0,4,5,6,Chevron,Semi Detached Duplex,Lekki
+270000000.0,0,0,0,5,5,6,Other Ikoyi,Detached Duplex,Ikoyi
+70000000.0,0,0,0,4,4,5,Awolowo Way,Detached Duplex,Ikeja
+75000000.0,0,0,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+79000000.0,0,0,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+90000000.0,1,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+47000000.0,0,1,0,3,3,4,Chevron,Detached Duplex,Lekki
+280000000.0,0,1,0,7,7,8,Lekki Phase 1,Detached Duplex,Lekki
+295000000.0,0,1,0,6,6,7,Lekki Phase 1,Detached Duplex,Lekki
+46000000.0,0,1,1,4,4,4,Other Lekki,Detached Duplex,Lekki
+50000000.0,0,0,1,3,4,4,Other Lekki,Terraced Duplex,Lekki
+220000000.0,0,1,0,5,5,6,Ologolo,Detached Duplex,Lekki
+57000000.0,0,0,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+70000000.0,1,1,1,4,5,5,Lekki Phase 2,Detached Duplex,Lekki
+56000000.0,0,1,1,4,5,5,Ikate,Detached Duplex,Lekki
+68000000.0,0,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+120000000.0,0,1,0,5,5,6,Lekki Phase 1,Terraced Duplex,Lekki
+170000000.0,0,0,0,5,5,5,Ikate,Terraced Duplex,Lekki
+55000000.0,0,0,0,3,3,3,Other Lekki,Terraced Duplex,Lekki
+58000000.0,0,1,0,4,4,5,Ologolo,Detached Duplex,Lekki
+145000000.0,0,1,0,5,5,5,Agungi,Detached Duplex,Lekki
+52000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+43000000.0,0,0,0,3,3,4,Other Lekki,Terraced Duplex,Lekki
+60000000.0,0,0,0,4,4,4,Ologolo,Terraced Duplex,Lekki
+115000000.0,0,0,0,5,5,6,Lekki Phase 2,Semi Detached Duplex,Lekki
+53000000.0,1,1,1,4,4,4,Chevron,Terraced Duplex,Lekki
+150000000.0,0,1,1,4,4,5,Chevron,Detached Duplex,Lekki
+290000000.0,0,0,0,5,5,6,Ikate,Detached Duplex,Lekki
+170000000.0,0,0,1,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+350000000.0,0,1,1,5,7,7,Lekki Phase 1,Detached Duplex,Lekki
+135000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+270000000.0,0,0,0,6,6,6,Lekki Phase 1,Detached Duplex,Lekki
+77000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+72000000.0,0,0,0,5,5,5,Chevron,Detached Duplex,Lekki
+170000000.0,0,0,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+170000000.0,1,1,1,5,5,5,Ikate,Detached Duplex,Lekki
+240000000.0,0,0,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+200000000.0,0,0,0,5,5,5,Other Victoria Island,Semi Detached Duplex,Victoria Island
+65000000.0,1,1,1,4,4,4,Chevron,Detached Duplex,Lekki
+50000000.0,0,1,1,4,5,5,Osapa London,Terraced Duplex,Lekki
+72000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+60000000.0,0,1,1,4,4,5,Victoria Garden City,Terraced Duplex,Lekki
+260000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+130000000.0,0,0,0,5,5,5,Other Ikeja,Detached Duplex,Ikeja
+150000000.0,0,0,0,5,2,2,Other Lekki,Detached Duplex,Lekki
+45000000.0,0,1,0,4,4,5,Ologolo,Detached Duplex,Lekki
+100000000.0,0,0,0,4,4,4,Other Ikeja,Semi Detached Duplex,Ikeja
+170000000.0,0,1,0,5,5,6,GRA,Detached Duplex,Ikeja
+270000000.0,0,1,1,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+75009009.0,0,0,0,4,4,6,Ikota,Semi Detached Duplex,Lekki
+60000000.0,0,0,0,5,6,6,Chevron,Detached Duplex,Lekki
+65000000.0,0,1,0,5,6,6,Other Lekki,Terraced Duplex,Lekki
+90000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+145000000.0,0,0,0,5,5,5,GRA,Detached Duplex,Ikeja
+56000000.0,1,1,0,4,5,5,Osapa London,Detached Duplex,Lekki
+250000000.0,0,0,0,5,5,6,Other Lekki,Semi Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,Adeniyi Jones,Semi Detached Duplex,Ikeja
+78000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+135000000.0,1,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+160000000.0,0,1,0,5,6,7,Chevron,Detached Duplex,Lekki
+450000000.0,0,0,0,5,5,7,Osapa London,Detached Duplex,Lekki
+36500000.0,0,0,0,3,3,4,Chevron,Terraced Duplex,Lekki
+140000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+65000000.0,0,0,0,4,4,4,Victoria Garden City,Semi Detached Duplex,Lekki
+400000000.0,0,0,0,5,6,6,Other Lekki,Detached Duplex,Lekki
+160000000.0,0,1,0,4,4,5,GRA,Detached Duplex,Ikeja
+180000000.0,0,0,1,5,6,6,Chevron,Detached Duplex,Lekki
+68000000.0,1,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+105000000.0,0,1,1,5,5,6,Ikota,Detached Duplex,Lekki
+57000000.0,0,1,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+135000000.0,1,1,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+111000000.0,0,0,0,4,4,5,GRA,Semi Detached Duplex,Ikeja
+55000000.0,0,1,0,5,5,6,Agungi,Detached Duplex,Lekki
+69000000.0,0,0,0,4,4,3,Chevron,Terraced Duplex,Lekki
+120000000.0,0,0,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+200000000.0,0,1,0,5,6,6,Osapa London,Detached Duplex,Lekki
+190000000.0,0,0,0,4,4,5,Other Ikoyi,Terraced Duplex,Ikoyi
+138000000.0,0,0,0,4,6,7,Osapa London,Detached Duplex,Lekki
+150000000.0,0,1,0,5,7,5,Adeniyi Jones,Detached Duplex,Ikeja
+105000000.0,0,0,0,4,4,5,Chevron,Detached Duplex,Lekki
+78000000.0,0,1,0,4,4,5,Ologolo,Detached Duplex,Lekki
+110000000.0,0,0,0,4,5,6,Lekki Phase 1,Terraced Duplex,Lekki
+67000000.0,1,0,0,4,5,5,Victoria Garden City,Terraced Duplex,Lekki
+75000000.0,0,1,0,5,5,5,Chevron,Detached Duplex,Lekki
+80000000.0,0,0,0,4,4,5,Ologolo,Detached Duplex,Lekki
+200000000.0,1,0,1,4,4,5,Other Ikoyi,Terraced Duplex,Ikoyi
+60000000.0,0,1,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+300000000.0,0,0,0,4,5,4,Banana Island,Detached Duplex,Ikoyi
+70000000.0,0,1,0,4,4,4,Ikota,Detached Duplex,Lekki
+75000000.0,0,1,0,4,4,4,Allen Avenue,Semi Detached Duplex,Ikeja
+85000000.0,0,0,0,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+90000000.0,0,1,1,5,5,6,Ikota,Detached Duplex,Lekki
+53500000.0,1,1,1,4,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,5,5,5,Other Lekki,Semi Detached Duplex,Lekki
+47000000.0,0,1,1,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+250000000.0,0,0,0,4,4,5,Airport Road,Semi Detached Duplex,Ikeja
+300000000.0,0,0,0,4,3,5,Other Victoria Island,Terraced Duplex,Victoria Island
+65000000.0,0,0,0,3,3,4,Ikota,Semi Detached Duplex,Lekki
+240000000.0,0,1,1,5,6,6,Alausa,Detached Duplex,Ikeja
+47500000.0,0,0,0,3,3,4,Chevron,Terraced Duplex,Lekki
+325000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+150000000.0,1,1,0,4,5,5,Ikate,Semi Detached Duplex,Lekki
+42000000.0,0,0,0,3,3,4,Ikota,Terraced Duplex,Lekki
+72000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+120000000.0,0,0,0,5,5,6,Alausa,Detached Duplex,Ikeja
+40000000.0,1,0,0,4,5,5,Ikota,Terraced Duplex,Lekki
+90000000.0,0,1,0,3,4,4,Ikate,Terraced Duplex,Lekki
+220000000.0,0,0,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+220000000.0,0,0,0,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+100000000.0,0,1,1,4,4,4,Chevron,Detached Duplex,Lekki
+95000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+150000000.0,1,0,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+135000000.0,0,1,0,3,4,4,Other Ikoyi,Detached Duplex,Ikoyi
+160000000.0,0,0,0,5,5,6,Ikate,Semi Detached Duplex,Lekki
+90000000.0,1,1,0,4,4,5,Ologolo,Detached Duplex,Lekki
+350000000.0,0,0,1,5,6,7,Maryland,Detached Duplex,Ikeja
+200000000.0,0,0,0,5,4,4,Ikota,Detached Duplex,Lekki
+185000000.0,0,1,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+50000000.0,0,0,0,4,5,5,Chevron,Terraced Duplex,Lekki
+85000000.0,0,1,1,4,4,5,Ikate,Terraced Duplex,Lekki
+170000000.0,0,0,0,5,5,6,Ologolo,Detached Duplex,Lekki
+45000000.0,0,0,0,4,5,4,Other Lekki,Semi Detached Duplex,Lekki
+130000000.0,0,0,1,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+145000000.0,1,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+95000000.0,0,0,0,6,6,7,Ikota,Detached Duplex,Lekki
+250000000.0,0,1,0,4,4,5,Osapa London,Detached Duplex,Lekki
+85000000.0,0,0,0,5,5,5,Other Lekki,Semi Detached Duplex,Lekki
+100000000.0,0,0,0,5,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+75000000.0,0,1,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+85000000.0,1,1,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+200000000.0,0,0,1,4,6,6,Oniru,Detached Duplex,Victoria Island
+65000000.0,0,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+100000000.0,0,1,0,4,4,5,Ologolo,Detached Duplex,Lekki
+165000000.0,0,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+250000000.0,0,1,1,4,4,5,GRA,Detached Duplex,Ikeja
+200000000.0,1,1,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+140000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+55000000.0,0,0,0,4,5,5,Ologolo,Detached Duplex,Lekki
+120000000.0,0,1,0,4,4,4,Opebi,Detached Duplex,Ikeja
+450000000.0,0,1,0,4,4,5,Banana Island,Terraced Duplex,Ikoyi
+62990000.0,1,1,0,5,5,6,Ikate,Semi Detached Duplex,Lekki
+55000000.0,1,0,0,4,5,5,Osapa London,Detached Duplex,Lekki
+130000000.0,0,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+150000000.0,0,1,0,4,4,4,Foreshore,Terraced Duplex,Ikoyi
+65000000.0,0,1,1,4,5,5,Lekki Phase 1,Terraced Duplex,Lekki
+185000000.0,0,1,0,5,6,6,Other Lekki,Detached Duplex,Lekki
+140000000.0,0,0,0,4,4,5,Foreshore,Detached Duplex,Ikoyi
+85000000.0,0,0,0,4,4,5,Adeniyi Jones,Terraced Duplex,Ikeja
+55000000.0,0,1,0,3,3,4,Chevron,Terraced Duplex,Lekki
+95000000.0,0,0,0,5,5,5,Ikota,Detached Duplex,Lekki
+320000000.0,0,0,0,4,4,5,Banana Island,Detached Duplex,Ikoyi
+105000000.0,0,1,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+280000000.0,1,1,0,5,6,6,Ologolo,Detached Duplex,Lekki
+380000000.0,1,1,1,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+170000000.0,0,1,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+350000000.0,0,0,0,9,9,10,Other Lekki,Detached Duplex,Lekki
+75000000.0,0,1,0,5,6,6,Chevron,Detached Duplex,Lekki
+140000000.0,0,0,0,5,5,5,Ikate,Detached Duplex,Lekki
+500000000.0,0,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+55000000.0,0,0,0,3,3,3,Omole,Detached Duplex,Ikeja
+200000000.0,0,0,0,5,5,5,Ikota,Detached Duplex,Lekki
+75000000.0,1,1,0,4,5,5,Ologolo,Semi Detached Duplex,Lekki
+62000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,4,Ikota,Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+98000000.0,0,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+80000000.0,0,1,0,5,7,7,Chevron,Detached Duplex,Lekki
+87000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+120000000.0,0,0,0,4,5,5,Opebi,Terraced Duplex,Ikeja
+75000000.0,0,0,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+49000000.0,0,0,0,3,2,4,Osapa London,Terraced Duplex,Lekki
+170000000.0,1,0,0,5,6,7,Other Lekki,Detached Duplex,Lekki
+85000000.0,0,1,0,5,5,6,Adeniyi Jones,Detached Duplex,Ikeja
+350000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+47000000.0,0,1,0,3,3,3,Other Lekki,Detached Duplex,Lekki
+80000000.0,0,1,0,4,4,4,Chevron,Detached Duplex,Lekki
+135000000.0,0,1,1,5,6,6,Banana Island,Detached Duplex,Ikoyi
+33000000.0,0,1,0,3,5,5,Other Lekki,Detached Duplex,Lekki
+250000000.0,0,1,0,5,6,6,Victoria Garden City,Detached Duplex,Lekki
+270000000.0,0,0,0,5,5,6,Oniru,Semi Detached Duplex,Victoria Island
+450000000.0,0,0,0,5,5,6,Banana Island,Terraced Duplex,Ikoyi
+260000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+65000000.0,1,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+120000000.0,0,0,0,4,4,4,Victoria Island Extension,Terraced Duplex,Victoria Island
+85000000.0,0,1,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+235000000.0,1,1,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+50000000.0,0,0,0,4,4,4,Agungi,Semi Detached Duplex,Lekki
+110000000.0,0,0,0,5,5,6,Ikate,Detached Duplex,Lekki
+80000000.0,1,1,1,4,4,4,Victoria Garden City,Semi Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,6,Osapa London,Semi Detached Duplex,Lekki
+220000000.0,0,1,0,3,3,4,Other Victoria Island,Terraced Duplex,Victoria Island
+92000000.0,0,1,1,5,5,6,Lekki Phase 1,Terraced Duplex,Lekki
+80000000.0,0,1,1,4,5,5,Chevron,Semi Detached Duplex,Lekki
+30000000.0,0,1,0,4,6,6,Other Lekki,Detached Duplex,Lekki
+55000000.0,0,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+300000000.0,1,1,0,5,6,6,Opebi,Detached Duplex,Ikeja
+37000000.0,0,0,0,4,4,4,Ikota,Terraced Duplex,Lekki
+185000000.0,0,0,0,10,9,9,Allen Avenue,Detached Duplex,Ikeja
+255000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+73000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+110000000.0,0,0,0,4,4,5,Adeniyi Jones,Detached Duplex,Ikeja
+35000000.0,1,0,0,4,4,4,Chevron,Detached Duplex,Lekki
+60000000.0,1,1,0,4,6,6,Maryland,Terraced Duplex,Ikeja
+240000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+70000000.0,0,1,0,4,4,4,Agungi,Semi Detached Duplex,Lekki
+36000000.0,0,0,0,3,3,4,Chevron,Terraced Duplex,Lekki
+160000000.0,1,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+115000000.0,0,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+58000000.0,0,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+75000000.0,0,0,0,4,5,5,Oniru,Detached Duplex,Victoria Island
+150000000.0,0,1,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+170000000.0,0,0,0,5,6,5,Other Ikeja,Detached Duplex,Ikeja
+40000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+85000000.0,0,1,1,4,4,5,Chevron,Detached Duplex,Lekki
+33000000.0,0,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+250000000.0,1,0,1,5,7,7,Oniru,Semi Detached Duplex,Victoria Island
+45000000.0,0,1,0,4,5,5,Other Lekki,Terraced Duplex,Lekki
+85000000.0,0,1,0,4,4,4,Ikota,Semi Detached Duplex,Lekki
+75000000.0,0,1,1,5,6,6,Chevron,Detached Duplex,Lekki
+48000000.0,0,1,1,4,4,4,Lekki Phase 1,Semi Detached Duplex,Lekki
+45000000.0,0,1,1,4,4,4,Ikota,Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+185000000.0,0,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+62000000.0,0,1,0,4,4,4,Lekki Phase 2,Terraced Duplex,Lekki
+270000000.0,1,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+100000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+47999999.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+100000000.0,0,0,0,5,5,6,Ikate,Detached Duplex,Lekki
+58000000.0,0,1,0,4,4,5,Ikate,Detached Duplex,Lekki
+70000000.0,0,0,0,4,4,5,Ologolo,Terraced Duplex,Lekki
+75000000.0,0,1,0,4,4,4,Chevron,Detached Duplex,Lekki
+80000000.0,0,1,0,5,9,9,Lekki Phase 2,Detached Duplex,Lekki
+100000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+42000000.0,0,0,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+80000000.0,0,1,0,3,3,4,Allen Avenue,Detached Duplex,Ikeja
+65000000.0,0,0,0,3,3,4,Ikota,Detached Duplex,Lekki
+176000000.0,0,0,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+45000000.0,0,1,1,4,4,5,Chevron,Detached Duplex,Lekki
+100000000.0,0,0,0,10,0,0,Ikota,Detached Duplex,Lekki
+250000000.0,0,0,1,5,5,6,Oniru,Semi Detached Duplex,Victoria Island
+105000000.0,0,0,0,4,4,5,Adeniyi Jones,Semi Detached Duplex,Ikeja
+133000000.0,0,1,0,5,6,6,Chevron,Detached Duplex,Lekki
+90000000.0,0,0,0,5,6,5,Omole,Detached Duplex,Ikeja
+85000000.0,0,0,1,4,5,6,Chevron,Detached Duplex,Lekki
+140000000.0,0,0,0,5,5,5,Ikota,Detached Duplex,Lekki
+200000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+55000000.0,0,1,0,5,5,6,Agungi,Terraced Duplex,Lekki
+70000000.0,0,0,0,4,5,4,Ologolo,Detached Duplex,Lekki
+120000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+45000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+56000000.0,0,0,0,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+190000000.0,0,0,0,5,4,4,Ikota,Detached Duplex,Lekki
+85000000.0,0,1,1,4,5,5,Ikate,Terraced Duplex,Lekki
+45000000.0,0,0,0,4,4,4,Adeniyi Jones,Terraced Duplex,Ikeja
+57000000.0,0,0,0,4,3,4,Oregun,Semi Detached Duplex,Ikeja
+85000000.0,0,1,0,5,5,5,Lekki Phase 2,Detached Duplex,Lekki
+275000000.0,0,0,0,5,5,6,Oniru,Detached Duplex,Victoria Island
+78000000.0,0,0,0,2,2,3,Lekki Phase 1,Terraced Duplex,Lekki
+440000000.0,0,1,0,7,7,7,Other Lekki,Detached Duplex,Lekki
+500000000.0,0,0,1,6,6,7,Lekki Phase 1,Detached Duplex,Lekki
+155000000.0,0,1,0,5,6,6,Osapa London,Detached Duplex,Lekki
+165000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+75000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+78000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+230000000.0,0,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+300000000.0,0,1,0,6,6,8,Lekki Phase 1,Detached Duplex,Lekki
+80000000.0,1,0,0,4,4,5,Chevron,Detached Duplex,Lekki
+47000000.0,0,0,0,4,5,5,Ikate,Semi Detached Duplex,Lekki
+400000000.0,0,1,0,5,5,6,Banana Island,Semi Detached Duplex,Ikoyi
+160000000.0,0,0,0,5,5,6,Other Lekki,Semi Detached Duplex,Lekki
+125000000.0,0,0,1,4,6,6,Oniru,Detached Duplex,Victoria Island
+60000000.0,0,0,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+80000000.0,0,0,0,4,5,5,Adeniyi Jones,Terraced Duplex,Ikeja
+350000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+48000000.0,0,0,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+48000000.0,0,0,0,5,5,6,Osapa London,Terraced Duplex,Lekki
+135000000.0,1,1,0,5,6,6,Agungi,Detached Duplex,Lekki
+75000000.0,0,0,0,4,4,4,Opebi,Terraced Duplex,Ikeja
+280000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+110000000.0,0,1,0,4,4,5,Agungi,Detached Duplex,Lekki
+50000000.0,0,0,0,3,3,3,Other Lekki,Terraced Duplex,Lekki
+58000000.0,0,1,0,4,6,6,Chevron,Semi Detached Duplex,Lekki
+100000000.0,1,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+245000000.0,0,0,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+40000000.0,0,0,0,4,4,4,Ikota,Semi Detached Duplex,Lekki
+200000000.0,0,0,0,5,5,5,Agungi,Detached Duplex,Lekki
+50000000.0,1,1,1,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+58000000.0,0,1,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+75000000.0,0,0,0,4,4,4,Ologolo,Detached Duplex,Lekki
+50000000.0,0,0,0,4,4,4,Ologolo,Semi Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,4,Ikota,Semi Detached Duplex,Lekki
+60000000.0,0,1,1,4,4,4,Other Lekki,Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,4,Ikota,Terraced Duplex,Lekki
+195000000.0,1,0,0,4,4,5,GRA,Terraced Duplex,Ikeja
+80000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+290000000.0,0,1,1,4,5,5,Other Ikoyi,Semi Detached Duplex,Ikoyi
+190000000.0,0,1,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+390000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+62000000.0,1,0,0,4,6,6,Chevron,Detached Duplex,Lekki
+65000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+60000000.0,0,1,1,4,6,6,Ikota,Detached Duplex,Lekki
+270000000.0,0,0,1,5,5,6,GRA,Detached Duplex,Ikeja
+60000000.0,0,0,0,4,5,5,Lekki Phase 2,Terraced Duplex,Lekki
+65000000.0,1,1,0,5,4,5,Ikota,Detached Duplex,Lekki
+160000000.0,0,0,0,4,4,6,Lekki Phase 1,Detached Duplex,Lekki
+100000000.0,0,1,0,5,5,6,Ikate,Terraced Duplex,Lekki
+80000000.0,1,1,0,5,5,6,Adeniyi Jones,Terraced Duplex,Ikeja
+17675000.0,0,1,0,3,3,4,Other Lekki,Detached Duplex,Lekki
+95000000.0,1,1,0,4,5,5,Other Lekki,Terraced Duplex,Lekki
+55000000.0,0,0,0,3,3,4,Ikate,Detached Duplex,Lekki
+130000000.0,0,1,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+150000000.0,0,1,0,5,6,5,Adeniyi Jones,Detached Duplex,Ikeja
+70000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+85000000.0,0,1,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+300000000.0,0,1,1,5,5,6,GRA,Detached Duplex,Ikeja
+85000000.0,0,1,0,4,4,5,Ikate,Terraced Duplex,Lekki
+120000000.0,0,0,0,4,4,4,Other Ikeja,Detached Duplex,Ikeja
+170000000.0,0,0,0,4,4,4,Onikoyi,Semi Detached Duplex,Ikoyi
+130000000.0,0,0,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+70000000.0,0,1,1,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+125000000.0,0,0,0,5,7,8,Ikota,Detached Duplex,Lekki
+56000000.0,1,1,1,4,6,6,Osapa London,Semi Detached Duplex,Lekki
+275000000.0,0,0,0,4,5,5,Old Ikoyi,Terraced Duplex,Ikoyi
+200000000.0,0,0,0,4,4,5,Foreshore,Terraced Duplex,Ikoyi
+420000000.0,0,0,0,4,4,5,Waziri Adeola Odeku,Detached Duplex,Victoria Island
+235000000.0,0,1,0,5,5,6,Victoria Garden City,Detached Duplex,Lekki
+125000000.0,1,1,1,4,4,5,Oniru,Semi Detached Duplex,Victoria Island
+170000000.0,0,1,0,5,5,6,Victoria Garden City,Detached Duplex,Lekki
+55000000.0,0,0,0,4,4,4,Victoria Garden City,Semi Detached Duplex,Lekki
+55000000.0,0,0,0,3,4,4,Chevron,Semi Detached Duplex,Lekki
+65000000.0,0,0,0,4,5,5,Ikate,Terraced Duplex,Lekki
+160000000.0,1,1,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+189000000.0,0,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+80000000.0,0,0,1,4,5,4,Osapa London,Terraced Duplex,Lekki
+195000000.0,0,0,0,5,5,6,Omole,Detached Duplex,Ikeja
+150000000.0,0,0,0,4,4,5,Awolowo Way,Semi Detached Duplex,Ikeja
+72000000.0,0,1,0,4,5,5,Ikate,Terraced Duplex,Lekki
+150000000.0,1,1,0,5,5,2,Ikota,Detached Duplex,Lekki
+135000000.0,0,0,0,5,5,6,Adeniyi Jones,Detached Duplex,Ikeja
+150000000.0,0,1,1,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+110000000.0,1,1,0,4,5,6,Osapa London,Detached Duplex,Lekki
+70000000.0,0,0,0,4,4,5,Other Ikeja,Detached Duplex,Ikeja
+120000000.0,0,0,0,5,6,5,Lekki Phase 1,Detached Duplex,Lekki
+350000000.0,0,0,0,5,6,6,GRA,Detached Duplex,Ikeja
+95000000.0,0,0,0,4,4,5,Other Ikeja,Terraced Duplex,Ikeja
+45000000.0,0,0,0,3,3,4,Chevron,Terraced Duplex,Lekki
+53000000.0,1,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+190000000.0,0,1,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+47000000.0,0,0,1,4,4,5,Opebi,Detached Duplex,Ikeja
+250000000.0,0,1,0,5,5,7,Ikate,Detached Duplex,Lekki
+285000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+120000000.0,0,0,0,6,7,7,Osapa London,Detached Duplex,Lekki
+76000000.0,0,1,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+100000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+150000000.0,0,0,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+175000000.0,0,0,0,5,5,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+400000000.0,0,1,0,5,7,7,Other Lekki,Detached Duplex,Lekki
+45000000.0,0,0,0,5,4,5,Other Lekki,Detached Duplex,Lekki
+450000000.0,0,0,1,4,5,4,Banana Island,Terraced Duplex,Ikoyi
+210000000.0,0,0,0,4,4,5,Old Ikoyi,Terraced Duplex,Ikoyi
+90000000.0,1,0,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+50000000.0,0,1,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+145000000.0,0,1,0,5,5,6,GRA,Terraced Duplex,Ikeja
+60000000.0,0,0,0,6,6,7,Lekki Phase 1,Semi Detached Duplex,Lekki
+196000000.0,0,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+500000000.0,1,1,0,4,4,5,Old Ikoyi,Terraced Duplex,Ikoyi
+60000000.0,0,0,0,4,4,5,Ologolo,Semi Detached Duplex,Lekki
+88000000.0,1,1,1,4,4,4,Chevron,Semi Detached Duplex,Lekki
+45000000.0,0,0,0,4,5,5,Ologolo,Semi Detached Duplex,Lekki
+150000000.0,0,1,0,5,7,7,Lekki Phase 1,Semi Detached Duplex,Lekki
+160000000.0,1,1,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+65000000.0,0,0,0,5,5,5,Ologolo,Detached Duplex,Lekki
+160000000.0,1,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+190000000.0,0,1,0,5,6,6,Osapa London,Semi Detached Duplex,Lekki
+80000000.0,0,1,0,4,5,5,Ologolo,Detached Duplex,Lekki
+97000000.0,0,1,0,4,4,4,Oregun,Detached Duplex,Ikeja
+230000000.0,0,0,0,5,5,6,Old Ikoyi,Terraced Duplex,Ikoyi
+130000000.0,0,0,0,5,4,4,Osapa London,Detached Duplex,Lekki
+95000000.0,0,0,0,4,5,5,GRA,Terraced Duplex,Ikeja
+140000000.0,0,1,0,5,5,5,Chevron,Detached Duplex,Lekki
+185000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+50000000.0,1,1,1,4,5,6,Chevron,Terraced Duplex,Lekki
+20000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+55000000.0,0,0,0,5,5,5,Other Lekki,Terraced Duplex,Lekki
+65000000.0,0,1,1,4,4,5,Other Lekki,Detached Duplex,Lekki
+120000000.0,0,0,0,4,4,5,Foreshore,Terraced Duplex,Ikoyi
+52000000.0,0,1,1,4,4,5,Chevron,Detached Duplex,Lekki
+100000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+50000000.0,0,1,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+430000000.0,0,0,0,5,6,6,Old Ikoyi,Detached Duplex,Ikoyi
+200000000.0,1,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+270000000.0,0,1,0,5,5,5,GRA,Detached Duplex,Ikeja
+260000000.0,1,1,0,3,3,4,Old Ikoyi,Detached Duplex,Ikoyi
+110000000.0,0,1,1,5,6,6,Ikate,Detached Duplex,Lekki
+55000000.0,0,0,0,3,3,4,Chevron,Terraced Duplex,Lekki
+60000000.0,1,1,1,4,4,4,Ikate,Terraced Duplex,Lekki
+70000000.0,1,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+150000000.0,0,0,0,5,6,6,Victoria Garden City,Detached Duplex,Lekki
+110000000.0,0,0,0,5,5,5,Osapa London,Semi Detached Duplex,Lekki
+65000000.0,0,0,0,5,5,5,Agungi,Terraced Duplex,Lekki
+160000000.0,1,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+150000000.0,0,0,0,5,5,5,GRA,Terraced Duplex,Ikeja
+70000000.0,0,0,0,4,4,5,Adeniyi Jones,Semi Detached Duplex,Ikeja
+230000000.0,1,1,0,4,4,5,GRA,Detached Duplex,Ikeja
+400000000.0,1,1,0,5,6,7,Ikate,Semi Detached Duplex,Lekki
+55000000.0,0,0,0,3,3,3,Osapa London,Terraced Duplex,Lekki
+150000000.0,0,0,0,5,5,5,Other Ikeja,Terraced Duplex,Ikeja
+72500000.0,0,0,0,4,5,5,Osapa London,Semi Detached Duplex,Lekki
+95000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+76000000.0,0,0,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+155000000.0,0,0,0,4,4,5,GRA,Terraced Duplex,Ikeja
+75000000.0,1,1,0,4,4,5,Osapa London,Detached Duplex,Lekki
+75000000.0,0,1,0,3,4,4,Other Ikeja,Terraced Duplex,Ikeja
+120000000.0,0,1,0,5,5,5,Ikate,Detached Duplex,Lekki
+230000000.0,1,1,1,4,4,4,GRA,Detached Duplex,Ikeja
+155000000.0,0,1,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+140000000.0,0,1,1,4,8,9,Osapa London,Detached Duplex,Lekki
+205000000.0,0,1,0,5,5,7,Osapa London,Detached Duplex,Lekki
+95000000.0,0,0,0,5,5,5,Ikate,Detached Duplex,Lekki
+45000000.0,1,1,0,3,3,4,Chevron,Terraced Duplex,Lekki
+100000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+76000000.0,1,1,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+77500000.0,0,1,0,4,5,5,Victoria Garden City,Semi Detached Duplex,Lekki
+140000000.0,1,1,0,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+41000000.0,0,1,0,3,3,4,Lekki Phase 2,Terraced Duplex,Lekki
+400000000.0,0,0,0,4,4,5,Parkview,Detached Duplex,Ikoyi
+170000000.0,0,1,0,4,4,4,Lekki Phase 1,Terraced Duplex,Lekki
+80000000.0,0,1,0,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+115000000.0,0,0,0,4,4,4,Other Lekki,Terraced Duplex,Lekki
+60000000.0,1,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+35000000.0,0,0,0,3,3,4,Lekki Phase 2,Terraced Duplex,Lekki
+185000000.0,0,0,0,5,5,6,Other Ikoyi,Semi Detached Duplex,Ikoyi
+160000000.0,0,1,0,5,5,6,Agungi,Detached Duplex,Lekki
+90000000.0,0,1,1,4,6,6,Osapa London,Detached Duplex,Lekki
+68000000.0,1,1,1,4,5,6,Ikota,Semi Detached Duplex,Lekki
+60000000.0,1,1,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+88000000.0,0,1,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+102000000.0,0,1,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+39000000.0,0,0,0,4,5,5,Lekki Phase 2,Terraced Duplex,Lekki
+100000000.0,0,1,1,4,4,4,Other Victoria Island,Terraced Duplex,Victoria Island
+55000000.0,1,1,0,4,4,5,Victoria Garden City,Detached Duplex,Lekki
+43000000.0,0,0,0,3,3,4,Osapa London,Terraced Duplex,Lekki
+35000000.0,0,1,1,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+45000000.0,1,1,0,4,5,6,Ikota,Semi Detached Duplex,Lekki
+97000000.0,0,1,1,5,5,7,Osapa London,Detached Duplex,Lekki
+55000000.0,1,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+70000000.0,0,0,0,4,4,5,Opebi,Detached Duplex,Ikeja
+450000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+55000000.0,0,0,0,4,4,6,Other Lekki,Terraced Duplex,Lekki
+300000000.0,0,1,1,5,5,6,Banana Island,Terraced Duplex,Ikoyi
+130000000.0,0,0,0,5,4,5,Chevron,Detached Duplex,Lekki
+60000000.0,0,1,0,4,4,4,Ologolo,Terraced Duplex,Lekki
+52000000.0,0,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+80000000.0,0,0,0,5,5,6,Agungi,Semi Detached Duplex,Lekki
+75000000.0,1,1,0,4,4,4,Ikate,Terraced Duplex,Lekki
+175000000.0,1,1,0,4,4,5,Other Ikeja,Semi Detached Duplex,Ikeja
+81000000.0,1,1,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+240000000.0,0,0,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+40000000.0,0,1,0,3,4,4,Osapa London,Terraced Duplex,Lekki
+108000000.0,0,0,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+58000000.0,0,1,0,4,4,5,Victoria Garden City,Terraced Duplex,Lekki
+72000000.0,1,1,0,4,4,5,Victoria Garden City,Terraced Duplex,Lekki
+250000000.0,0,1,0,5,6,6,Foreshore,Terraced Duplex,Ikoyi
+43000000.0,0,0,0,3,3,4,Agungi,Terraced Duplex,Lekki
+120000000.0,0,0,0,8,0,0,Lekki Phase 1,Detached Duplex,Lekki
+200000000.0,0,1,0,4,5,5,Other Ikoyi,Terraced Duplex,Ikoyi
+85000000.0,1,0,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+120000000.0,0,0,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+275000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+50000000.0,0,1,0,5,5,6,Ologolo,Detached Duplex,Lekki
+290000000.0,0,1,0,5,5,6,Ologolo,Detached Duplex,Lekki
+190000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+135000000.0,0,1,0,6,6,7,Chevron,Detached Duplex,Lekki
+110000000.0,0,0,0,4,4,5,Ikate,Terraced Duplex,Lekki
+130000000.0,0,0,0,4,4,5,Ikate,Terraced Duplex,Lekki
+400000000.0,0,0,0,5,6,6,Osapa London,Detached Duplex,Lekki
+65000000.0,0,0,0,4,4,5,Ologolo,Semi Detached Duplex,Lekki
+65000000.0,1,1,0,2,2,3,Ikate,Detached Duplex,Lekki
+145000000.0,0,1,0,5,5,5,Chevron,Detached Duplex,Lekki
+61000000.0,0,1,1,4,4,4,Lekki Phase 2,Detached Duplex,Lekki
+39000000.0,0,1,1,3,3,4,Chevron,Detached Duplex,Lekki
+57000000.0,0,0,0,4,5,5,Lekki Phase 2,Terraced Duplex,Lekki
+85000000.0,0,0,0,5,7,7,Osapa London,Detached Duplex,Lekki
+190000000.0,0,0,0,6,7,7,Victoria Garden City,Detached Duplex,Lekki
+100000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+40000000.0,1,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+32000000.0,0,0,0,3,0,0,Other Lekki,Semi Detached Duplex,Lekki
+270000000.0,0,0,0,4,5,5,Other Lekki,Detached Duplex,Lekki
+80000000.0,0,1,0,5,5,6,Ologolo,Detached Duplex,Lekki
+85000000.0,0,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+74000000.0,0,0,0,5,5,6,Agungi,Detached Duplex,Lekki
+85000000.0,0,0,0,5,5,5,Oregun,Detached Duplex,Ikeja
+38000000.0,0,0,0,5,5,6,Other Lekki,Semi Detached Duplex,Lekki
+70000000.0,0,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+320000000.0,0,1,0,5,6,6,Osapa London,Detached Duplex,Lekki
+350000000.0,0,1,0,5,6,7,Lekki Phase 1,Detached Duplex,Lekki
+130000000.0,0,0,0,5,5,5,Opebi,Detached Duplex,Ikeja
+59000000.0,0,1,1,4,6,6,Chevron,Detached Duplex,Lekki
+270000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,5,Allen Avenue,Detached Duplex,Ikeja
+230000000.0,0,0,0,4,4,5,Other Victoria Island,Detached Duplex,Victoria Island
+67000000.0,0,1,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+55000000.0,1,1,1,4,5,5,Chevron,Detached Duplex,Lekki
+90000000.0,0,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+210000000.0,0,1,0,5,6,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+77000000.0,0,0,0,3,3,4,Oniru,Detached Duplex,Victoria Island
+105000000.0,0,0,0,4,4,5,Ologolo,Detached Duplex,Lekki
+200000000.0,0,0,0,5,6,6,Lekki Phase 2,Detached Duplex,Lekki
+420000000.0,0,1,0,4,4,5,Osapa London,Detached Duplex,Lekki
+190000000.0,0,0,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+500000000.0,1,1,1,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+55000000.0,1,0,0,3,4,4,Lekki Phase 2,Terraced Duplex,Lekki
+400000000.0,0,1,0,6,6,7,Ikate,Detached Duplex,Lekki
+46000000.0,0,0,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+130000000.0,1,1,1,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+58000000.0,0,1,1,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+75000000.0,0,0,0,6,6,7,Other Lekki,Detached Duplex,Lekki
+280000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+180000000.0,1,0,0,5,6,6,Ikate,Detached Duplex,Lekki
+85000000.0,0,0,0,3,3,4,Lekki Phase 1,Detached Duplex,Lekki
+45000000.0,0,1,0,3,4,4,Other Lekki,Terraced Duplex,Lekki
+130000000.0,0,0,0,3,0,0,Lekki Phase 1,Detached Duplex,Lekki
+115000000.0,0,1,1,5,6,6,Ikota,Detached Duplex,Lekki
+155000000.0,0,1,0,4,4,4,Ikate,Semi Detached Duplex,Lekki
+70000000.0,0,1,1,4,6,6,Other Lekki,Detached Duplex,Lekki
+99000000.0,1,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+220000000.0,0,0,0,3,0,0,Other Victoria Island,Terraced Duplex,Victoria Island
+65000000.0,0,0,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+75000000.0,0,1,1,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+77000000.0,0,0,0,5,6,6,Chevron,Detached Duplex,Lekki
+120000000.0,0,1,1,4,4,5,Ikate,Detached Duplex,Lekki
+36500000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+59000000.0,0,1,0,4,4,4,Ologolo,Semi Detached Duplex,Lekki
+120000000.0,1,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+41000000.0,0,0,0,3,3,4,Ikota,Detached Duplex,Lekki
+70000000.0,0,0,0,3,3,4,Ikota,Detached Duplex,Lekki
+48000000.0,0,1,1,5,5,5,Chevron,Detached Duplex,Lekki
+45000000.0,0,1,0,4,4,4,Chevron,Semi Detached Duplex,Lekki
+155000000.0,1,1,1,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+250000000.0,0,0,0,3,0,0,Victoria Island Extension,Terraced Duplex,Victoria Island
+69000000.0,1,1,1,4,6,6,Chevron,Semi Detached Duplex,Lekki
+200000000.0,0,0,0,5,6,6,Other Lekki,Detached Duplex,Lekki
+53000000.0,0,1,1,5,5,6,Chevron,Semi Detached Duplex,Lekki
+250000000.0,0,0,0,4,4,5,Onikoyi,Terraced Duplex,Ikoyi
+44000000.0,0,1,0,4,5,5,Ikota,Semi Detached Duplex,Lekki
+85000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+410000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+55000000.0,1,1,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+100000000.0,0,0,0,4,3,3,Other Lekki,Detached Duplex,Lekki
+300000000.0,0,0,0,5,5,6,Old Ikoyi,Terraced Duplex,Ikoyi
+102000000.0,0,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+320000000.0,0,0,0,5,6,6,Osapa London,Detached Duplex,Lekki
+330000000.0,0,1,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+37000000.0,0,0,0,4,4,5,Chevron,Detached Duplex,Lekki
+50000000.0,0,1,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+95000000.0,0,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+80000000.0,0,0,0,4,5,4,Other Lekki,Detached Duplex,Lekki
+160000000.0,0,0,0,4,5,4,Lekki Phase 1,Detached Duplex,Lekki
+55000000.0,0,0,0,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+59000000.0,1,1,0,4,5,5,Ikota,Terraced Duplex,Lekki
+155000000.0,1,1,1,4,4,4,GRA,Terraced Duplex,Ikeja
+165000000.0,0,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+125000000.0,0,0,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+75000000.0,0,0,0,4,5,5,Allen Avenue,Semi Detached Duplex,Ikeja
+130000000.0,0,0,0,5,6,6,Oniru,Terraced Duplex,Victoria Island
+70000000.0,0,1,0,6,6,6,Chevron,Detached Duplex,Lekki
+70000000.0,0,0,0,5,5,6,Other Ikeja,Terraced Duplex,Ikeja
+95000000.0,0,1,0,5,5,6,Lekki Phase 2,Semi Detached Duplex,Lekki
+110000000.0,0,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+180000000.0,0,1,0,4,4,4,Victoria Garden City,Semi Detached Duplex,Lekki
+80000000.0,0,1,0,4,4,4,Lekki Phase 2,Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,Agungi,Terraced Duplex,Lekki
+180000000.0,1,1,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+50000000.0,0,1,1,4,4,4,Chevron,Terraced Duplex,Lekki
+73000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+144000000.0,0,0,0,5,6,6,Osapa London,Detached Duplex,Lekki
+75000000.0,0,0,0,4,4,5,Other Ikeja,Semi Detached Duplex,Ikeja
+60000000.0,0,0,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+150000000.0,1,1,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+85000000.0,0,1,0,5,6,7,Chevron,Semi Detached Duplex,Lekki
+120000000.0,0,1,0,5,6,6,Ikate,Semi Detached Duplex,Lekki
+85000000.0,0,0,1,5,5,5,Ikota,Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,5,Other Ikoyi,Terraced Duplex,Ikoyi
+115000000.0,0,1,0,4,4,4,Ikota,Detached Duplex,Lekki
+120000000.0,0,1,0,5,5,6,Victoria Garden City,Detached Duplex,Lekki
+250000000.0,0,0,0,4,4,4,GRA,Detached Duplex,Ikeja
+115000000.0,1,1,0,5,5,6,Ikate,Terraced Duplex,Lekki
+49000000.0,0,0,0,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+63000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+130000000.0,1,1,0,4,4,5,Agungi,Detached Duplex,Lekki
+130000000.0,0,0,0,4,4,5,Adeniyi Jones,Semi Detached Duplex,Ikeja
+205000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+250000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+90000000.0,0,1,1,4,4,5,Chevron,Detached Duplex,Lekki
+39000000.0,0,0,0,4,4,4,Agungi,Terraced Duplex,Lekki
+75000000.0,1,1,0,4,5,5,Ikota,Detached Duplex,Lekki
+220000000.0,0,0,0,5,4,4,Lekki Phase 1,Detached Duplex,Lekki
+95000000.0,0,0,0,5,5,6,Ikate,Detached Duplex,Lekki
+100000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+295000000.0,0,0,0,8,8,8,Lekki Phase 1,Detached Duplex,Lekki
+450000000.0,0,1,0,5,7,7,Osapa London,Detached Duplex,Lekki
+170000000.0,0,0,0,4,4,5,Opebi,Detached Duplex,Ikeja
+35000000.0,1,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+170000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+50000000.0,0,1,0,4,4,4,Lekki Phase 2,Terraced Duplex,Lekki
+90000000.0,0,0,0,4,4,5,GRA,Terraced Duplex,Ikeja
+55000000.0,0,1,1,4,5,5,Chevron,Detached Duplex,Lekki
+45000000.0,1,1,0,3,3,3,Chevron,Semi Detached Duplex,Lekki
+120000000.0,0,0,0,4,4,5,Victoria Island Extension,Detached Duplex,Victoria Island
+130000000.0,0,1,0,5,6,5,Other Lekki,Detached Duplex,Lekki
+220000000.0,1,1,0,5,7,7,Ikota,Detached Duplex,Lekki
+70000000.0,0,1,0,5,5,5,Ikota,Terraced Duplex,Lekki
+51000000.0,0,0,0,3,0,0,Other Lekki,Terraced Duplex,Lekki
+67000000.0,0,0,0,5,5,6,Agungi,Detached Duplex,Lekki
+85000000.0,1,1,1,5,5,6,Awolowo Way,Detached Duplex,Ikeja
+57000000.0,0,1,1,5,5,5,Ikate,Semi Detached Duplex,Lekki
+30000000.0,0,0,0,4,4,4,Allen Avenue,Detached Duplex,Ikeja
+20000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+110000000.0,0,1,0,5,5,6,Chevron,Semi Detached Duplex,Lekki
+200000000.0,0,0,0,4,5,5,Oniru,Detached Duplex,Victoria Island
+200000000.0,0,0,1,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+140000009.0,0,1,0,3,4,4,Ikate,Terraced Duplex,Lekki
+360000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+230000000.0,0,1,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+70000000.0,0,1,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+90000000.0,1,1,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+70000000.0,1,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+53000000.0,0,0,0,4,3,3,Other Lekki,Terraced Duplex,Lekki
+38000000.0,0,0,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+100000000.0,1,1,0,4,5,5,Other Lekki,Detached Duplex,Lekki
+65000000.0,1,1,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+250000000.0,0,0,1,5,6,6,Other Lekki,Detached Duplex,Lekki
+85000000.0,0,1,0,4,4,4,Osapa London,Terraced Duplex,Lekki
+41000000.0,0,0,0,3,4,4,Lekki Phase 2,Semi Detached Duplex,Lekki
+72000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+47000000.0,0,0,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+50000000.0,0,0,0,3,4,0,Other Ikoyi,Detached Duplex,Ikoyi
+125000000.0,0,1,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+115000000.0,0,1,1,7,6,7,Ikota,Detached Duplex,Lekki
+36000000.0,0,1,0,4,4,5,Ikota,Terraced Duplex,Lekki
+180000000.0,0,1,1,5,7,7,Victoria Garden City,Detached Duplex,Lekki
+125000000.0,0,1,0,4,5,5,Chevron,Detached Duplex,Lekki
+220000000.0,0,0,0,4,4,5,Other Ikoyi,Semi Detached Duplex,Ikoyi
+120000000.0,0,0,0,5,3,3,Other Lekki,Detached Duplex,Lekki
+280000000.0,0,0,0,6,6,6,Other Lekki,Detached Duplex,Lekki
+100000000.0,1,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+250000000.0,0,1,1,5,6,6,Other Ikeja,Detached Duplex,Ikeja
+32000000.0,1,1,1,4,4,4,Other Lekki,Detached Duplex,Lekki
+95000000.0,0,1,0,5,5,5,Chevron,Detached Duplex,Lekki
+200000000.0,0,1,1,5,7,7,Chevron,Detached Duplex,Lekki
+190000000.0,0,0,0,5,6,6,Ologolo,Detached Duplex,Lekki
+70000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+45000000.0,1,1,0,3,3,4,Lekki Phase 2,Detached Duplex,Lekki
+63000000.0,0,0,0,5,5,5,Ologolo,Detached Duplex,Lekki
+38000000.0,0,1,0,4,5,5,Other Lekki,Terraced Duplex,Lekki
+160000000.0,0,1,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+135000000.0,0,1,1,4,7,7,Awolowo Way,Detached Duplex,Ikeja
+265000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+240000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+300000000.0,1,0,1,5,5,5,GRA,Detached Duplex,Ikeja
+200000000.0,0,1,0,5,5,6,Parkview,Semi Detached Duplex,Ikoyi
+55000000.0,1,1,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+190000000.0,0,1,0,6,7,7,Osapa London,Detached Duplex,Lekki
+280000000.0,0,1,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+70000000.0,1,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+180000000.0,1,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+80000000.0,1,1,0,4,4,5,Osapa London,Detached Duplex,Lekki
+135000000.0,0,0,0,4,4,4,Ikate,Detached Duplex,Lekki
+220000000.0,0,0,0,5,5,5,Osapa London,Detached Duplex,Lekki
+180000000.0,0,0,0,4,5,5,Foreshore,Detached Duplex,Ikoyi
+73000000.0,0,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+170000000.0,0,1,0,5,6,7,Agungi,Detached Duplex,Lekki
+175000000.0,0,0,0,5,5,6,Ikate,Semi Detached Duplex,Lekki
+15000000.0,0,0,1,4,6,6,Chevron,Semi Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+290000000.0,1,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+70000000.0,0,0,0,5,5,5,Osapa London,Detached Duplex,Lekki
+125000000.0,0,0,0,5,5,6,Adeniyi Jones,Detached Duplex,Ikeja
+140000000.0,0,1,0,4,5,5,GRA,Detached Duplex,Ikeja
+145000000.0,0,1,0,5,6,6,Osapa London,Detached Duplex,Lekki
+80000000.0,0,1,1,5,5,6,Adeniyi Jones,Terraced Duplex,Ikeja
+79000000.0,0,1,0,5,6,6,Chevron,Detached Duplex,Lekki
+170000000.0,0,1,0,5,5,6,Agungi,Detached Duplex,Lekki
+106000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+60000000.0,1,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+70000000.0,0,1,0,4,4,5,Victoria Garden City,Terraced Duplex,Lekki
+45000000.0,1,1,1,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+50000000.0,1,1,0,4,4,4,Other Lekki,Terraced Duplex,Lekki
+335000000.0,0,0,0,6,5,7,Lekki Phase 1,Detached Duplex,Lekki
+65000000.0,0,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+60000000.0,0,1,1,4,5,5,Other Lekki,Terraced Duplex,Lekki
+60000000.0,1,1,1,4,4,4,Ikota,Detached Duplex,Lekki
+110000000.0,0,0,0,4,4,5,Old Ikoyi,Terraced Duplex,Ikoyi
+43000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+75000000.0,0,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+65000000.0,1,1,1,3,4,4,Ikota,Detached Duplex,Lekki
+130000000.0,0,1,0,4,4,5,Oniru,Terraced Duplex,Victoria Island
+110000000.0,0,0,0,5,5,6,Maryland,Semi Detached Duplex,Ikeja
+350000000.0,0,1,0,4,5,5,Other Ikoyi,Detached Duplex,Ikoyi
+150000000.0,0,0,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+51000000.0,0,0,0,3,4,4,Lekki Phase 2,Detached Duplex,Lekki
+70000000.0,0,0,0,5,5,6,Agungi,Terraced Duplex,Lekki
+65000000.0,0,1,0,4,4,5,Victoria Garden City,Detached Duplex,Lekki
+120000000.0,0,0,1,4,4,5,Chevron,Detached Duplex,Lekki
+120000000.0,0,1,0,5,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+275000000.0,0,1,0,5,5,6,Other Ikoyi,Semi Detached Duplex,Ikoyi
+230000000.0,0,0,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+350000000.0,1,1,0,4,4,5,Other Victoria Island,Terraced Duplex,Victoria Island
+100000000.0,1,1,0,3,3,3,Lekki Phase 1,Detached Duplex,Lekki
+35000000.0,1,1,0,3,4,4,Ikota,Terraced Duplex,Lekki
+90000000.0,0,1,0,4,6,6,Oregun,Semi Detached Duplex,Ikeja
+370000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+130000000.0,1,1,0,4,4,4,Victoria Island Extension,Terraced Duplex,Victoria Island
+50000000.0,1,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+350000000.0,0,0,0,6,6,7,Other Lekki,Detached Duplex,Lekki
+380000000.0,0,0,0,4,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+130000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+45000000.0,1,0,1,4,4,5,Ikota,Terraced Duplex,Lekki
+50000000.0,1,1,0,3,3,3,Chevron,Semi Detached Duplex,Lekki
+400000000.0,0,1,1,5,5,6,Banana Island,Detached Duplex,Ikoyi
+50000000.0,0,0,0,4,4,5,Chevron,Detached Duplex,Lekki
+65000000.0,0,0,0,5,6,6,Osapa London,Detached Duplex,Lekki
+110000000.0,0,1,1,5,5,6,Alausa,Detached Duplex,Ikeja
+77000000.0,0,0,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+84000000.0,1,1,0,4,4,4,Lekki Phase 2,Semi Detached Duplex,Lekki
+155000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+45000000.0,1,0,0,3,3,4,Ikota,Terraced Duplex,Lekki
+39000000.0,1,1,1,2,3,3,Lekki Phase 1,Detached Duplex,Lekki
+80000000.0,1,1,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+65000000.0,0,1,1,3,0,0,Ikota,Detached Duplex,Lekki
+180000000.0,1,1,0,4,4,4,Other Victoria Island,Detached Duplex,Victoria Island
+35000000.0,1,1,0,1,2,2,Ikate,Terraced Duplex,Lekki
+110000000.0,0,1,0,4,4,5,Adeniyi Jones,Semi Detached Duplex,Ikeja
+70000000.0,0,1,1,5,5,6,Osapa London,Semi Detached Duplex,Lekki
+18000000.0,0,0,0,5,5,6,Other Ikeja,Detached Duplex,Ikeja
+83000000.0,1,1,0,4,4,5,Ikate,Terraced Duplex,Lekki
+65000000.0,0,1,1,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+140000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+130000000.0,0,0,0,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+47000000.0,0,0,0,4,4,4,Agungi,Detached Duplex,Lekki
+250000000.0,0,1,0,4,5,5,Osapa London,Semi Detached Duplex,Lekki
+400000000.0,0,1,0,3,3,3,Lekki Phase 1,Detached Duplex,Lekki
+250000000.0,1,0,1,4,5,4,Osapa London,Detached Duplex,Lekki
+110000000.0,0,0,1,4,4,5,Ikota,Detached Duplex,Lekki
+65000000.0,0,0,0,3,3,4,Oniru,Terraced Duplex,Victoria Island
+95000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+58000000.0,0,0,0,5,5,6,Osapa London,Terraced Duplex,Lekki
+180000000.0,0,1,0,5,5,5,Ikate,Detached Duplex,Lekki
+170000000.0,0,1,0,4,4,5,Opebi,Detached Duplex,Ikeja
+140000000.0,0,0,0,5,4,5,Lekki Phase 1,Detached Duplex,Lekki
+390000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+130000000.0,0,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+32000000.0,0,0,0,2,0,0,Other Lekki,Detached Duplex,Lekki
+280000000.0,1,0,0,4,4,5,Old Ikoyi,Terraced Duplex,Ikoyi
+120000000.0,0,1,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+30000000.0,1,1,0,3,0,0,Lekki Phase 2,Semi Detached Duplex,Lekki
+47000000.0,0,1,0,4,5,5,Agungi,Detached Duplex,Lekki
+110000000.0,0,1,1,5,7,7,Ikota,Detached Duplex,Lekki
+37000000.0,1,1,0,3,4,5,Other Lekki,Terraced Duplex,Lekki
+125000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+165000000.0,0,0,0,5,6,6,Lekki Phase 2,Detached Duplex,Lekki
+130000000.0,0,1,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+58000000.0,0,1,1,3,3,4,Ikate,Terraced Duplex,Lekki
+40000000.0,0,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+500000000.0,0,0,0,10,10,10,Oniru,Detached Duplex,Victoria Island
+280000000.0,0,1,0,5,5,5,Lekki Phase 2,Detached Duplex,Lekki
+57000000.0,0,0,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+150000000.0,0,0,0,5,5,6,Victoria Garden City,Detached Duplex,Lekki
+75000000.0,0,1,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+55000000.0,0,1,1,4,4,4,Lekki Phase 2,Detached Duplex,Lekki
+87000000.0,0,0,0,5,2,6,Other Ikeja,Detached Duplex,Ikeja
+270000000.0,0,0,0,5,5,6,Parkview,Detached Duplex,Ikoyi
+42000000.0,0,1,0,5,5,6,Other Lekki,Terraced Duplex,Lekki
+115000000.0,1,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+180000000.0,0,1,0,5,5,5,Other Lekki,Semi Detached Duplex,Lekki
+250000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+460000000.0,1,0,0,4,4,5,Banana Island,Terraced Duplex,Ikoyi
+75000000.0,0,1,0,4,4,6,Ikota,Semi Detached Duplex,Lekki
+120000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+140000000.0,0,0,0,6,6,7,Other Lekki,Detached Duplex,Lekki
+88000000.0,0,0,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+85000000.0,0,1,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+135000000.0,0,0,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+300000000.0,0,1,0,4,5,5,Banana Island,Detached Duplex,Ikoyi
+370000000.0,0,0,0,6,6,7,GRA,Detached Duplex,Ikeja
+75000000.0,0,0,0,4,4,4,Agungi,Detached Duplex,Lekki
+42000000.0,1,1,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+50000000.0,0,1,0,5,5,5,Ikota,Detached Duplex,Lekki
+60500000.0,0,0,0,4,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+35000000.0,0,0,1,4,5,5,Other Lekki,Terraced Duplex,Lekki
+500000000.0,0,0,0,5,6,6,Victoria Island Extension,Detached Duplex,Victoria Island
+180000000.0,0,0,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+70000000.0,0,0,0,4,4,4,Lekki Phase 1,Terraced Duplex,Lekki
+180000000.0,1,0,0,4,4,5,Onikoyi,Detached Duplex,Ikoyi
+27000000.0,0,0,0,3,3,4,Victoria Garden City,Terraced Duplex,Lekki
+80000000.0,0,1,0,4,4,5,Agungi,Terraced Duplex,Lekki
+450000000.0,0,1,1,5,8,8,Opebi,Detached Duplex,Ikeja
+220000000.0,0,1,1,6,6,7,Agungi,Detached Duplex,Lekki
+400000000.0,0,0,0,5,5,5,Onikoyi,Detached Duplex,Ikoyi
+85000000.0,0,0,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+19975000.0,0,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+57000000.0,0,1,1,4,4,4,Chevron,Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,5,Alausa,Semi Detached Duplex,Ikeja
+65000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+150000000.0,0,1,0,4,5,4,Oniru,Semi Detached Duplex,Victoria Island
+48000000.0,0,1,1,4,6,6,Ikota,Semi Detached Duplex,Lekki
+100000000.0,0,0,0,5,5,6,Adeniyi Jones,Semi Detached Duplex,Ikeja
+155000000.0,0,0,0,4,5,5,GRA,Terraced Duplex,Ikeja
+175000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+130000000.0,0,0,1,4,4,5,Ikate,Detached Duplex,Lekki
+85000000.0,1,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+58000000.0,1,1,1,4,4,4,Chevron,Detached Duplex,Lekki
+10000000.0,0,0,0,3,3,4,Ikota,Terraced Duplex,Lekki
+200000000.0,0,0,0,4,5,6,Other Lekki,Detached Duplex,Lekki
+72000000.0,0,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+75000000.0,0,0,0,4,4,4,Chevron,Detached Duplex,Lekki
+275000000.0,0,0,0,5,5,6,Other Ikoyi,Detached Duplex,Ikoyi
+76000000.0,1,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+55000000.0,0,0,0,4,4,5,Allen Avenue,Detached Duplex,Ikeja
+105000000.0,1,1,1,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+440000000.0,0,0,0,7,0,0,Lekki Phase 1,Detached Duplex,Lekki
+280000000.0,0,1,0,5,6,6,Oniru,Detached Duplex,Victoria Island
+150000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+45000000.0,1,0,1,4,6,6,Chevron,Semi Detached Duplex,Lekki
+130000000.0,0,1,1,5,5,5,Ikate,Semi Detached Duplex,Lekki
+95000000.0,0,0,0,5,5,6,Agidingbi,Detached Duplex,Ikeja
+78000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+65000000.0,0,1,0,4,5,6,Ikota,Semi Detached Duplex,Lekki
+68000000.0,0,1,0,4,5,4,Osapa London,Detached Duplex,Lekki
+42000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+170000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+200000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+80000000.0,0,1,0,4,4,5,Adeniyi Jones,Terraced Duplex,Ikeja
+78000000.0,0,0,0,4,4,4,Ikota,Semi Detached Duplex,Lekki
+95000000.0,0,0,1,5,6,6,Ikota,Detached Duplex,Lekki
+105000000.0,0,0,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+90000000.0,0,1,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+380000000.0,0,0,0,5,5,6,Old Ikoyi,Detached Duplex,Ikoyi
+60000000.0,1,1,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+58000000.0,0,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+330000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+55000000.0,1,1,1,4,4,3,Other Lekki,Semi Detached Duplex,Lekki
+85000000.0,0,1,0,4,4,5,Agungi,Detached Duplex,Lekki
+150000000.0,0,1,0,5,5,5,Chevron,Detached Duplex,Lekki
+65000000.0,0,1,0,4,4,4,Agungi,Detached Duplex,Lekki
+500000000.0,0,0,0,5,7,7,GRA,Detached Duplex,Ikeja
+260000000.0,0,0,0,3,3,4,Lekki Phase 1,Semi Detached Duplex,Lekki
+165000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+290000000.0,0,1,0,5,6,6,Victoria Garden City,Detached Duplex,Lekki
+53000000.0,1,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+300000000.0,1,1,1,5,5,7,Chevron,Detached Duplex,Lekki
+350000000.0,0,1,0,4,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+43000000.0,0,1,0,4,3,3,Lekki Phase 2,Semi Detached Duplex,Lekki
+164000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+110000000.0,0,1,0,3,3,4,Lekki Phase 1,Semi Detached Duplex,Lekki
+140000000.0,0,1,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+120000000.0,0,0,0,3,3,3,Oniru,Terraced Duplex,Victoria Island
+205000000.0,0,1,0,5,5,5,Ikota,Semi Detached Duplex,Lekki
+175000000.0,0,1,0,4,4,5,Agungi,Detached Duplex,Lekki
+120000000.0,1,1,0,4,5,5,GRA,Semi Detached Duplex,Ikeja
+320000000.0,0,0,0,5,5,6,Banana Island,Semi Detached Duplex,Ikoyi
+120000000.0,0,1,0,5,6,6,Lekki Phase 2,Detached Duplex,Lekki
+110000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+60000000.0,0,0,0,4,5,4,Chevron,Semi Detached Duplex,Lekki
+130000000.0,1,1,1,5,5,6,Ikate,Detached Duplex,Lekki
+285000000.0,0,1,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+65000000.0,0,0,0,5,5,5,Victoria Island Extension,Detached Duplex,Victoria Island
+90000000.0,0,0,0,4,4,4,Ikate,Terraced Duplex,Lekki
+53000000.0,0,0,0,4,4,4,Ikota,Detached Duplex,Lekki
+500000000.0,0,0,0,5,7,6,GRA,Detached Duplex,Ikeja
+64000000.0,1,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+230000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+65000000.0,0,0,0,5,5,6,Omole,Semi Detached Duplex,Ikeja
+125000000.0,1,1,1,5,6,6,Adeniyi Jones,Terraced Duplex,Ikeja
+60000000.0,0,1,0,2,2,3,Other Lekki,Terraced Duplex,Lekki
+75000000.0,0,1,0,0,0,5,Ikota,Detached Duplex,Lekki
+480000000.0,0,0,0,5,5,6,Banana Island,Semi Detached Duplex,Ikoyi
+450000000.0,0,1,0,6,6,7,Osapa London,Detached Duplex,Lekki
+90000000.0,0,0,0,5,6,6,Adeniyi Jones,Detached Duplex,Ikeja
+140000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+56000000.0,0,1,1,4,4,4,Chevron,Terraced Duplex,Lekki
+350000000.0,0,0,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+37000000.0,0,0,0,4,3,3,Lekki Phase 1,Semi Detached Duplex,Lekki
+165000000.0,0,1,1,5,5,6,Other Victoria Island,Semi Detached Duplex,Victoria Island
+450000000.0,1,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+200000000.0,0,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+290000000.0,1,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+38000000.0,0,1,0,5,4,5,Osapa London,Terraced Duplex,Lekki
+58000000.0,0,0,0,5,5,5,Allen Avenue,Terraced Duplex,Ikeja
+40000000.0,0,1,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,4,6,5,Adeniyi Jones,Semi Detached Duplex,Ikeja
+280000000.0,0,1,1,5,6,6,Old Ikoyi,Detached Duplex,Ikoyi
+290000000.0,0,0,0,5,6,7,Onikoyi,Detached Duplex,Ikoyi
+220000000.0,0,0,1,4,5,5,Alausa,Detached Duplex,Ikeja
+35000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+97000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+65000000.0,0,0,0,3,3,4,Lekki Phase 1,Terraced Duplex,Lekki
+130000000.0,0,0,0,5,5,6,Allen Avenue,Semi Detached Duplex,Ikeja
+185000000.0,1,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+130000000.0,1,1,0,4,4,5,Ologolo,Detached Duplex,Lekki
+160000000.0,1,1,0,4,4,5,Other Ikoyi,Terraced Duplex,Ikoyi
+140000000.0,0,0,0,5,5,6,Oniru,Terraced Duplex,Victoria Island
+90000000.0,0,1,0,4,5,6,Chevron,Semi Detached Duplex,Lekki
+150000000.0,0,1,0,5,5,6,Other Lekki,Semi Detached Duplex,Lekki
+80000000.0,1,1,0,5,6,6,Victoria Garden City,Detached Duplex,Lekki
+57000000.0,1,1,1,4,4,5,Other Lekki,Terraced Duplex,Lekki
+75000000.0,0,0,0,5,5,6,Chevron,Terraced Duplex,Lekki
+130000000.0,0,1,0,4,5,5,Ikate,Terraced Duplex,Lekki
+58000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+80000000.0,1,1,1,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+160000000.0,0,1,0,6,6,7,Adeniyi Jones,Detached Duplex,Ikeja
+110000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+85000000.0,0,1,0,4,4,5,Oniru,Terraced Duplex,Victoria Island
+85000000.0,0,1,1,2,3,0,Lekki Phase 1,Terraced Duplex,Lekki
+82000000.0,0,0,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+175000000.0,0,0,1,4,6,6,Agungi,Detached Duplex,Lekki
+90000000.0,0,0,0,5,6,6,Osapa London,Detached Duplex,Lekki
+47000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+55000000.0,0,0,0,6,6,7,Ikate,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,4,Victoria Garden City,Detached Duplex,Lekki
+100000000.0,0,1,0,4,4,5,Oniru,Terraced Duplex,Victoria Island
+78000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+450000000.0,0,1,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+40000000.0,0,0,1,4,4,5,Ikota,Detached Duplex,Lekki
+135000000.0,0,0,0,4,4,5,Chevron,Detached Duplex,Lekki
+120000000.0,0,0,0,4,5,5,Chevron,Detached Duplex,Lekki
+120000000.0,0,0,0,4,4,5,Other Ikeja,Detached Duplex,Ikeja
+195000000.0,0,1,1,5,5,6,Other Lekki,Detached Duplex,Lekki
+130000000.0,1,1,0,4,5,5,GRA,Detached Duplex,Ikeja
+51000000.0,0,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+200000000.0,0,1,0,3,4,4,Other Victoria Island,Terraced Duplex,Victoria Island
+125000000.0,0,0,0,4,5,6,Other Lekki,Detached Duplex,Lekki
+125000000.0,1,1,1,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+110000000.0,1,1,1,4,4,4,Ikate,Semi Detached Duplex,Lekki
+58000000.0,0,0,1,4,6,6,Chevron,Detached Duplex,Lekki
+68000000.0,0,1,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+55000000.0,0,1,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+165000000.0,0,1,0,4,4,5,GRA,Terraced Duplex,Ikeja
+70000000.0,1,1,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+76000000.0,0,1,1,4,4,5,Chevron,Terraced Duplex,Lekki
+130000000.0,0,0,0,3,3,4,Lekki Phase 1,Detached Duplex,Lekki
+78000000.0,0,0,0,5,5,5,Ikate,Detached Duplex,Lekki
+75000000.0,0,1,0,5,6,7,Chevron,Semi Detached Duplex,Lekki
+70000000.0,1,1,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+45000000.0,1,1,1,4,4,5,Ikota,Detached Duplex,Lekki
+150000000.0,0,1,0,3,3,4,Lekki Phase 1,Detached Duplex,Lekki
+125000000.0,0,1,1,4,4,5,Ikota,Detached Duplex,Lekki
+220000000.0,1,1,0,5,5,6,Oniru,Detached Duplex,Victoria Island
+85000000.0,0,0,0,5,5,6,Victoria Garden City,Detached Duplex,Lekki
+125000000.0,0,1,0,5,5,5,Lekki Phase 1,Terraced Duplex,Lekki
+45000000.0,1,1,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+260000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+110000000.0,0,0,0,5,6,6,Ikate,Semi Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+250000000.0,1,1,0,5,5,6,Other Ikoyi,Semi Detached Duplex,Ikoyi
+155000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+54000000.0,0,1,0,4,4,4,Lekki Phase 2,Semi Detached Duplex,Lekki
+214000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+100000000.0,0,0,0,6,6,6,Other Lekki,Detached Duplex,Lekki
+85000000.0,0,1,0,4,5,5,Agungi,Semi Detached Duplex,Lekki
+39000000.0,0,0,0,3,3,4,Ikota,Terraced Duplex,Lekki
+500000000.0,0,0,1,6,6,7,Other Lekki,Detached Duplex,Lekki
+140000000.0,0,0,0,5,5,5,Victoria Garden City,Detached Duplex,Lekki
+45000000.0,1,1,1,3,3,4,Lekki Phase 2,Terraced Duplex,Lekki
+110000000.0,0,0,0,4,4,5,Ologolo,Detached Duplex,Lekki
+65000000.0,0,0,0,5,4,4,Lekki Phase 1,Detached Duplex,Lekki
+170000000.0,0,1,0,5,6,7,Adeniyi Jones,Detached Duplex,Ikeja
+500000000.0,0,1,0,5,5,5,Other Ikoyi,Detached Duplex,Ikoyi
+75000000.0,1,1,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+175000000.0,1,1,0,5,5,6,Ikate,Terraced Duplex,Lekki
+150000000.0,0,1,0,4,5,4,Agungi,Detached Duplex,Lekki
+450000000.0,0,0,0,6,6,7,Banana Island,Detached Duplex,Ikoyi
+55000000.0,0,1,1,4,4,4,Ikota,Terraced Duplex,Lekki
+270000000.0,0,1,0,4,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+60000000.0,1,1,0,5,4,5,Ologolo,Terraced Duplex,Lekki
+170000000.0,0,0,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+280000000.0,1,1,0,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+95000000.0,0,1,0,4,4,4,Other Ikeja,Detached Duplex,Ikeja
+45000000.0,0,0,0,5,5,6,Agungi,Semi Detached Duplex,Lekki
+63000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+93000000.0,0,0,0,5,5,6,Omole,Detached Duplex,Ikeja
+83000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+135000000.0,0,1,0,5,5,6,Adeniyi Jones,Semi Detached Duplex,Ikeja
+48000000.0,0,1,0,4,5,5,Osapa London,Detached Duplex,Lekki
+300000000.0,0,1,0,4,4,5,Parkview,Semi Detached Duplex,Ikoyi
+55000000.0,0,1,0,4,5,5,Lekki Phase 2,Terraced Duplex,Lekki
+95000000.0,0,0,1,4,4,5,Chevron,Detached Duplex,Lekki
+48000000.0,0,1,0,3,4,5,Other Lekki,Terraced Duplex,Lekki
+120000000.0,0,1,1,5,5,5,Chevron,Detached Duplex,Lekki
+187000000.0,0,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+40000000.0,1,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+400000000.0,0,1,0,5,5,6,Other Ikoyi,Detached Duplex,Ikoyi
+75000000.0,0,1,0,4,4,6,Chevron,Semi Detached Duplex,Lekki
+100000000.0,0,0,1,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+78000000.0,0,1,0,5,6,6,Osapa London,Detached Duplex,Lekki
+230000000.0,0,1,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+230000000.0,0,1,1,6,8,8,GRA,Detached Duplex,Ikeja
+130000000.0,0,0,0,5,6,6,Ikota,Detached Duplex,Lekki
+68000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+130000000.0,0,1,0,4,4,5,Ologolo,Semi Detached Duplex,Lekki
+170000000.0,0,1,0,5,5,5,Oniru,Semi Detached Duplex,Victoria Island
+75000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+67000000.0,1,1,0,4,4,5,Ikota,Terraced Duplex,Lekki
+50000000.0,1,0,0,4,5,5,Lekki Phase 2,Detached Duplex,Lekki
+230000000.0,0,1,0,4,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+320000000.0,0,1,0,4,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+160000000.0,0,1,0,4,4,5,GRA,Semi Detached Duplex,Ikeja
+80000000.0,0,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+190000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+110000000.0,0,0,0,5,5,6,Chevron,Semi Detached Duplex,Lekki
+55000000.0,1,1,0,4,5,5,Chevron,Terraced Duplex,Lekki
+69000000.0,0,1,0,4,6,6,Chevron,Detached Duplex,Lekki
+86000000.0,0,0,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+185000000.0,1,1,0,3,3,4,Other Victoria Island,Detached Duplex,Victoria Island
+90000000.0,0,0,0,5,5,6,Maryland,Semi Detached Duplex,Ikeja
+78000000.0,0,0,0,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+120000000.0,1,1,1,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+380000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+150000000.0,0,0,0,4,3,4,Parkview,Detached Duplex,Ikoyi
+120000000.0,0,0,1,5,5,6,Other Lekki,Detached Duplex,Lekki
+75000000.0,1,1,1,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+85000000.0,0,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+90000000.0,0,0,1,5,6,6,Osapa London,Detached Duplex,Lekki
+130000000.0,0,0,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+40000000.0,0,1,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+220000000.0,0,0,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+120000000.0,1,0,1,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+120000000.0,0,1,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+120000000.0,0,1,0,5,6,6,Agidingbi,Detached Duplex,Ikeja
+45000000.0,0,1,0,4,5,6,Ikota,Semi Detached Duplex,Lekki
+140000000.0,0,1,0,4,4,5,Other Ikoyi,Semi Detached Duplex,Ikoyi
+450000000.0,0,1,0,4,4,5,Banana Island,Semi Detached Duplex,Ikoyi
+60000000.0,0,0,0,4,5,6,Chevron,Semi Detached Duplex,Lekki
+185000000.0,1,1,0,4,4,4,Lekki Phase 1,Terraced Duplex,Lekki
+60000000.0,1,1,1,4,5,6,Lekki Phase 2,Detached Duplex,Lekki
+105000000.0,0,0,0,4,4,4,Other Victoria Island,Terraced Duplex,Victoria Island
+100000000.0,0,0,0,4,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+55000000.0,0,0,0,4,4,5,Ologolo,Detached Duplex,Lekki
+280000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+40000000.0,0,0,0,5,5,5,Agungi,Detached Duplex,Lekki
+250000000.0,0,0,0,4,4,5,Adeniyi Jones,Terraced Duplex,Ikeja
+55000000.0,0,1,1,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+180000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+160000000.0,0,0,0,3,3,4,Chevron,Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,4,Agungi,Detached Duplex,Lekki
+300000000.0,0,0,0,5,6,6,Chevron,Detached Duplex,Lekki
+62000000.0,0,0,0,4,5,5,Other Lekki,Detached Duplex,Lekki
+150000000.0,0,0,0,4,4,5,Airport Road,Detached Duplex,Ikeja
+160000000.0,0,0,0,5,5,5,Oniru,Detached Duplex,Victoria Island
+220000000.0,0,1,0,5,5,6,Parkview,Detached Duplex,Ikoyi
+65000000.0,1,1,0,4,4,4,Ikota,Semi Detached Duplex,Lekki
+125000000.0,0,0,0,4,4,5,Victoria Island Extension,Detached Duplex,Victoria Island
+95000000.0,0,0,0,5,6,6,Chevron,Detached Duplex,Lekki
+65000000.0,0,1,0,4,5,6,Chevron,Semi Detached Duplex,Lekki
+280000000.0,0,1,1,5,5,6,Foreshore,Semi Detached Duplex,Ikoyi
+60000000.0,1,1,1,0,3,4,Osapa London,Terraced Duplex,Lekki
+85000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+87000000.0,0,1,1,4,4,5,Victoria Garden City,Terraced Duplex,Lekki
+59000000.0,0,1,1,5,5,5,Chevron,Semi Detached Duplex,Lekki
+180000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+135000000.0,0,0,1,4,4,5,Chevron,Detached Duplex,Lekki
+75000000.0,0,0,0,3,3,4,Other Victoria Island,Terraced Duplex,Victoria Island
+250000000.0,0,1,0,6,6,7,GRA,Detached Duplex,Ikeja
+70000000.0,0,0,0,5,5,5,Omole,Detached Duplex,Ikeja
+120000000.0,0,0,0,6,6,6,Lekki Phase 1,Detached Duplex,Lekki
+85000000.0,0,1,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+240000000.0,0,1,0,5,6,6,Alausa,Detached Duplex,Ikeja
+160000000.0,0,1,0,4,5,5,Lekki Phase 1,Terraced Duplex,Lekki
+56000000.0,0,1,0,4,6,6,Osapa London,Detached Duplex,Lekki
+35850000.0,0,0,0,3,3,4,Ikota,Terraced Duplex,Lekki
+95000000.0,0,1,0,5,7,8,Lekki Phase 2,Detached Duplex,Lekki
+50000000.0,0,1,0,4,4,5,Ologolo,Detached Duplex,Lekki
+230000000.0,1,1,0,5,5,6,Other Ikoyi,Detached Duplex,Ikoyi
+140000000.0,0,0,0,3,3,0,Foreshore,Terraced Duplex,Ikoyi
+180000000.0,0,1,0,4,4,5,GRA,Detached Duplex,Ikeja
+115000000.0,0,1,1,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+300000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+195000000.0,0,0,0,5,6,6,Victoria Garden City,Detached Duplex,Lekki
+85000000.0,0,0,0,5,7,8,Other Lekki,Detached Duplex,Lekki
+50000000.0,0,0,0,4,5,5,Agungi,Detached Duplex,Lekki
+70000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+175000000.0,1,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+270000000.0,0,1,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+60000000.0,0,1,0,5,5,5,Chevron,Detached Duplex,Lekki
+65000000.0,0,1,0,5,5,5,Other Lekki,Terraced Duplex,Lekki
+145000000.0,0,0,0,5,5,7,Other Lekki,Detached Duplex,Lekki
+55000000.0,0,1,0,3,4,5,Chevron,Detached Duplex,Lekki
+145000000.0,0,1,0,4,5,5,Osapa London,Detached Duplex,Lekki
+480000000.0,0,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+350000000.0,0,0,0,5,5,6,Other Ikoyi,Semi Detached Duplex,Ikoyi
+40000000.0,0,1,1,4,6,6,Ikota,Semi Detached Duplex,Lekki
+55000000.0,0,0,0,4,5,5,Other Lekki,Terraced Duplex,Lekki
+75000000.0,0,0,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+420000000.0,0,1,0,9,9,9,Other Lekki,Detached Duplex,Lekki
+30000000.0,0,0,0,5,5,5,Osapa London,Detached Duplex,Lekki
+42000000.0,0,0,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+200000000.0,0,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+41800000.0,0,0,0,4,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+59000000.0,0,1,0,5,5,5,Ikota,Detached Duplex,Lekki
+140000000.0,0,1,0,5,6,6,Osapa London,Detached Duplex,Lekki
+270000000.0,1,1,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+230000000.0,0,1,1,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+60000000.0,0,1,0,5,5,6,Chevron,Semi Detached Duplex,Lekki
+80000000.0,0,1,0,4,5,5,Lekki Phase 2,Detached Duplex,Lekki
+155000000.0,0,0,0,4,4,5,Chevron,Detached Duplex,Lekki
+160000000.0,0,1,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+260000000.0,0,0,0,5,4,4,Banana Island,Semi Detached Duplex,Ikoyi
+100000000.0,0,0,1,4,4,5,Chevron,Detached Duplex,Lekki
+30000000.0,0,1,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+38500000.0,0,0,0,4,4,5,Ikate,Terraced Duplex,Lekki
+140000000.0,0,1,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+75000000.0,0,0,1,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+55000000.0,0,0,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+140000000.0,0,1,1,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+72000000.0,0,1,0,4,4,4,Ikate,Detached Duplex,Lekki
+270000000.0,1,1,0,5,5,6,Ologolo,Detached Duplex,Lekki
+250000000.0,0,1,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+350000000.0,0,1,0,5,6,7,Osapa London,Detached Duplex,Lekki
+70000000.0,0,1,1,5,5,6,Ikota,Detached Duplex,Lekki
+130000000.0,0,0,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+135000000.0,0,0,0,5,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+110000000.0,0,0,0,5,7,5,Ikota,Detached Duplex,Lekki
+50000000.0,0,0,0,4,4,4,Ikota,Terraced Duplex,Lekki
+60000000.0,0,0,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+70000000.0,0,1,0,4,5,5,Chevron,Terraced Duplex,Lekki
+65000000.0,0,0,0,5,6,6,Ikota,Detached Duplex,Lekki
+165000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+190000000.0,0,0,0,4,3,4,Parkview,Semi Detached Duplex,Ikoyi
+47500000.0,0,1,1,4,4,4,Ologolo,Semi Detached Duplex,Lekki
+90000000.0,1,1,0,3,3,4,Ikate,Terraced Duplex,Lekki
+115000000.0,0,0,0,5,5,5,Ikate,Detached Duplex,Lekki
+90000000.0,0,0,0,3,4,4,Allen Avenue,Semi Detached Duplex,Ikeja
+100000000.0,1,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+150000000.0,1,1,0,5,5,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+36000000.0,0,1,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+56000000.0,0,1,0,4,6,6,Osapa London,Semi Detached Duplex,Lekki
+80000000.0,1,0,0,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+90000000.0,0,0,1,5,5,5,Other Lekki,Detached Duplex,Lekki
+350000000.0,0,1,0,5,5,6,Other Ikoyi,Detached Duplex,Ikoyi
+60000000.0,0,1,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+117000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+80000000.0,0,0,0,5,7,5,Chevron,Detached Duplex,Lekki
+140000000.0,0,0,0,6,6,7,Victoria Garden City,Detached Duplex,Lekki
+35000000.0,0,1,1,3,3,4,Osapa London,Terraced Duplex,Lekki
+55000000.0,1,1,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+95000000.0,0,0,0,6,6,6,Other Lekki,Detached Duplex,Lekki
+45000000.0,0,1,0,4,4,5,Agungi,Detached Duplex,Lekki
+60000000.0,0,1,0,4,5,6,Lekki Phase 2,Detached Duplex,Lekki
+240000000.0,0,0,0,4,4,5,Old Ikoyi,Terraced Duplex,Ikoyi
+75000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+70000000.0,0,0,0,5,6,6,Chevron,Detached Duplex,Lekki
+110000000.0,0,0,0,5,6,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+38000000.0,1,0,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+125000000.0,0,0,0,5,6,7,Victoria Garden City,Detached Duplex,Lekki
+49000000.0,0,0,0,4,4,4,Ikota,Detached Duplex,Lekki
+300000000.0,0,1,0,5,5,5,Other Ikoyi,Semi Detached Duplex,Ikoyi
+120000000.0,0,0,1,5,5,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+80000000.0,0,1,0,5,6,6,Lekki Phase 2,Detached Duplex,Lekki
+300000000.0,0,1,0,4,4,5,Onikoyi,Detached Duplex,Ikoyi
+200000000.0,0,0,0,4,4,6,Osapa London,Detached Duplex,Lekki
+48000000.0,0,1,1,4,6,6,Ikota,Detached Duplex,Lekki
+38000000.0,0,0,0,3,4,4,Lekki Phase 2,Semi Detached Duplex,Lekki
+180000000.0,1,1,1,4,4,5,Ikota,Detached Duplex,Lekki
+190000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+115000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+79500000.0,1,1,0,5,4,5,Victoria Garden City,Detached Duplex,Lekki
+290000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+130000000.0,1,1,1,5,5,5,Lekki Phase 1,Terraced Duplex,Lekki
+230000000.0,0,0,0,5,6,7,Lekki Phase 1,Detached Duplex,Lekki
+40000000.0,0,1,0,4,4,5,Agungi,Terraced Duplex,Lekki
+275000000.0,0,0,0,5,5,6,Ologolo,Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+120000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+180000000.0,0,0,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+230000000.0,0,1,0,5,5,5,Ikate,Detached Duplex,Lekki
+140000000.0,0,0,0,5,5,4,Lekki Phase 1,Detached Duplex,Lekki
+245000000.0,0,1,0,5,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+120000000.0,0,1,1,5,5,5,Other Lekki,Detached Duplex,Lekki
+50000000.0,0,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+160000000.0,0,1,1,5,5,6,Ikate,Detached Duplex,Lekki
+130000000.0,0,1,0,5,5,5,Chevron,Detached Duplex,Lekki
+41500000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+55000000.0,0,0,1,4,4,4,Chevron,Semi Detached Duplex,Lekki
+155000000.0,0,1,0,5,6,6,Chevron,Detached Duplex,Lekki
+75000000.0,0,0,0,3,0,0,Lekki Phase 1,Semi Detached Duplex,Lekki
+65000000.0,1,1,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+36000000.0,0,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+50000000.0,0,1,0,4,4,5,Ologolo,Semi Detached Duplex,Lekki
+115000000.0,0,1,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+92000000.0,0,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+128000000.0,0,1,1,4,5,5,Chevron,Semi Detached Duplex,Lekki
+210000000.0,0,1,0,4,4,5,Other Victoria Island,Terraced Duplex,Victoria Island
+75000000.0,1,0,0,4,5,5,Agungi,Semi Detached Duplex,Lekki
+100000000.0,0,0,0,5,5,6,Allen Avenue,Detached Duplex,Ikeja
+95000000.0,0,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+135000000.0,1,1,0,4,4,5,Agungi,Detached Duplex,Lekki
+160000000.0,0,0,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+110000000.0,0,1,0,4,4,5,Oniru,Terraced Duplex,Victoria Island
+100000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+40000000.0,0,0,0,4,5,6,Ikota,Semi Detached Duplex,Lekki
+155700000.0,0,1,0,8,8,0,Chevron,Semi Detached Duplex,Lekki
+140000000.0,0,0,1,5,6,6,Omole,Detached Duplex,Ikeja
+55000000.0,0,0,0,4,3,3,Chevron,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+180000000.0,0,0,0,5,5,6,Victoria Garden City,Detached Duplex,Lekki
+150000000.0,0,1,1,5,5,6,Ikate,Detached Duplex,Lekki
+53000000.0,0,0,0,3,3,4,Other Lekki,Terraced Duplex,Lekki
+350000000.0,0,1,1,5,5,6,GRA,Detached Duplex,Ikeja
+185000000.0,0,1,1,5,5,6,Ikate,Semi Detached Duplex,Lekki
+110000000.0,1,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+190000000.0,0,1,0,5,5,6,Chevron,Terraced Duplex,Lekki
+54000000.0,0,0,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+57000000.0,1,1,1,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+35000000.0,0,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+125000000.0,0,1,1,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+79000000.0,1,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+140000000.0,0,1,0,4,4,5,Opebi,Detached Duplex,Ikeja
+84000000.0,0,1,0,4,4,4,Chevron,Semi Detached Duplex,Lekki
+200000000.0,1,1,1,4,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+70000000.0,0,1,0,4,4,6,Chevron,Semi Detached Duplex,Lekki
+260000000.0,0,0,0,4,4,5,Old Ikoyi,Terraced Duplex,Ikoyi
+48000000.0,0,1,1,4,6,6,Chevron,Semi Detached Duplex,Lekki
+200000000.0,0,1,0,5,5,5,Ikota,Detached Duplex,Lekki
+250000000.0,1,1,0,4,5,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+75000000.0,0,0,1,4,4,5,Ikate,Terraced Duplex,Lekki
+40000000.0,0,1,1,4,2,2,Chevron,Detached Duplex,Lekki
+120000000.0,0,1,0,5,5,5,Oniru,Detached Duplex,Victoria Island
+130000000.0,0,1,1,4,5,5,Chevron,Detached Duplex,Lekki
+400000000.0,1,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+55000000.0,0,1,0,4,4,4,Ologolo,Semi Detached Duplex,Lekki
+130000000.0,0,0,0,3,3,4,Oniru,Detached Duplex,Victoria Island
+75000000.0,0,1,0,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+98000000.0,0,1,0,5,6,6,Ikate,Detached Duplex,Lekki
+205000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+123000000.0,0,0,0,5,5,5,Lekki Phase 2,Detached Duplex,Lekki
+50000000.0,0,0,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+36000000.0,0,0,0,3,3,4,Ikota,Terraced Duplex,Lekki
+300000000.0,0,1,0,5,5,6,Victoria Garden City,Detached Duplex,Lekki
+55000000.0,1,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+75000000.0,1,1,0,4,4,5,Agungi,Detached Duplex,Lekki
+85000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+120000000.0,0,0,1,5,5,5,Ikate,Detached Duplex,Lekki
+280000000.0,0,0,0,4,4,5,Other Ikoyi,Terraced Duplex,Ikoyi
+75000000.0,0,0,0,4,3,3,Other Lekki,Terraced Duplex,Lekki
+130000000.0,0,1,0,5,6,6,Lekki Phase 2,Detached Duplex,Lekki
+75000000.0,0,1,0,4,5,5,Ikota,Semi Detached Duplex,Lekki
+450000000.0,0,0,0,4,4,5,Other Ikoyi,Semi Detached Duplex,Ikoyi
+75000000.0,0,1,0,5,6,7,Lekki Phase 2,Detached Duplex,Lekki
+320000000.0,0,1,1,5,7,7,Other Lekki,Detached Duplex,Lekki
+57000000.0,1,1,0,4,4,4,Lekki Phase 2,Semi Detached Duplex,Lekki
+90000000.0,0,1,1,4,3,5,Chevron,Semi Detached Duplex,Lekki
+96000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+55000000.0,0,0,0,4,4,4,Opebi,Detached Duplex,Ikeja
+300000000.0,1,1,0,4,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+70000000.0,0,0,0,4,4,5,Opebi,Terraced Duplex,Ikeja
+70000000.0,1,1,1,4,3,3,Other Lekki,Semi Detached Duplex,Lekki
+110000000.0,0,1,0,3,3,4,Lekki Phase 2,Terraced Duplex,Lekki
+80000000.0,0,1,0,4,5,5,Adeniyi Jones,Terraced Duplex,Ikeja
+65000000.0,0,0,0,4,4,4,Agungi,Terraced Duplex,Lekki
+175000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+250000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+80000000.0,0,0,0,4,4,5,Oniru,Terraced Duplex,Victoria Island
+185000000.0,0,0,0,5,5,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+70000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+85000000.0,0,1,1,5,6,6,Other Ikeja,Semi Detached Duplex,Ikeja
+110000000.0,1,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+165000000.0,0,0,0,5,5,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+400000000.0,0,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+62000000.0,0,0,0,5,5,6,Ikate,Terraced Duplex,Lekki
+70000000.0,0,0,0,4,4,4,Awolowo Way,Terraced Duplex,Ikeja
+260000000.0,0,0,0,4,3,4,Lekki Phase 1,Semi Detached Duplex,Lekki
+250000000.0,0,1,0,6,5,8,Victoria Garden City,Detached Duplex,Lekki
+80000000.0,0,0,0,4,4,5,Old Ikoyi,Semi Detached Duplex,Ikoyi
+180000000.0,1,0,0,4,4,5,Other Victoria Island,Detached Duplex,Victoria Island
+200000000.0,1,1,1,5,6,6,Ikota,Detached Duplex,Lekki
+135000000.0,0,0,0,5,5,6,Agungi,Detached Duplex,Lekki
+100000000.0,0,0,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+220000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+65000000.0,1,1,0,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+95000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+75000000.0,0,0,0,4,5,4,Osapa London,Terraced Duplex,Lekki
+40000000.0,0,1,1,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+160000000.0,0,1,0,5,6,7,Ikota,Detached Duplex,Lekki
+57000000.0,1,1,0,4,4,5,Ikota,Terraced Duplex,Lekki
+90000000.0,0,0,0,4,4,4,Osapa London,Terraced Duplex,Lekki
+85000000.0,0,0,1,4,4,5,Ikota,Detached Duplex,Lekki
+130000000.0,0,0,0,5,6,6,Other Lekki,Detached Duplex,Lekki
+210000000.0,0,1,1,4,6,6,Lekki Phase 1,Detached Duplex,Lekki
+70000000.0,0,0,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+45000000.0,0,0,0,4,3,4,Chevron,Semi Detached Duplex,Lekki
+220000000.0,0,0,0,4,4,4,Lekki Phase 1,Semi Detached Duplex,Lekki
+75000000.0,1,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+300000000.0,0,0,0,6,5,7,Lekki Phase 1,Detached Duplex,Lekki
+115000000.0,1,0,1,4,4,5,Chevron,Terraced Duplex,Lekki
+36000000.0,0,1,0,4,5,5,Ikota,Detached Duplex,Lekki
+80000000.0,1,1,0,5,5,6,Victoria Garden City,Detached Duplex,Lekki
+35000000.0,0,0,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+140000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+280000000.0,0,1,0,5,6,6,Osapa London,Detached Duplex,Lekki
+80000000.0,0,0,0,4,4,4,Ikate,Terraced Duplex,Lekki
+65000000.0,0,1,1,5,6,6,Ikota,Detached Duplex,Lekki
+74000000.0,0,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+75000000.0,0,1,0,4,5,6,Ikota,Detached Duplex,Lekki
+141000000.0,0,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+50000000.0,0,0,0,4,4,4,Osapa London,Terraced Duplex,Lekki
+45000000.0,0,0,0,4,4,4,Ikota,Detached Duplex,Lekki
+110000000.0,1,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+48000000.0,0,1,1,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+320000000.0,0,1,0,5,5,5,Banana Island,Semi Detached Duplex,Ikoyi
+40000000.0,0,1,0,4,4,5,Ologolo,Terraced Duplex,Lekki
+145000000.0,1,1,0,4,4,5,Parkview,Terraced Duplex,Ikoyi
+200000000.0,0,0,0,6,6,6,Victoria Garden City,Detached Duplex,Lekki
+185000000.0,1,1,1,3,3,4,Other Victoria Island,Terraced Duplex,Victoria Island
+210000000.0,1,1,1,4,4,5,Oniru,Terraced Duplex,Victoria Island
+130000000.0,0,0,0,5,5,6,Victoria Island Extension,Semi Detached Duplex,Victoria Island
+160000000.0,0,0,0,4,4,5,Foreshore,Terraced Duplex,Ikoyi
+85000000.0,0,0,0,5,6,5,Chevron,Detached Duplex,Lekki
+55000000.0,1,0,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+120000000.0,1,1,1,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+130000000.0,0,1,0,3,3,4,Oniru,Detached Duplex,Victoria Island
+185000000.0,0,1,0,5,5,6,Oniru,Detached Duplex,Victoria Island
+58000000.0,0,0,0,4,4,4,Ikota,Terraced Duplex,Lekki
+300000000.0,1,1,1,5,5,5,Chevron,Detached Duplex,Lekki
+175000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+55000000.0,0,1,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+180000000.0,0,1,1,5,5,6,Ologolo,Detached Duplex,Lekki
+70000000.0,0,0,0,5,5,6,Chevron,Terraced Duplex,Lekki
+78000000.0,0,1,0,4,4,4,Other Lekki,Terraced Duplex,Lekki
+65000000.0,0,0,0,4,4,4,Other Lekki,Terraced Duplex,Lekki
+330000000.0,1,1,0,6,6,7,Osapa London,Detached Duplex,Lekki
+55000000.0,0,1,0,4,4,5,Ologolo,Semi Detached Duplex,Lekki
+250000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+53000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+57172500.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+85000000.0,0,0,1,4,4,5,Victoria Island Extension,Detached Duplex,Victoria Island
+120000000.0,1,0,1,5,6,6,Lekki Phase 2,Detached Duplex,Lekki
+75000000.0,0,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+60000000.0,0,1,0,4,4,4,Other Ikeja,Detached Duplex,Ikeja
+60000000.0,1,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+180000000.0,0,0,0,6,6,5,Other Lekki,Detached Duplex,Lekki
+58000000.0,0,0,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+110000000.0,1,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+30000000.0,0,1,0,2,2,2,Ologolo,Detached Duplex,Lekki
+90000000.0,0,1,0,4,4,4,Ikate,Terraced Duplex,Lekki
+115000000.0,0,0,0,5,5,6,Osapa London,Semi Detached Duplex,Lekki
+150000000.0,0,1,1,5,6,6,Ikota,Detached Duplex,Lekki
+49500000.0,0,0,0,4,4,5,Ikota,Terraced Duplex,Lekki
+95000000.0,0,0,1,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+40000000.0,0,0,0,5,6,5,Ikota,Detached Duplex,Lekki
+77500000.0,0,1,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+120000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+500000000.0,0,1,0,6,7,7,Lekki Phase 1,Detached Duplex,Lekki
+90000000.0,0,1,0,5,6,6,Ikota,Detached Duplex,Lekki
+160000000.0,0,0,0,4,4,5,Other Victoria Island,Terraced Duplex,Victoria Island
+90000000.0,0,1,1,5,5,5,Other Lekki,Semi Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,5,Victoria Island Extension,Semi Detached Duplex,Victoria Island
+450000000.0,0,1,1,5,5,5,Osapa London,Detached Duplex,Lekki
+280000000.0,0,0,0,5,5,6,Ikate,Detached Duplex,Lekki
+85000000.0,0,0,0,5,5,5,Other Ikeja,Semi Detached Duplex,Ikeja
+150000000.0,0,0,1,5,5,5,Chevron,Detached Duplex,Lekki
+32000000.0,0,1,0,3,3,3,Lekki Phase 2,Detached Duplex,Lekki
+70000000.0,0,1,0,5,5,6,Other Lekki,Terraced Duplex,Lekki
+300000000.0,0,0,0,5,7,7,Lekki Phase 1,Detached Duplex,Lekki
+57000000.0,0,0,0,4,4,5,Adeniyi Jones,Semi Detached Duplex,Ikeja
+140000000.0,0,0,1,4,5,5,Adeniyi Jones,Detached Duplex,Ikeja
+250000000.0,0,0,0,10,8,9,Opebi,Terraced Duplex,Ikeja
+75000000.0,0,0,0,5,5,6,Victoria Garden City,Semi Detached Duplex,Lekki
+65000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+390000000.0,0,1,0,6,6,7,GRA,Detached Duplex,Ikeja
+210000000.0,0,0,0,4,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+250000000.0,0,0,1,5,5,6,GRA,Detached Duplex,Ikeja
+33000000.0,0,0,0,3,3,4,Other Lekki,Terraced Duplex,Lekki
+80000000.0,0,0,0,4,4,6,Other Lekki,Detached Duplex,Lekki
+480000000.0,0,1,0,4,4,5,Banana Island,Detached Duplex,Ikoyi
+150000000.0,0,1,0,5,5,5,GRA,Detached Duplex,Ikeja
+35000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+58000000.0,0,1,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+190000000.0,0,1,1,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+100000000.0,1,0,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+130000000.0,0,1,0,5,5,6,Oniru,Terraced Duplex,Victoria Island
+210000000.0,0,0,0,4,4,5,GRA,Detached Duplex,Ikeja
+140000000.0,0,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+40000000.0,1,0,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+130000000.0,0,0,0,5,5,6,Adeniyi Jones,Detached Duplex,Ikeja
+85000000.0,0,1,0,4,4,5,Adeniyi Jones,Terraced Duplex,Ikeja
+60000000.0,0,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+80000000.0,0,1,1,5,6,6,Ikota,Detached Duplex,Lekki
+130000000.0,0,0,0,4,4,4,Other Victoria Island,Detached Duplex,Victoria Island
+480000000.0,0,1,0,6,6,7,Lekki Phase 2,Detached Duplex,Lekki
+130000000.0,0,1,0,5,5,6,Lekki Phase 1,Terraced Duplex,Lekki
+45000000.0,0,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+135000000.0,1,1,0,3,3,4,Other Ikoyi,Detached Duplex,Ikoyi
+100000000.0,0,0,0,6,5,5,Other Ikeja,Detached Duplex,Ikeja
+62000000.0,0,0,0,5,5,6,Other Lekki,Semi Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+500000000.0,1,1,0,5,5,6,Banana Island,Semi Detached Duplex,Ikoyi
+185000000.0,0,0,0,5,5,6,Old Ikoyi,Terraced Duplex,Ikoyi
+280000000.0,0,1,0,5,6,6,Victoria Garden City,Detached Duplex,Lekki
+198000000.0,0,1,0,4,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+140000000.0,0,1,0,3,3,4,Other Lekki,Detached Duplex,Lekki
+140000000.0,0,0,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+140000000.0,0,0,0,5,3,3,Other Lekki,Detached Duplex,Lekki
+170000000.0,1,1,0,4,4,5,Parkview,Terraced Duplex,Ikoyi
+60000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+195000000.0,0,0,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+230000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+115000000.0,0,0,0,7,7,8,Ikota,Detached Duplex,Lekki
+85000000.0,0,1,0,4,5,5,Ikota,Detached Duplex,Lekki
+62000000.0,1,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+95000000.0,0,0,0,4,5,5,Osapa London,Detached Duplex,Lekki
+78000000.0,0,1,0,4,4,5,Ikate,Detached Duplex,Lekki
+60000000.0,0,1,0,4,4,5,Alausa,Detached Duplex,Ikeja
+35000000.0,0,0,0,3,3,4,Victoria Garden City,Terraced Duplex,Lekki
+125000000.0,0,0,0,4,4,5,Oniru,Semi Detached Duplex,Victoria Island
+205000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+90000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+95000000.0,0,0,1,5,6,6,Osapa London,Detached Duplex,Lekki
+190000000.0,0,0,0,3,3,4,Lekki Phase 1,Detached Duplex,Lekki
+86000000.0,0,0,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+80000000.0,0,0,1,4,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+110000000.0,0,0,0,4,4,5,Other Ikoyi,Semi Detached Duplex,Ikoyi
+25000000.0,0,0,0,4,4,5,Ikota,Terraced Duplex,Lekki
+65000000.0,0,0,0,4,4,5,Victoria Garden City,Detached Duplex,Lekki
+180000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+205000000.0,0,1,1,5,7,7,Other Lekki,Detached Duplex,Lekki
+150000000.0,0,0,0,4,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+39000000.0,0,1,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+100000000.0,1,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+270000000.0,0,0,0,5,5,6,Parkview,Semi Detached Duplex,Ikoyi
+53000000.0,1,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+83000000.0,1,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+110000000.0,1,1,0,5,5,5,Lekki Phase 1,Terraced Duplex,Lekki
+390000000.0,0,0,0,7,7,8,Other Victoria Island,Detached Duplex,Victoria Island
+70000000.0,1,1,1,5,5,5,Osapa London,Semi Detached Duplex,Lekki
+210000000.0,0,1,1,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+155000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+48000000.0,0,0,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+37000000.0,0,1,1,3,3,4,Ikota,Terraced Duplex,Lekki
+105000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+59000000.0,0,1,1,4,5,5,Chevron,Detached Duplex,Lekki
+86000000.0,0,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+50000000.0,0,0,1,4,3,3,Ikate,Semi Detached Duplex,Lekki
+68000000.0,1,1,0,4,4,4,Chevron,Detached Duplex,Lekki
+37000000.0,0,0,0,4,4,5,Agungi,Terraced Duplex,Lekki
+140000000.0,1,1,1,4,4,5,Opebi,Detached Duplex,Ikeja
+115000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+58000000.0,1,1,1,4,6,6,Chevron,Detached Duplex,Lekki
+250000000.0,0,0,0,5,5,6,GRA,Detached Duplex,Ikeja
+57000000.0,0,1,0,4,4,4,Lekki Phase 2,Detached Duplex,Lekki
+135000000.0,0,1,1,4,5,6,Ikate,Detached Duplex,Lekki
+55000000.0,0,1,0,5,5,6,Other Lekki,Semi Detached Duplex,Lekki
+80000000.0,0,1,0,5,2,2,Ikota,Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,4,Ikate,Detached Duplex,Lekki
+85000000.0,0,0,0,4,5,4,Lekki Phase 1,Detached Duplex,Lekki
+55000000.0,0,1,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+100000000.0,0,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+90000000.0,1,1,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+295000000.0,0,1,1,6,6,7,Lekki Phase 1,Detached Duplex,Lekki
+69000000.0,1,1,0,5,4,5,Other Lekki,Detached Duplex,Lekki
+40000000.0,0,0,0,4,4,4,Oregun,Semi Detached Duplex,Ikeja
+69000000.0,1,1,1,4,5,6,Chevron,Detached Duplex,Lekki
+125000000.0,0,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+55000000.0,0,0,0,3,3,4,Lekki Phase 2,Detached Duplex,Lekki
+350000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+96000000.0,0,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+500000000.0,0,0,1,3,5,5,GRA,Detached Duplex,Ikeja
+170000000.0,0,1,0,5,6,6,Other Lekki,Detached Duplex,Lekki
+52000000.0,0,0,0,4,5,5,Ologolo,Semi Detached Duplex,Lekki
+35000000.0,0,0,0,4,4,5,Ikate,Terraced Duplex,Lekki
+95000000.0,0,0,0,4,4,5,Oniru,Semi Detached Duplex,Victoria Island
+30000000.0,0,1,0,3,0,0,Other Lekki,Terraced Duplex,Lekki
+350000000.0,0,0,0,6,6,7,Lekki Phase 1,Detached Duplex,Lekki
+56000000.0,0,1,1,5,5,5,Osapa London,Semi Detached Duplex,Lekki
+18500000.0,0,1,0,5,5,5,Ikate,Detached Duplex,Lekki
+85000000.0,0,1,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+75000000.0,0,1,1,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+69000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+170000000.0,0,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+140000000.0,0,0,0,4,4,5,Adeniyi Jones,Detached Duplex,Ikeja
+65000000.0,0,1,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+150000000.0,0,0,0,5,5,5,Alausa,Detached Duplex,Ikeja
+50000000.0,0,0,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+30000000.0,0,0,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+52000000.0,0,0,0,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+175000000.0,0,0,0,5,5,6,Ikate,Detached Duplex,Lekki
+160000000.0,0,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+110000000.0,0,0,0,5,7,8,Lekki Phase 1,Semi Detached Duplex,Lekki
+185000000.0,0,1,0,5,5,6,Parkview,Detached Duplex,Ikoyi
+270000000.0,0,0,0,5,6,6,Banana Island,Semi Detached Duplex,Ikoyi
+115000000.0,0,1,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+160000000.0,0,0,0,5,5,6,Other Ikeja,Detached Duplex,Ikeja
+58000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+125000000.0,0,1,0,3,3,4,Other Ikoyi,Terraced Duplex,Ikoyi
+170000000.0,1,1,1,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+200000000.0,1,1,1,5,5,6,Ikota,Detached Duplex,Lekki
+165000000.0,0,0,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+150000000.0,0,0,0,5,5,6,Ikate,Semi Detached Duplex,Lekki
+47000000.0,0,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+60000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+400000000.0,0,0,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+32750000.0,0,0,0,3,3,4,Other Lekki,Detached Duplex,Lekki
+95000000.0,1,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+230000000.0,0,0,0,5,5,6,GRA,Detached Duplex,Ikeja
+300000000.0,1,1,1,4,5,5,Other Victoria Island,Detached Duplex,Victoria Island
+120000000.0,0,0,0,4,4,5,Ologolo,Terraced Duplex,Lekki
+70000000.0,1,1,0,4,5,6,Ikota,Detached Duplex,Lekki
+50000000.0,0,1,0,3,3,4,Chevron,Terraced Duplex,Lekki
+295000000.0,0,1,0,6,6,7,Other Lekki,Terraced Duplex,Lekki
+150000000.0,0,0,1,4,5,5,Other Ikeja,Detached Duplex,Ikeja
+150000000.0,0,0,0,3,3,4,Lekki Phase 1,Terraced Duplex,Lekki
+145000000.0,0,1,0,4,5,5,Lekki Phase 1,Terraced Duplex,Lekki
+43500000.0,1,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+68000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+43000000.0,0,0,1,4,5,5,Chevron,Detached Duplex,Lekki
+120000000.0,0,1,0,5,5,5,Other Victoria Island,Terraced Duplex,Victoria Island
+37000000.0,1,1,0,2,2,2,Other Lekki,Detached Duplex,Lekki
+28000000.0,0,1,0,2,2,3,Other Lekki,Terraced Duplex,Lekki
+62000000.0,0,0,0,4,4,5,Ikate,Terraced Duplex,Lekki
+90000000.0,0,0,0,3,3,2,Lekki Phase 1,Detached Duplex,Lekki
+240000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+60000000.0,0,1,0,4,4,4,Chevron,Terraced Duplex,Lekki
+69000000.0,0,1,1,4,6,6,Other Lekki,Detached Duplex,Lekki
+100000000.0,0,1,1,5,5,6,Adeniyi Jones,Detached Duplex,Ikeja
+80000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+50000000.0,1,1,0,4,4,5,Agungi,Terraced Duplex,Lekki
+77000000.0,0,1,0,4,4,4,Adeniyi Jones,Semi Detached Duplex,Ikeja
+83000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+98000000.0,0,0,0,5,5,6,Omole,Detached Duplex,Ikeja
+63000000.0,0,1,0,5,6,6,Ikota,Detached Duplex,Lekki
+57000000.0,0,1,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+100000000.0,0,0,0,5,5,5,Alausa,Semi Detached Duplex,Ikeja
+155000000.0,0,1,0,5,6,6,Ikate,Detached Duplex,Lekki
+380000000.0,0,1,0,5,6,6,Osapa London,Detached Duplex,Lekki
+100000000.0,0,0,0,4,4,4,Other Lekki,Terraced Duplex,Lekki
+60000000.0,1,1,0,3,4,4,Osapa London,Detached Duplex,Lekki
+110000000.0,0,0,1,4,4,5,Ikate,Semi Detached Duplex,Lekki
+90000000.0,1,1,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+170000000.0,0,0,0,5,5,6,Other Lekki,Semi Detached Duplex,Lekki
+34000000.0,0,0,0,3,3,4,Ikate,Detached Duplex,Lekki
+300000000.0,0,0,0,4,5,5,Other Victoria Island,Semi Detached Duplex,Victoria Island
+55000000.0,0,1,1,4,5,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,Allen Avenue,Detached Duplex,Ikeja
+50000000.0,0,0,0,4,4,5,Adeniyi Jones,Detached Duplex,Ikeja
+150000000.0,0,1,0,4,5,5,Lekki Phase 2,Detached Duplex,Lekki
+110000000.0,0,1,0,5,6,7,Lekki Phase 2,Detached Duplex,Lekki
+130000000.0,0,0,0,4,5,5,Oniru,Terraced Duplex,Victoria Island
+70000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+280000000.0,0,0,1,5,6,6,Victoria Garden City,Detached Duplex,Lekki
+38000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+450000000.0,0,0,0,6,6,7,Lekki Phase 1,Detached Duplex,Lekki
+40000000.0,0,1,0,2,2,3,Chevron,Detached Duplex,Lekki
+79000000.0,1,1,1,5,5,5,Ikota,Detached Duplex,Lekki
+250000000.0,0,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+85000000.0,0,0,0,4,5,5,Ikota,Detached Duplex,Lekki
+39000000.0,0,1,1,3,3,4,Other Lekki,Detached Duplex,Lekki
+85000000.0,1,1,0,4,4,5,Ikate,Terraced Duplex,Lekki
+255000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+99000000.0,0,0,0,5,5,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+70000000.0,1,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,4,GRA,Terraced Duplex,Ikeja
+150000000.0,0,1,0,5,5,5,Other Ikeja,Detached Duplex,Ikeja
+55000000.0,0,0,1,4,4,4,Chevron,Detached Duplex,Lekki
+90000000.0,1,1,0,4,4,5,Ikate,Detached Duplex,Lekki
+38000000.0,0,1,1,3,4,4,Ikota,Detached Duplex,Lekki
+300000000.0,0,0,0,4,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+70000000.0,1,1,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+250000000.0,0,1,0,6,6,6,Other Lekki,Detached Duplex,Lekki
+40000000.0,0,0,0,2,2,3,Osapa London,Terraced Duplex,Lekki
+370000000.0,0,1,0,5,5,6,Ikate,Semi Detached Duplex,Lekki
+145000000.0,0,0,0,7,7,8,Ikota,Detached Duplex,Lekki
+26437500.0,0,0,0,4,4,4,Other Lekki,Terraced Duplex,Lekki
+75000000.0,0,0,0,5,5,6,Osapa London,Semi Detached Duplex,Lekki
+37000000.0,0,1,0,3,3,4,Chevron,Semi Detached Duplex,Lekki
+80000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+37000000.0,1,1,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+65000000.0,0,0,0,4,5,5,Osapa London,Semi Detached Duplex,Lekki
+22000000.0,0,0,0,4,4,5,Ikota,Terraced Duplex,Lekki
+180000000.0,0,1,0,4,5,5,Opebi,Detached Duplex,Ikeja
+80000000.0,0,0,0,4,4,5,Agidingbi,Detached Duplex,Ikeja
+450000000.0,0,1,0,5,6,6,Other Lekki,Detached Duplex,Lekki
+140000000.0,0,0,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+270000000.0,0,1,0,5,7,7,Osapa London,Detached Duplex,Lekki
+180000000.0,1,1,0,4,4,5,GRA,Detached Duplex,Ikeja
+60000000.0,0,0,0,5,5,5,Chevron,Detached Duplex,Lekki
+260000000.0,0,0,0,4,4,5,Parkview,Detached Duplex,Ikoyi
+130000000.0,1,1,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+100000000.0,0,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+120000000.0,1,1,1,5,5,6,Ikota,Detached Duplex,Lekki
+48000000.0,0,1,0,4,5,5,Osapa London,Semi Detached Duplex,Lekki
+28000000.0,0,1,0,4,5,5,Ologolo,Detached Duplex,Lekki
+43000000.0,0,0,0,3,0,0,Lekki Phase 1,Detached Duplex,Lekki
+170000000.0,0,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+170000000.0,1,1,1,5,7,7,Other Lekki,Detached Duplex,Lekki
+57000000.0,1,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+67000000.0,0,0,0,5,5,5,Chevron,Detached Duplex,Lekki
+480000000.0,0,0,0,4,5,6,GRA,Terraced Duplex,Ikeja
+120000000.0,0,1,0,5,6,6,Ikate,Detached Duplex,Lekki
+190000000.0,0,1,0,5,5,6,Agungi,Detached Duplex,Lekki
+90000000.0,0,0,1,4,4,5,GRA,Terraced Duplex,Ikeja
+280000000.0,0,0,0,5,6,6,Banana Island,Terraced Duplex,Ikoyi
+160000000.0,0,0,1,5,5,6,Agungi,Detached Duplex,Lekki
+80000000.0,0,0,0,5,5,5,Osapa London,Semi Detached Duplex,Lekki
+160000000.0,0,0,0,6,7,7,Lekki Phase 1,Detached Duplex,Lekki
+90000000.0,1,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+30000000.0,0,1,0,2,3,0,Other Lekki,Terraced Duplex,Lekki
+400000000.0,0,1,0,5,6,7,Lekki Phase 1,Detached Duplex,Lekki
+112000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+120000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+80000000.0,0,0,0,4,5,6,Other Lekki,Detached Duplex,Lekki
+75000000.0,0,0,0,4,5,5,Victoria Garden City,Semi Detached Duplex,Lekki
+128000000.0,1,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+33000000.0,0,0,0,3,3,4,Chevron,Terraced Duplex,Lekki
+105000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+135000000.0,0,0,0,5,5,5,Allen Avenue,Detached Duplex,Ikeja
+75000000.0,0,0,0,5,5,6,Ikate,Detached Duplex,Lekki
+105000000.0,0,0,0,5,6,6,Other Lekki,Detached Duplex,Lekki
+135000000.0,0,1,0,6,6,7,Adeniyi Jones,Detached Duplex,Ikeja
+400000000.0,0,0,1,5,5,6,Osapa London,Detached Duplex,Lekki
+67000000.0,0,0,0,4,4,4,Agungi,Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+45000000.0,1,1,0,3,4,4,Other Lekki,Terraced Duplex,Lekki
+205000000.0,0,0,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+90000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+450000000.0,0,1,0,5,5,6,Banana Island,Semi Detached Duplex,Ikoyi
+170000000.0,0,0,1,4,6,6,Parkview,Terraced Duplex,Ikoyi
+75000000.0,0,1,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+290000000.0,0,0,0,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+66000000.0,0,1,0,4,4,4,Chevron,Semi Detached Duplex,Lekki
+60000000.0,1,1,0,4,4,5,Ikate,Terraced Duplex,Lekki
+260000000.0,0,1,1,4,5,5,Other Ikoyi,Terraced Duplex,Ikoyi
+285000000.0,0,0,0,4,4,4,Other Ikeja,Detached Duplex,Ikeja
+140000000.0,0,1,0,4,4,5,Other Victoria Island,Terraced Duplex,Victoria Island
+44000000.0,1,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+60000000.0,0,0,0,5,5,6,Victoria Garden City,Semi Detached Duplex,Lekki
+160000000.0,1,1,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+110000000.0,0,0,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+38000000.0,0,0,0,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+155000000.0,0,0,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+350000000.0,0,0,0,6,6,6,Osapa London,Detached Duplex,Lekki
+38000000.0,0,0,1,4,5,5,Chevron,Terraced Duplex,Lekki
+53500000.0,1,1,1,4,5,5,Ikate,Semi Detached Duplex,Lekki
+150000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+185000000.0,0,0,0,7,7,7,Lekki Phase 1,Detached Duplex,Lekki
+80000000.0,0,1,0,4,4,5,Omole,Semi Detached Duplex,Ikeja
+90000000.0,0,1,0,4,4,4,Victoria Garden City,Semi Detached Duplex,Lekki
+80000000.0,1,1,1,4,4,5,Ikate,Terraced Duplex,Lekki
+78000000.0,0,1,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+150000000.0,0,0,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+175000000.0,0,0,0,4,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+225000000.0,0,1,0,6,5,6,GRA,Detached Duplex,Ikeja
+130000000.0,0,1,0,5,6,7,Agungi,Detached Duplex,Lekki
+58000000.0,0,0,0,4,4,6,Other Lekki,Detached Duplex,Lekki
+260000000.0,0,1,0,4,4,5,Old Ikoyi,Detached Duplex,Ikoyi
+120000000.0,0,0,0,4,4,5,GRA,Terraced Duplex,Ikeja
+100000000.0,0,0,1,4,5,5,Osapa London,Detached Duplex,Lekki
+65000000.0,1,1,1,4,4,5,Chevron,Terraced Duplex,Lekki
+150000000.0,0,1,0,4,4,5,Adeniyi Jones,Detached Duplex,Ikeja
+500000000.0,0,1,0,5,6,6,Other Ikoyi,Semi Detached Duplex,Ikoyi
+230000000.0,0,1,0,5,6,6,GRA,Detached Duplex,Ikeja
+300000000.0,0,0,0,5,6,6,Old Ikoyi,Semi Detached Duplex,Ikoyi
+40000000.0,0,0,0,4,6,6,Other Lekki,Terraced Duplex,Lekki
+70000000.0,0,0,0,4,4,5,Victoria Garden City,Detached Duplex,Lekki
+120000000.0,0,1,1,4,6,6,Lekki Phase 1,Terraced Duplex,Lekki
+160000000.0,0,0,0,4,4,5,GRA,Detached Duplex,Ikeja
+135000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+38000000.0,0,0,0,3,4,3,Lekki Phase 2,Semi Detached Duplex,Lekki
+230000000.0,1,0,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+350000000.0,0,1,0,5,5,6,Ikate,Semi Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+125000000.0,0,0,0,5,5,5,Ikota,Detached Duplex,Lekki
+160000000.0,0,0,1,5,5,5,Other Ikeja,Detached Duplex,Ikeja
+50000000.0,0,0,0,5,4,5,Ikota,Detached Duplex,Lekki
+65000000.0,0,0,0,4,5,5,Opebi,Terraced Duplex,Ikeja
+68000000.0,0,0,0,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+53100000.0,1,0,0,4,5,5,Chevron,Terraced Duplex,Lekki
+40000000.0,0,1,1,4,4,4,Ikota,Terraced Duplex,Lekki
+68000000.0,0,0,0,5,5,6,Chevron,Terraced Duplex,Lekki
+140000000.0,0,1,1,4,6,6,Ikate,Detached Duplex,Lekki
+55000000.0,1,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+38000000.0,0,1,0,3,4,4,Chevron,Semi Detached Duplex,Lekki
+90000000.0,1,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+198000000.0,0,1,0,5,5,5,Osapa London,Detached Duplex,Lekki
+120000000.0,0,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+130000000.0,1,1,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+120000000.0,0,0,1,4,5,5,Ikota,Detached Duplex,Lekki
+400000000.0,0,1,0,4,4,4,Parkview,Detached Duplex,Ikoyi
+76000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+115000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+180000000.0,0,1,0,5,5,6,Osapa London,Semi Detached Duplex,Lekki
+120000000.0,0,0,0,5,6,6,Ikota,Detached Duplex,Lekki
+180000000.0,0,0,0,5,5,5,Other Lekki,Semi Detached Duplex,Lekki
+55000000.0,0,0,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+85000000.0,0,1,0,4,5,4,Osapa London,Semi Detached Duplex,Lekki
+60000000.0,0,1,0,4,4,4,Ikota,Semi Detached Duplex,Lekki
+40000000.0,1,0,0,4,5,5,Other Lekki,Terraced Duplex,Lekki
+350000000.0,0,0,0,5,5,6,Other Lekki,Terraced Duplex,Lekki
+35000000.0,0,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+400000000.0,0,0,0,10,10,0,Other Victoria Island,Detached Duplex,Victoria Island
+60000000.0,0,1,0,3,3,4,Chevron,Terraced Duplex,Lekki
+120000000.0,1,1,0,5,6,6,Chevron,Detached Duplex,Lekki
+410000000.0,1,0,0,5,4,5,Victoria Garden City,Detached Duplex,Lekki
+135000000.0,0,0,0,4,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+53000000.0,0,0,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+165000000.0,0,0,0,5,6,6,Chevron,Detached Duplex,Lekki
+185000000.0,0,0,0,4,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+65000000.0,0,1,0,4,5,5,Osapa London,Semi Detached Duplex,Lekki
+100000000.0,1,0,0,5,5,5,Ikate,Semi Detached Duplex,Lekki
+50000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+75000000.0,1,1,1,4,4,4,Ikate,Terraced Duplex,Lekki
+235000000.0,1,0,0,4,5,6,Lekki Phase 1,Detached Duplex,Lekki
+55000000.0,0,1,0,3,0,0,Agungi,Terraced Duplex,Lekki
+70000000.0,0,0,0,4,4,4,Allen Avenue,Detached Duplex,Ikeja
+39000000.0,0,0,0,3,0,0,Other Lekki,Semi Detached Duplex,Lekki
+225000000.0,0,0,0,5,4,5,Victoria Garden City,Detached Duplex,Lekki
+70000000.0,0,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+250000000.0,0,1,1,5,6,6,Other Ikoyi,Terraced Duplex,Ikoyi
+65000000.0,0,1,1,3,3,4,Ikate,Terraced Duplex,Lekki
+160000000.0,0,0,0,4,4,4,Ikate,Detached Duplex,Lekki
+125000000.0,1,1,0,4,4,4,Oniru,Terraced Duplex,Victoria Island
+240000000.0,0,0,0,5,5,6,Other Ikoyi,Terraced Duplex,Ikoyi
+145000000.0,0,1,0,7,7,8,Ikota,Detached Duplex,Lekki
+92000000.0,0,0,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+160000000.0,1,1,0,4,5,5,Lekki Phase 1,Terraced Duplex,Lekki
+45000000.0,1,1,0,2,2,3,Ikate,Terraced Duplex,Lekki
+150000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+75000000.0,0,1,1,4,4,5,Ikate,Terraced Duplex,Lekki
+190000000.0,0,1,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+170000000.0,1,1,1,5,6,7,Ikota,Detached Duplex,Lekki
+130000000.0,1,1,1,5,5,6,Ikate,Terraced Duplex,Lekki
+58000000.0,0,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+65000000.0,0,1,1,4,4,5,Osapa London,Terraced Duplex,Lekki
+60000000.0,0,1,1,4,4,5,Ikate,Detached Duplex,Lekki
+130000000.0,0,0,0,6,6,6,Victoria Garden City,Detached Duplex,Lekki
+36000000.0,0,0,0,3,0,0,Ikota,Detached Duplex,Lekki
+95000000.0,0,0,0,5,6,6,Other Ikeja,Detached Duplex,Ikeja
+69000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+65000000.0,0,1,0,4,4,5,Opebi,Detached Duplex,Ikeja
+65000000.0,0,1,0,4,4,5,Allen Avenue,Detached Duplex,Ikeja
+55000000.0,0,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+110000000.0,0,0,0,5,6,6,Chevron,Detached Duplex,Lekki
+65000000.0,0,0,0,3,3,4,Ikate,Detached Duplex,Lekki
+72000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+65000000.0,1,1,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+60000000.0,1,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+210000000.0,1,1,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+70000000.0,0,0,0,4,4,4,Chevron,Terraced Duplex,Lekki
+380000000.0,1,1,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+47500000.0,0,0,0,4,4,5,Ologolo,Detached Duplex,Lekki
+260000000.0,0,1,0,4,4,4,Other Ikoyi,Terraced Duplex,Ikoyi
+68000000.0,0,0,0,5,6,6,Ikota,Detached Duplex,Lekki
+230000000.0,0,0,0,4,4,5,Victoria Garden City,Detached Duplex,Lekki
+380000000.0,0,0,1,5,6,5,Lekki Phase 1,Detached Duplex,Lekki
+198000000.0,0,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+145000000.0,0,1,0,5,6,6,Ikota,Detached Duplex,Lekki
+75000000.0,1,1,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+125000000.0,1,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+80000000.0,0,1,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+50000000.0,0,0,0,4,7,6,Lekki Phase 2,Detached Duplex,Lekki
+450000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+60000000.0,0,1,0,3,0,0,Other Lekki,Terraced Duplex,Lekki
+150000000.0,1,0,0,4,4,5,Parkview,Terraced Duplex,Ikoyi
+90000000.0,0,1,0,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+40000000.0,1,0,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+180000000.0,0,1,0,4,4,5,Parkview,Terraced Duplex,Ikoyi
+220000000.0,0,0,0,3,0,0,Other Ikoyi,Detached Duplex,Ikoyi
+145000000.0,1,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+38000000.0,0,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+74000000.0,0,0,0,4,4,5,Ologolo,Detached Duplex,Lekki
+33000000.0,1,1,0,3,3,4,Chevron,Detached Duplex,Lekki
+30000000.0,0,1,1,3,3,3,Victoria Garden City,Terraced Duplex,Lekki
+120000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+75000000.0,1,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+480000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,GRA,Terraced Duplex,Ikeja
+110000000.0,0,0,0,5,7,7,Osapa London,Detached Duplex,Lekki
+95000000.0,0,0,0,4,4,5,Adeniyi Jones,Semi Detached Duplex,Ikeja
+500000000.0,0,1,0,5,5,6,Banana Island,Semi Detached Duplex,Ikoyi
+200000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+350000000.0,1,1,0,6,6,7,Osapa London,Detached Duplex,Lekki
+65000000.0,0,1,1,4,4,5,Ikota,Semi Detached Duplex,Lekki
+100000000.0,0,0,0,4,4,5,Other Victoria Island,Semi Detached Duplex,Victoria Island
+350000000.0,0,1,1,5,7,7,Banana Island,Detached Duplex,Ikoyi
+67000000.0,0,0,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+140000000.0,0,0,0,4,5,6,Ikate,Detached Duplex,Lekki
+60000000.0,0,0,0,5,6,7,Other Lekki,Detached Duplex,Lekki
+270000000.0,0,0,0,6,6,6,GRA,Detached Duplex,Ikeja
+80000000.0,0,0,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+45000000.0,0,0,0,4,4,4,Lekki Phase 2,Semi Detached Duplex,Lekki
+79000000.0,0,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+120000000.0,0,1,1,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+70000000.0,0,0,0,4,3,4,Chevron,Semi Detached Duplex,Lekki
+48000000.0,0,1,1,4,4,5,Ikota,Semi Detached Duplex,Lekki
+65000000.0,0,0,1,6,7,7,Chevron,Detached Duplex,Lekki
+74000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+40000000.0,0,1,1,4,4,5,Ikota,Terraced Duplex,Lekki
+70000000.0,0,0,1,4,5,5,Osapa London,Detached Duplex,Lekki
+235000000.0,0,0,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+400000000.0,0,1,0,7,7,8,Osapa London,Detached Duplex,Lekki
+50000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+145000000.0,0,1,0,4,4,4,Ikate,Detached Duplex,Lekki
+110000000.0,0,0,0,5,6,6,Osapa London,Detached Duplex,Lekki
+95000000.0,1,1,1,5,5,5,Adeniyi Jones,Detached Duplex,Ikeja
+280000000.0,0,0,0,5,5,6,Banana Island,Detached Duplex,Ikoyi
+40000000.0,1,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+160000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+45000000.0,0,0,0,5,5,6,Other Ikeja,Detached Duplex,Ikeja
+70000000.0,0,0,0,4,4,4,Allen Avenue,Terraced Duplex,Ikeja
+90000000.0,0,1,1,5,5,6,Ikate,Detached Duplex,Lekki
+130000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+170000000.0,0,1,0,5,5,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+380000000.0,0,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+95000000.0,0,1,0,4,4,6,Victoria Garden City,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,3,Other Lekki,Detached Duplex,Lekki
+270000000.0,0,1,0,5,5,5,Oniru,Semi Detached Duplex,Victoria Island
+90000000.0,1,1,0,5,5,5,Ikota,Detached Duplex,Lekki
+140000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+190000000.0,0,1,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+95000000.0,0,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+500000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+77000000.0,0,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+75000000.0,1,1,0,4,5,4,Ikota,Semi Detached Duplex,Lekki
+75000000.0,1,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+165000000.0,1,1,1,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+230000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+180000000.0,1,1,1,5,5,5,Chevron,Detached Duplex,Lekki
+270000000.0,1,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+205000000.0,0,0,0,5,6,6,Old Ikoyi,Terraced Duplex,Ikoyi
+50000000.0,0,1,0,3,3,4,Ikota,Detached Duplex,Lekki
+160000000.0,0,1,0,4,5,6,Ikate,Detached Duplex,Lekki
+55000000.0,1,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+50000000.0,0,0,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+270000000.0,0,0,0,4,4,5,Parkview,Detached Duplex,Ikoyi
+60000000.0,0,1,0,5,5,5,Osapa London,Semi Detached Duplex,Lekki
+57000000.0,0,1,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+170000000.0,0,0,0,5,5,5,Chevron,Detached Duplex,Lekki
+75000000.0,0,0,0,3,0,0,Maryland,Semi Detached Duplex,Ikeja
+67000000.0,0,0,0,4,4,4,Lekki Phase 2,Semi Detached Duplex,Lekki
+68000000.0,0,0,0,4,4,5,Agungi,Detached Duplex,Lekki
+58000000.0,0,0,0,5,5,6,Ikate,Semi Detached Duplex,Lekki
+400000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+180000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+38000000.0,0,1,0,4,5,5,Ikota,Semi Detached Duplex,Lekki
+165000000.0,0,1,0,7,7,8,Lekki Phase 1,Detached Duplex,Lekki
+70000000.0,0,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+130000000.0,1,0,1,4,4,5,GRA,Terraced Duplex,Ikeja
+85000000.0,1,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+63000000.0,0,1,1,5,6,6,Other Lekki,Detached Duplex,Lekki
+135000000.0,0,0,0,3,3,4,Old Ikoyi,Terraced Duplex,Ikoyi
+53000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+460000000.0,0,1,0,5,5,6,Old Ikoyi,Detached Duplex,Ikoyi
+480000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+155000000.0,0,1,1,4,6,6,Lekki Phase 1,Detached Duplex,Lekki
+115000000.0,0,0,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+90000000.0,0,1,0,5,6,6,Chevron,Detached Duplex,Lekki
+290000000.0,0,1,0,5,5,6,Oniru,Detached Duplex,Victoria Island
+140000000.0,1,1,0,4,4,6,Lekki Phase 1,Terraced Duplex,Lekki
+70000000.0,0,1,0,4,4,4,Ologolo,Terraced Duplex,Lekki
+63000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+45000000.0,0,0,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+150000000.0,0,1,0,7,7,8,Ikota,Detached Duplex,Lekki
+100000000.0,0,1,1,4,4,5,Ikate,Detached Duplex,Lekki
+155000000.0,0,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+60000000.0,0,1,0,3,3,4,Other Lekki,Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,5,Opebi,Semi Detached Duplex,Ikeja
+350000000.0,0,1,0,5,5,7,Lekki Phase 1,Detached Duplex,Lekki
+80000000.0,0,0,0,5,5,6,Omole,Detached Duplex,Ikeja
+165000000.0,0,0,0,4,4,5,Other Ikoyi,Terraced Duplex,Ikoyi
+90000000.0,1,0,0,4,4,5,Ologolo,Semi Detached Duplex,Lekki
+130000000.0,0,1,0,4,5,6,Ikate,Detached Duplex,Lekki
+90000000.0,1,1,0,4,4,4,Ikate,Detached Duplex,Lekki
+330000000.0,0,1,0,5,7,8,Chevron,Detached Duplex,Lekki
+450000000.0,0,0,0,4,5,4,Banana Island,Detached Duplex,Ikoyi
+65000000.0,0,0,0,4,4,5,Opebi,Terraced Duplex,Ikeja
+40000000.0,1,1,1,3,4,4,Ikota,Terraced Duplex,Lekki
+80000000.0,0,1,0,4,4,4,Chevron,Semi Detached Duplex,Lekki
+75000000.0,0,0,0,3,4,5,Lekki Phase 1,Detached Duplex,Lekki
+150000000.0,0,1,0,4,4,4,Ikate,Terraced Duplex,Lekki
+135000000.0,0,1,1,5,5,5,Chevron,Detached Duplex,Lekki
+110000000.0,0,1,0,4,5,6,Chevron,Detached Duplex,Lekki
+105000000.0,0,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+36000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+130000000.0,1,0,0,4,4,5,Oniru,Terraced Duplex,Victoria Island
+65000000.0,1,1,0,4,4,4,Ologolo,Semi Detached Duplex,Lekki
+33000000.0,0,1,0,3,0,0,Chevron,Terraced Duplex,Lekki
+280000000.0,0,1,1,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+70000000.0,0,0,0,6,5,5,Ikota,Terraced Duplex,Lekki
+71000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+75000000.0,1,1,1,4,5,5,Ikate,Terraced Duplex,Lekki
+250000000.0,0,0,0,4,4,4,Opebi,Semi Detached Duplex,Ikeja
+90000000.0,0,1,1,5,5,7,Other Lekki,Detached Duplex,Lekki
+100000000.0,0,0,0,3,0,0,Lekki Phase 1,Terraced Duplex,Lekki
+190000000.0,0,1,0,4,4,5,Victoria Garden City,Detached Duplex,Lekki
+135000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+95000000.0,0,0,0,6,6,7,Other Ikeja,Detached Duplex,Ikeja
+130000000.0,0,1,0,4,5,5,Ikate,Semi Detached Duplex,Lekki
+70000000.0,0,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+85000000.0,0,1,1,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+65000000.0,0,1,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+180000000.0,0,1,0,5,5,5,Ikota,Detached Duplex,Lekki
+260000000.0,0,1,0,5,5,5,Victoria Garden City,Detached Duplex,Lekki
+57000000.0,0,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+125000000.0,0,0,1,5,5,6,Other Lekki,Detached Duplex,Lekki
+125000000.0,1,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+40000000.0,0,0,0,4,4,4,Other Lekki,Terraced Duplex,Lekki
+99500000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+150000000.0,0,1,1,5,4,5,Adeniyi Jones,Terraced Duplex,Ikeja
+50000000.0,0,0,0,4,4,4,GRA,Terraced Duplex,Ikeja
+150000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+195000000.0,0,0,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+150000000.0,0,1,0,5,5,6,Other Ikeja,Detached Duplex,Ikeja
+145000000.0,1,1,0,4,5,5,Victoria Island Extension,Terraced Duplex,Victoria Island
+400000000.0,0,0,0,5,5,5,Osapa London,Detached Duplex,Lekki
+50000000.0,0,1,0,3,4,4,Ikota,Semi Detached Duplex,Lekki
+125000000.0,0,1,1,5,5,5,Lekki Phase 2,Detached Duplex,Lekki
+70000000.0,0,1,0,5,6,6,Other Lekki,Detached Duplex,Lekki
+95000000.0,0,1,1,4,4,5,Opebi,Terraced Duplex,Ikeja
+110000000.0,0,0,0,5,5,4,Chevron,Detached Duplex,Lekki
+400000000.0,0,0,0,5,6,7,Other Ikoyi,Detached Duplex,Ikoyi
+185000000.0,0,0,0,5,5,7,Other Lekki,Detached Duplex,Lekki
+70000000.0,0,0,0,5,2,6,Ikate,Detached Duplex,Lekki
+138000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+400000000.0,0,0,0,7,8,8,Lekki Phase 1,Detached Duplex,Lekki
+75000000.0,1,1,0,4,5,5,Osapa London,Terraced Duplex,Lekki
+110000000.0,1,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+80000000.0,0,1,1,4,4,4,Osapa London,Semi Detached Duplex,Lekki
+80000000.0,0,1,1,5,5,6,Ologolo,Detached Duplex,Lekki
+100990000.0,0,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+95000000.0,0,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+300000000.0,0,0,0,6,5,5,Other Lekki,Detached Duplex,Lekki
+35000000.0,0,1,1,3,3,4,Ikota,Detached Duplex,Lekki
+110000000.0,1,1,0,5,5,6,GRA,Terraced Duplex,Ikeja
+75000000.0,0,1,1,4,3,5,Ikate,Detached Duplex,Lekki
+112000000.0,0,1,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+80000000.0,0,0,0,4,5,5,Ikota,Semi Detached Duplex,Lekki
+60000000.0,1,1,1,4,5,6,Ikota,Detached Duplex,Lekki
+180000000.0,0,0,1,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+90000000.0,0,0,0,5,5,5,Agidingbi,Semi Detached Duplex,Ikeja
+75000000.0,0,0,0,4,4,4,Agungi,Semi Detached Duplex,Lekki
+85000000.0,0,1,1,4,5,6,Osapa London,Terraced Duplex,Lekki
+65000000.0,1,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+40000000.0,0,0,0,4,4,5,Agungi,Detached Duplex,Lekki
+50000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+300000000.0,0,0,0,5,5,8,GRA,Detached Duplex,Ikeja
+36000000.0,0,0,0,3,3,3,Other Lekki,Terraced Duplex,Lekki
+70000000.0,0,0,0,4,4,4,Adeniyi Jones,Detached Duplex,Ikeja
+120000000.0,1,1,0,5,5,6,Oniru,Detached Duplex,Victoria Island
+230000000.0,0,0,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+45000000.0,0,0,0,4,4,4,Chevron,Semi Detached Duplex,Lekki
+100000000.0,0,0,0,4,4,4,Oniru,Detached Duplex,Victoria Island
+48000000.0,0,0,1,4,4,4,Ikota,Semi Detached Duplex,Lekki
+230000000.0,0,1,0,6,6,7,Lekki Phase 1,Detached Duplex,Lekki
+330000000.0,0,1,0,5,5,5,Old Ikoyi,Semi Detached Duplex,Ikoyi
+45000000.0,0,1,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,5,Opebi,Terraced Duplex,Ikeja
+50000000.0,0,0,0,5,4,4,Oregun,Detached Duplex,Ikeja
+50000000.0,1,1,0,4,4,5,Opebi,Detached Duplex,Ikeja
+90000000.0,0,1,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+300000000.0,0,0,0,5,6,6,Parkview,Detached Duplex,Ikoyi
+69000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+250000000.0,0,1,1,5,5,5,GRA,Detached Duplex,Ikeja
+65000000.0,0,0,0,5,5,5,Other Victoria Island,Detached Duplex,Victoria Island
+130000000.0,0,0,0,4,4,5,Agungi,Detached Duplex,Lekki
+155000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+180000000.0,0,1,1,4,5,5,GRA,Detached Duplex,Ikeja
+150000000.0,0,0,0,6,8,8,Ikota,Detached Duplex,Lekki
+80000000.0,0,0,0,4,5,6,Ikota,Detached Duplex,Lekki
+60000000.0,0,0,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+40000000.0,0,0,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+100000000.0,0,1,1,4,6,6,Ikate,Terraced Duplex,Lekki
+32000000.0,0,0,0,3,3,4,Ikota,Terraced Duplex,Lekki
+85000000.0,1,0,0,4,4,5,Oniru,Terraced Duplex,Victoria Island
+110000000.0,0,1,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+55000000.0,0,0,0,4,5,6,Other Lekki,Semi Detached Duplex,Lekki
+150000000.0,0,0,1,5,5,6,Osapa London,Semi Detached Duplex,Lekki
+67000000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+54500000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+125000000.0,0,1,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+280000000.0,0,1,0,5,5,7,Oniru,Detached Duplex,Victoria Island
+235000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+55000000.0,0,0,0,3,0,0,Lekki Phase 2,Terraced Duplex,Lekki
+45000000.0,0,1,0,4,6,6,Osapa London,Detached Duplex,Lekki
+197000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+53000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+175000000.0,1,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+75000000.0,0,0,1,4,6,6,Oniru,Detached Duplex,Victoria Island
+80000000.0,0,0,0,4,4,5,Adeniyi Jones,Detached Duplex,Ikeja
+45000000.0,1,1,0,3,3,4,Lekki Phase 2,Terraced Duplex,Lekki
+430000000.0,0,0,0,5,5,6,Old Ikoyi,Detached Duplex,Ikoyi
+33000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+130000000.0,0,1,1,6,7,7,Adeniyi Jones,Detached Duplex,Ikeja
+160000000.0,1,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+52800000.0,0,0,0,4,5,5,Ikota,Semi Detached Duplex,Lekki
+65000000.0,0,0,0,5,4,5,Lekki Phase 1,Detached Duplex,Lekki
+130000000.0,0,0,0,5,5,5,Agungi,Detached Duplex,Lekki
+140000000.0,0,0,0,4,4,5,Opebi,Detached Duplex,Ikeja
+100000000.0,1,1,0,4,5,5,GRA,Terraced Duplex,Ikeja
+80000000.0,0,0,0,5,5,5,Other Lekki,Terraced Duplex,Lekki
+250000000.0,0,0,0,4,4,4,Adeniyi Jones,Terraced Duplex,Ikeja
+120000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+115000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+55000000.0,0,1,0,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+385000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+57000000.0,0,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+160000000.0,0,0,0,4,4,6,Ikate,Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,Maryland,Detached Duplex,Ikeja
+220000000.0,0,0,0,4,5,5,Osapa London,Detached Duplex,Lekki
+90000000.0,0,1,0,4,4,4,Lekki Phase 1,Terraced Duplex,Lekki
+120000000.0,0,1,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+180000000.0,0,1,0,5,6,6,Ikate,Detached Duplex,Lekki
+100000000.0,0,1,0,5,6,7,Lekki Phase 2,Detached Duplex,Lekki
+140000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+140000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+425000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+210000000.0,0,1,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+100000000.0,0,0,0,4,4,5,Ologolo,Detached Duplex,Lekki
+85000000.0,1,1,0,4,4,6,Other Lekki,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,4,3,3,Other Lekki,Semi Detached Duplex,Lekki
+185000000.0,0,0,0,4,4,4,Oregun,Detached Duplex,Ikeja
+125000000.0,0,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+120000000.0,0,0,0,4,5,5,Oniru,Terraced Duplex,Victoria Island
+250000000.0,0,0,0,4,4,4,Lekki Phase 1,Detached Duplex,Lekki
+60000000.0,0,1,0,3,3,4,Agungi,Detached Duplex,Lekki
+50000000.0,1,1,1,4,4,5,Airport Road,Detached Duplex,Ikeja
+47000000.0,0,0,0,4,4,5,Opebi,Detached Duplex,Ikeja
+50000000.0,0,1,0,4,4,4,Other Lekki,Semi Detached Duplex,Lekki
+130000000.0,0,0,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+55000000.0,0,0,0,4,5,5,Osapa London,Semi Detached Duplex,Lekki
+150000000.0,1,0,1,5,5,6,Chevron,Detached Duplex,Lekki
+110000000.0,0,0,0,4,5,5,Chevron,Detached Duplex,Lekki
+57000000.0,0,0,0,4,4,5,Agungi,Detached Duplex,Lekki
+380000000.0,0,0,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+145000000.0,1,1,1,5,6,6,Osapa London,Detached Duplex,Lekki
+150000000.0,0,1,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+390000000.0,0,1,0,5,6,7,Lekki Phase 1,Detached Duplex,Lekki
+85000000.0,0,1,1,4,4,4,Ikate,Terraced Duplex,Lekki
+68000000.0,0,0,0,5,6,5,Other Lekki,Detached Duplex,Lekki
+310000000.0,0,0,0,5,5,6,Other Ikoyi,Detached Duplex,Ikoyi
+230000000.0,0,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+120000000.0,0,0,0,5,5,5,Ikota,Detached Duplex,Lekki
+55000000.0,0,0,0,5,5,5,Chevron,Terraced Duplex,Lekki
+480000000.0,1,1,0,6,6,7,Osapa London,Detached Duplex,Lekki
+70000000.0,0,1,0,5,6,6,Ologolo,Detached Duplex,Lekki
+90000000.0,0,1,0,5,6,7,Opebi,Terraced Duplex,Ikeja
+68000000.0,0,0,0,4,5,4,Lekki Phase 1,Detached Duplex,Lekki
+65000000.0,1,1,0,4,4,5,Agungi,Detached Duplex,Lekki
+60000000.0,0,0,0,5,5,6,Lekki Phase 1,Terraced Duplex,Lekki
+72000000.0,0,1,0,4,5,5,Other Lekki,Detached Duplex,Lekki
+40000000.0,0,0,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+57000000.0,1,1,1,4,4,5,Chevron,Detached Duplex,Lekki
+45000000.0,0,1,0,3,3,4,Lekki Phase 1,Terraced Duplex,Lekki
+54000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+285000000.0,0,0,0,4,4,5,Foreshore,Detached Duplex,Ikoyi
+280000000.0,1,1,1,5,5,6,Oniru,Detached Duplex,Victoria Island
+56000000.0,1,0,1,4,4,5,Chevron,Terraced Duplex,Lekki
+120000000.0,0,0,0,5,5,5,Victoria Island Extension,Semi Detached Duplex,Victoria Island
+400000000.0,0,0,1,4,4,5,Banana Island,Terraced Duplex,Ikoyi
+105000000.0,1,1,0,4,4,4,Ikate,Terraced Duplex,Lekki
+215000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+75000000.0,0,1,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+78000000.0,0,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+280000000.0,1,1,1,3,3,4,Banana Island,Terraced Duplex,Ikoyi
+60000000.0,0,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+130000000.0,0,0,0,5,5,5,Adeniyi Jones,Detached Duplex,Ikeja
+500000000.0,1,1,1,5,5,5,Osapa London,Detached Duplex,Lekki
+45000000.0,0,0,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+100000000.0,0,1,0,4,5,6,Ikate,Semi Detached Duplex,Lekki
+55000000.0,0,0,0,5,5,6,Victoria Garden City,Semi Detached Duplex,Lekki
+40000000.0,0,0,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+47000000.0,0,0,0,4,4,5,Ikota,Terraced Duplex,Lekki
+72000000.0,1,1,1,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+60000000.0,0,1,0,4,4,4,Osapa London,Terraced Duplex,Lekki
+100000000.0,1,1,0,4,5,5,Ikate,Terraced Duplex,Lekki
+185000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+80000000.0,0,0,0,4,4,3,Allen Avenue,Detached Duplex,Ikeja
+70000000.0,1,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+46000000.0,1,1,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+50000000.0,0,0,0,4,5,5,Lekki Phase 2,Terraced Duplex,Lekki
+180000000.0,0,0,0,5,4,4,Other Lekki,Detached Duplex,Lekki
+45000000.0,0,0,0,4,5,6,Other Lekki,Detached Duplex,Lekki
+135000000.0,0,1,1,5,5,6,Ikate,Detached Duplex,Lekki
+180000000.0,0,1,0,4,4,5,Other Victoria Island,Terraced Duplex,Victoria Island
+45000000.0,0,0,0,0,0,4,Other Lekki,Semi Detached Duplex,Lekki
+320000000.0,0,1,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+41000000.0,0,1,0,2,3,3,Ikota,Terraced Duplex,Lekki
+350000000.0,0,1,1,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+60000000.0,0,0,0,5,5,6,Lekki Phase 2,Terraced Duplex,Lekki
+330000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+200000000.0,0,1,1,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+65000000.0,0,0,0,5,5,6,Ologolo,Detached Duplex,Lekki
+65000000.0,1,0,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+52000000.0,0,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+80000000.0,0,1,0,4,5,5,Ikota,Detached Duplex,Lekki
+52000000.0,1,1,1,4,4,4,Ikota,Terraced Duplex,Lekki
+65000000.0,0,0,0,4,4,5,Adeniyi Jones,Terraced Duplex,Ikeja
+90000000.0,1,1,1,4,5,5,Ologolo,Detached Duplex,Lekki
+140000000.0,1,1,1,5,7,7,Ikota,Detached Duplex,Lekki
+90000000.0,0,0,0,5,5,6,Ikate,Terraced Duplex,Lekki
+60000000.0,1,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+250000000.0,0,1,1,5,5,6,GRA,Detached Duplex,Ikeja
+210000000.0,1,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+52000000.0,0,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+70000000.0,0,0,0,5,6,6,Lekki Phase 2,Detached Duplex,Lekki
+80000000.0,0,0,0,5,5,6,Opebi,Semi Detached Duplex,Ikeja
+75000000.0,0,0,0,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+110000000.0,0,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+150000000.0,0,0,0,5,5,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+400000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+500000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+130000000.0,0,1,1,3,3,4,Opebi,Detached Duplex,Ikeja
+110000000.0,0,0,0,5,5,6,Omole,Detached Duplex,Ikeja
+190000000.0,0,1,0,4,4,5,Oniru,Detached Duplex,Victoria Island
+220000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+115000000.0,0,1,1,5,8,8,Chevron,Detached Duplex,Lekki
+150000000.0,1,0,1,5,5,6,Other Lekki,Detached Duplex,Lekki
+300000000.0,0,0,0,8,0,8,Other Victoria Island,Detached Duplex,Victoria Island
+100000000.0,0,1,0,5,6,6,Lekki Phase 2,Detached Duplex,Lekki
+85000000.0,0,0,0,6,6,7,Ikate,Detached Duplex,Lekki
+280000000.0,1,1,0,5,5,6,Oniru,Detached Duplex,Victoria Island
+100000000.0,1,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+120000000.0,0,1,0,4,5,5,Banana Island,Detached Duplex,Ikoyi
+63000000.0,0,1,0,4,4,4,Ikota,Detached Duplex,Lekki
+37000000.0,0,1,0,3,3,4,Victoria Garden City,Terraced Duplex,Lekki
+58000000.0,0,1,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+250000000.0,0,0,0,4,4,5,Other Ikoyi,Terraced Duplex,Ikoyi
+85000000.0,0,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+60000000.0,0,1,1,4,5,6,Osapa London,Detached Duplex,Lekki
+120000000.0,0,0,1,4,5,5,Agungi,Semi Detached Duplex,Lekki
+150005000.0,0,1,0,5,5,6,Agungi,Detached Duplex,Lekki
+65000000.0,0,0,0,5,4,5,Allen Avenue,Terraced Duplex,Ikeja
+210000000.0,0,0,0,4,4,5,Other Ikoyi,Terraced Duplex,Ikoyi
+40000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+55000000.0,0,0,0,4,5,5,Victoria Garden City,Detached Duplex,Lekki
+280000000.0,0,1,0,5,4,6,Lekki Phase 1,Detached Duplex,Lekki
+200000000.0,1,1,1,4,4,5,Osapa London,Detached Duplex,Lekki
+78000000.0,0,1,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+280000000.0,0,1,0,5,5,6,Oniru,Detached Duplex,Victoria Island
+350000000.0,0,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+50000000.0,1,1,0,3,4,4,Chevron,Detached Duplex,Lekki
+50000000.0,0,1,1,5,6,6,Ikota,Semi Detached Duplex,Lekki
+155000000.0,0,1,0,5,5,5,Ikate,Detached Duplex,Lekki
+95000000.0,1,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+80000000.0,0,1,1,4,4,5,Ologolo,Semi Detached Duplex,Lekki
+155000000.0,0,0,0,5,5,6,Agungi,Detached Duplex,Lekki
+400000000.0,0,0,0,5,5,6,Osapa London,Terraced Duplex,Lekki
+275000000.0,0,1,0,4,5,5,Oniru,Detached Duplex,Victoria Island
+100000000.0,0,0,1,4,4,5,Ikota,Terraced Duplex,Lekki
+150000000.0,0,0,0,5,5,5,Adeniyi Jones,Detached Duplex,Ikeja
+120000000.0,0,0,0,3,3,3,Lekki Phase 1,Terraced Duplex,Lekki
+130000000.0,0,1,0,4,4,6,Ikota,Semi Detached Duplex,Lekki
+47000000.0,0,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+45000000.0,0,1,0,4,5,5,Ikota,Terraced Duplex,Lekki
+75000000.0,1,1,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+50000000.0,0,1,0,4,4,4,Lekki Phase 2,Semi Detached Duplex,Lekki
+130000000.0,0,1,1,5,5,6,Other Lekki,Detached Duplex,Lekki
+110000000.0,0,1,0,3,0,4,Lekki Phase 1,Terraced Duplex,Lekki
+200000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+90000000.0,0,1,1,4,5,5,Opebi,Detached Duplex,Ikeja
+45000000.0,0,0,0,3,3,4,Ikota,Terraced Duplex,Lekki
+160000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+95000000.0,0,0,0,4,4,4,Chevron,Detached Duplex,Lekki
+85000000.0,0,0,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+300000000.0,0,0,0,5,5,5,Oniru,Detached Duplex,Victoria Island
+105000000.0,0,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+37000000.0,0,0,0,4,5,5,Chevron,Terraced Duplex,Lekki
+350000000.0,0,0,0,5,6,7,Banana Island,Terraced Duplex,Ikoyi
+63000000.0,1,1,0,4,5,5,Chevron,Detached Duplex,Lekki
+70000000.0,0,1,1,5,5,6,Ikota,Semi Detached Duplex,Lekki
+75000000.0,0,1,0,5,5,6,Agungi,Semi Detached Duplex,Lekki
+58000000.0,1,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+76000000.0,0,0,0,4,4,5,Ikota,Terraced Duplex,Lekki
+180000000.0,0,0,0,5,5,6,Foreshore,Terraced Duplex,Ikoyi
+130000000.0,0,1,1,5,5,6,Ikate,Detached Duplex,Lekki
+200000000.0,0,0,1,7,8,8,Alausa,Detached Duplex,Ikeja
+160000000.0,0,0,1,5,6,7,Chevron,Detached Duplex,Lekki
+350000000.0,0,0,0,4,4,5,Other Victoria Island,Detached Duplex,Victoria Island
+82000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+75000000.0,0,0,0,4,4,5,Allen Avenue,Detached Duplex,Ikeja
+35000000.0,0,0,0,3,3,3,Ikota,Terraced Duplex,Lekki
+56000000.0,0,0,0,4,5,5,Osapa London,Detached Duplex,Lekki
+93000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+230000000.0,0,0,1,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+65000000.0,0,0,0,4,3,4,Osapa London,Detached Duplex,Lekki
+160000000.0,0,0,0,4,5,5,GRA,Semi Detached Duplex,Ikeja
+125000000.0,0,0,0,5,6,6,Ikota,Detached Duplex,Lekki
+300000000.0,0,1,0,5,5,6,Onikoyi,Detached Duplex,Ikoyi
+30000000.0,0,0,0,4,4,4,Ikota,Detached Duplex,Lekki
+105000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+420000000.0,1,0,0,4,4,5,Old Ikoyi,Detached Duplex,Ikoyi
+75000000.0,0,0,0,4,4,4,Lekki Phase 2,Detached Duplex,Lekki
+185000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+145000000.0,0,0,0,5,5,5,Ikate,Detached Duplex,Lekki
+170000000.0,0,0,0,5,5,6,Other Ikoyi,Semi Detached Duplex,Ikoyi
+37000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+43000000.0,0,0,0,3,3,4,Ikota,Terraced Duplex,Lekki
+155000000.0,0,0,0,6,6,7,GRA,Terraced Duplex,Ikeja
+50000000.0,0,1,0,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+175000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+300000000.0,0,1,0,5,5,5,Onikoyi,Detached Duplex,Ikoyi
+230000000.0,0,0,0,5,4,5,Other Ikoyi,Detached Duplex,Ikoyi
+60000000.0,0,1,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,4,3,3,Osapa London,Detached Duplex,Lekki
+130000000.0,0,0,0,5,5,6,Ologolo,Detached Duplex,Lekki
+130000000.0,0,0,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+160000000.0,0,0,0,4,4,5,Parkview,Detached Duplex,Ikoyi
+130000000.0,0,0,0,4,4,5,Other Victoria Island,Semi Detached Duplex,Victoria Island
+45000000.0,1,1,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+275000000.0,0,1,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+150000000.0,0,1,0,4,5,5,Lekki Phase 1,Terraced Duplex,Lekki
+150000000.0,0,0,1,4,3,3,Other Lekki,Detached Duplex,Lekki
+30000000.0,0,0,0,3,4,4,Ikota,Terraced Duplex,Lekki
+92000000.0,0,1,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+65000000.0,0,0,0,4,4,4,Ikate,Semi Detached Duplex,Lekki
+180000000.0,0,0,0,4,5,5,Old Ikoyi,Terraced Duplex,Ikoyi
+95000000.0,1,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+320000000.0,0,0,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+140000000.0,1,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+170000000.0,0,0,0,4,4,5,Awolowo Way,Detached Duplex,Ikeja
+56000000.0,0,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+183000000.0,0,1,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+70000000.0,0,1,1,4,5,5,Osapa London,Detached Duplex,Lekki
+92000000.0,0,1,0,2,2,2,Lekki Phase 1,Terraced Duplex,Lekki
+48000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+73000000.0,0,0,0,5,5,5,Ikota,Detached Duplex,Lekki
+38000000.0,1,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+500000000.0,0,0,0,5,5,5,Banana Island,Detached Duplex,Ikoyi
+280000000.0,0,0,0,5,5,6,Banana Island,Terraced Duplex,Ikoyi
+11600000.0,0,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+150000000.0,1,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+500000000.0,1,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+350000000.0,0,0,0,5,6,6,Banana Island,Detached Duplex,Ikoyi
+50000000.0,0,1,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+65000000.0,0,1,0,4,4,4,Agungi,Terraced Duplex,Lekki
+120000000.0,0,1,0,5,5,6,Adeniyi Jones,Detached Duplex,Ikeja
+105000000.0,0,1,0,5,6,6,Ologolo,Detached Duplex,Lekki
+250000000.0,1,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+63000000.0,0,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+39600000.0,0,0,0,4,4,4,Lekki Phase 1,Semi Detached Duplex,Lekki
+140000000.0,0,0,0,5,5,6,Agungi,Detached Duplex,Lekki
+270000000.0,0,0,0,5,5,6,Oniru,Detached Duplex,Victoria Island
+55000000.0,0,0,0,4,5,5,Ikota,Detached Duplex,Lekki
+130000000.0,1,1,0,5,5,6,Ikate,Terraced Duplex,Lekki
+110000000.0,1,1,0,4,4,5,Osapa London,Detached Duplex,Lekki
+62000000.0,0,1,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+150000000.0,0,1,1,4,4,5,Other Victoria Island,Terraced Duplex,Victoria Island
+180000000.0,0,0,0,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+120000000.0,0,0,0,5,5,5,Lekki Phase 1,Terraced Duplex,Lekki
+65000000.0,0,0,0,4,5,5,Chevron,Detached Duplex,Lekki
+75000000.0,1,1,0,3,3,4,Other Lekki,Semi Detached Duplex,Lekki
+90000000.0,0,1,0,5,5,6,Ikate,Terraced Duplex,Lekki
+120000000.0,1,1,1,4,5,5,Lekki Phase 2,Detached Duplex,Lekki
+105000000.0,1,1,0,5,6,6,Ikate,Terraced Duplex,Lekki
+56000000.0,0,0,0,4,4,5,Victoria Garden City,Detached Duplex,Lekki
+180000000.0,0,1,0,4,4,4,GRA,Detached Duplex,Ikeja
+150000000.0,0,0,1,5,6,6,Lekki Phase 1,Detached Duplex,Lekki
+95000000.0,0,1,0,4,5,5,Osapa London,Detached Duplex,Lekki
+250000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+85000000.0,0,0,1,4,4,5,Osapa London,Detached Duplex,Lekki
+65000000.0,0,0,1,4,4,8,Other Lekki,Semi Detached Duplex,Lekki
+250000000.0,0,0,1,5,5,6,Other Ikoyi,Semi Detached Duplex,Ikoyi
+120000000.0,0,1,0,4,4,5,Agungi,Detached Duplex,Lekki
+87000000.0,0,1,0,4,4,5,Lekki Phase 2,Detached Duplex,Lekki
+70000000.0,0,0,0,4,5,5,Other Lekki,Semi Detached Duplex,Lekki
+80000000.0,0,1,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+95000000.0,1,1,0,4,5,5,Osapa London,Semi Detached Duplex,Lekki
+155000000.0,0,0,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+34000000.0,0,1,0,3,4,4,Victoria Garden City,Terraced Duplex,Lekki
+85000000.0,0,0,0,5,5,5,Agidingbi,Detached Duplex,Ikeja
+100000000.0,0,1,0,5,5,6,Agungi,Detached Duplex,Lekki
+170000000.0,0,0,0,4,5,5,Lekki Phase 1,Terraced Duplex,Lekki
+46000000.0,0,1,0,4,4,5,Ikota,Terraced Duplex,Lekki
+105000000.0,0,1,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,5,5,5,Adeniyi Jones,Terraced Duplex,Ikeja
+85000000.0,0,0,0,5,5,7,GRA,Detached Duplex,Ikeja
+220000000.0,0,1,0,5,6,7,Other Lekki,Detached Duplex,Lekki
+95000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+160000000.0,0,0,0,5,5,6,Omole,Detached Duplex,Ikeja
+33000000.0,0,0,0,3,3,4,Lekki Phase 2,Terraced Duplex,Lekki
+135000000.0,0,1,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+157000000.0,0,0,0,4,4,5,GRA,Terraced Duplex,Ikeja
+45000000.0,1,1,1,4,4,5,Ikota,Terraced Duplex,Lekki
+35000000.0,0,0,0,3,4,4,Ikota,Terraced Duplex,Lekki
+170000000.0,0,1,0,4,4,5,Ikota,Detached Duplex,Lekki
+160000000.0,0,0,0,6,6,6,Other Lekki,Detached Duplex,Lekki
+58000000.0,1,1,0,4,6,6,Chevron,Detached Duplex,Lekki
+55000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+375000000.0,0,1,0,5,5,6,Banana Island,Detached Duplex,Ikoyi
+220000000.0,1,1,0,4,4,5,Old Ikoyi,Detached Duplex,Ikoyi
+85000000.0,0,0,0,4,6,6,Adeniyi Jones,Terraced Duplex,Ikeja
+56000000.0,0,1,0,6,6,7,Osapa London,Semi Detached Duplex,Lekki
+165000000.0,0,0,0,5,5,6,Agungi,Detached Duplex,Lekki
+150000000.0,0,1,1,4,5,5,Other Lekki,Detached Duplex,Lekki
+112000000.0,1,1,0,5,6,6,Ikota,Detached Duplex,Lekki
+85000000.0,0,0,0,5,5,5,Chevron,Detached Duplex,Lekki
+85000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+260000000.0,0,0,0,5,5,5,GRA,Detached Duplex,Ikeja
+65000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+52000000.0,0,1,1,4,5,6,Omole,Detached Duplex,Ikeja
+140000000.0,0,1,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+50000000.0,0,1,0,4,6,6,Ikota,Semi Detached Duplex,Lekki
+120000000.0,0,0,0,4,3,3,Other Lekki,Semi Detached Duplex,Lekki
+165000000.0,0,1,0,5,5,5,Ikate,Detached Duplex,Lekki
+140000000.0,0,1,1,5,5,6,Ikota,Detached Duplex,Lekki
+54000000.0,0,1,0,4,5,5,Chevron,Detached Duplex,Lekki
+55000000.0,0,1,0,4,6,6,Chevron,Semi Detached Duplex,Lekki
+180000000.0,0,1,0,6,7,8,Lekki Phase 1,Detached Duplex,Lekki
+300000000.0,1,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+95000000.0,0,0,1,5,5,6,Chevron,Detached Duplex,Lekki
+87000000.0,0,0,0,3,3,4,Osapa London,Semi Detached Duplex,Lekki
+140000000.0,1,1,0,5,5,6,Adeniyi Jones,Detached Duplex,Ikeja
+45000000.0,0,1,0,5,5,5,Osapa London,Semi Detached Duplex,Lekki
+109000000.0,0,0,0,5,5,6,Chevron,Detached Duplex,Lekki
+200000000.0,0,1,0,4,4,4,Osapa London,Semi Detached Duplex,Lekki
+180000000.0,0,1,0,5,5,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+75000000.0,0,1,0,4,4,4,Lekki Phase 2,Detached Duplex,Lekki
+95000000.0,0,1,0,4,4,5,Victoria Garden City,Semi Detached Duplex,Lekki
+52500000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+35000000.0,0,1,1,3,3,4,Lekki Phase 2,Terraced Duplex,Lekki
+90000000.0,0,0,0,4,4,5,Victoria Island Extension,Detached Duplex,Victoria Island
+190000000.0,0,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+99000000.0,1,1,0,5,5,5,Chevron,Detached Duplex,Lekki
+122000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+110000000.0,1,0,0,5,5,5,Ikate,Semi Detached Duplex,Lekki
+85000000.0,0,1,0,4,4,5,Chevron,Terraced Duplex,Lekki
+40000000.0,0,0,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+47000000.0,0,0,0,3,3,4,Other Lekki,Semi Detached Duplex,Lekki
+120000000.0,0,0,0,4,5,5,Other Ikeja,Detached Duplex,Ikeja
+125000000.0,0,1,1,5,5,6,Chevron,Detached Duplex,Lekki
+105000000.0,0,0,0,5,5,6,Ikate,Detached Duplex,Lekki
+40000000.0,0,0,0,2,2,3,Ikota,Terraced Duplex,Lekki
+55000000.0,1,1,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+125000000.0,0,0,0,5,6,7,Other Lekki,Semi Detached Duplex,Lekki
+135000000.0,1,1,1,5,5,6,Agungi,Detached Duplex,Lekki
+37000000.0,0,0,0,3,0,0,Ikota,Terraced Duplex,Lekki
+70000000.0,0,0,0,5,5,6,Agungi,Detached Duplex,Lekki
+52000000.0,0,1,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+110000000.0,0,0,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+45000000.0,0,1,0,4,4,4,Agungi,Semi Detached Duplex,Lekki
+52000000.0,0,0,0,3,3,4,Osapa London,Terraced Duplex,Lekki
+40000000.0,0,0,0,3,3,4,Chevron,Semi Detached Duplex,Lekki
+115000000.0,1,1,0,4,5,5,Ikate,Terraced Duplex,Lekki
+65000000.0,0,0,0,4,4,5,Ologolo,Detached Duplex,Lekki
+140000000.0,0,1,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+135000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+35000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+35000000.0,0,1,0,3,3,4,Chevron,Semi Detached Duplex,Lekki
+350000000.0,1,1,0,5,5,6,Banana Island,Semi Detached Duplex,Ikoyi
+300000000.0,0,0,0,5,5,6,Old Ikoyi,Detached Duplex,Ikoyi
+65000000.0,1,0,0,4,4,4,Lekki Phase 2,Semi Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,5,Ikate,Detached Duplex,Lekki
+30000000.0,0,1,0,4,2,2,Chevron,Terraced Duplex,Lekki
+450000000.0,0,0,0,10,10,10,Opebi,Detached Duplex,Ikeja
+58000000.0,1,1,1,4,6,6,Other Lekki,Detached Duplex,Lekki
+77000000.0,1,0,0,5,6,6,Chevron,Semi Detached Duplex,Lekki
+85000000.0,0,0,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+115000000.0,0,0,0,5,6,6,Other Lekki,Detached Duplex,Lekki
+90000000.0,1,0,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+58000000.0,0,0,0,4,4,4,Osapa London,Detached Duplex,Lekki
+65000000.0,0,0,0,4,4,4,Agungi,Detached Duplex,Lekki
+70000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+85000000.0,0,1,1,4,4,5,Agungi,Semi Detached Duplex,Lekki
+350000000.0,0,0,0,4,4,5,Old Ikoyi,Detached Duplex,Ikoyi
+38000000.0,0,0,1,4,4,4,Ikota,Semi Detached Duplex,Lekki
+200000000.0,0,0,0,5,5,5,Lekki Phase 2,Detached Duplex,Lekki
+75000000.0,0,0,0,5,6,6,Other Lekki,Detached Duplex,Lekki
+65000000.0,0,0,0,4,5,4,Osapa London,Detached Duplex,Lekki
+170000000.0,0,1,0,5,5,5,Ikota,Detached Duplex,Lekki
+95000000.0,0,0,0,4,4,5,Oniru,Terraced Duplex,Victoria Island
+180000000.0,0,1,0,5,5,6,Oniru,Detached Duplex,Victoria Island
+126000000.0,0,0,0,4,4,4,Ikate,Terraced Duplex,Lekki
+500000000.0,1,1,0,5,5,6,Osapa London,Detached Duplex,Lekki
+57000000.0,0,0,0,4,4,4,Chevron,Semi Detached Duplex,Lekki
+75000000.0,0,1,1,4,6,6,Agungi,Semi Detached Duplex,Lekki
+61000000.0,0,1,0,4,5,5,Ikota,Semi Detached Duplex,Lekki
+105000000.0,0,0,1,5,5,5,Ikota,Detached Duplex,Lekki
+89000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+52000000.0,0,0,0,4,3,3,Awolowo Way,Detached Duplex,Ikeja
+500000000.0,0,0,0,6,6,6,Old Ikoyi,Detached Duplex,Ikoyi
+320000000.0,0,1,1,5,5,5,Osapa London,Detached Duplex,Lekki
+47000000.0,0,0,1,4,4,5,Other Lekki,Detached Duplex,Lekki
+53000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+110000000.0,1,1,1,5,5,6,GRA,Detached Duplex,Ikeja
+65000000.0,0,0,0,4,4,5,Lekki Phase 2,Terraced Duplex,Lekki
+250000000.0,0,0,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+180000000.0,0,0,0,4,4,5,Other Ikeja,Detached Duplex,Ikeja
+57000000.0,1,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+79000000.0,0,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+63000000.0,0,0,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+70000000.0,0,0,0,5,6,6,Ikota,Detached Duplex,Lekki
+75000000.0,1,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+75000000.0,0,1,0,4,6,7,Ologolo,Semi Detached Duplex,Lekki
+80000000.0,0,0,0,5,5,6,Lekki Phase 1,Detached Duplex,Lekki
+55000000.0,0,1,0,4,5,5,Ikota,Terraced Duplex,Lekki
+210000000.0,0,1,1,5,5,6,Other Lekki,Detached Duplex,Lekki
+130000000.0,0,1,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+80000000.0,0,0,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+185000000.0,0,1,0,3,3,3,Other Victoria Island,Terraced Duplex,Victoria Island
+110000000.0,0,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+160000000.0,0,1,0,4,4,5,Ikate,Semi Detached Duplex,Lekki
+69990000.0,1,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+37000000.0,0,0,0,4,6,6,Agungi,Terraced Duplex,Lekki
+145000000.0,0,0,0,5,7,7,Chevron,Semi Detached Duplex,Lekki
+95000000.0,0,0,0,4,3,3,Other Lekki,Semi Detached Duplex,Lekki
+380000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+90000000.0,0,0,0,4,4,4,Alausa,Semi Detached Duplex,Ikeja
+300000000.0,0,1,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+80000000.0,0,0,0,4,4,5,Ologolo,Semi Detached Duplex,Lekki
+160000000.0,0,0,0,6,6,7,GRA,Detached Duplex,Ikeja
+80000000.0,0,1,0,4,4,5,Osapa London,Terraced Duplex,Lekki
+185000000.0,0,0,0,4,4,4,Chevron,Semi Detached Duplex,Lekki
+33500000.0,0,0,0,3,3,4,Ikota,Detached Duplex,Lekki
+350000000.0,0,0,0,5,5,6,Lekki Phase 1,Semi Detached Duplex,Lekki
+240000000.0,1,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+38000000.0,0,0,0,4,5,5,Ikota,Detached Duplex,Lekki
+102000000.0,0,1,0,5,5,6,Chevron,Detached Duplex,Lekki
+95000000.0,0,1,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+65000000.0,0,0,0,4,5,6,Ikota,Semi Detached Duplex,Lekki
+35000000.0,0,0,0,4,4,5,Ologolo,Terraced Duplex,Lekki
+100000000.0,0,1,0,5,5,6,Ikate,Semi Detached Duplex,Lekki
+115000000.0,0,1,0,4,5,5,Agungi,Detached Duplex,Lekki
+185000000.0,0,1,0,5,6,6,Ikota,Detached Duplex,Lekki
+62000000.0,0,0,0,3,3,4,Victoria Garden City,Terraced Duplex,Lekki
+65000000.0,0,1,0,4,4,4,Agungi,Semi Detached Duplex,Lekki
+200000000.0,0,0,0,7,7,8,Lekki Phase 1,Detached Duplex,Lekki
+75000000.0,0,0,0,3,4,4,Osapa London,Detached Duplex,Lekki
+60000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+130000000.0,0,0,0,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+195000000.0,0,0,1,5,5,6,Other Lekki,Detached Duplex,Lekki
+230000000.0,0,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+130000000.0,0,1,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+70000000.0,1,1,0,4,4,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+120000000.0,0,0,0,5,5,6,GRA,Detached Duplex,Ikeja
+115000000.0,0,1,0,4,5,5,Ikota,Detached Duplex,Lekki
+40000000.0,0,0,0,4,4,5,Alausa,Detached Duplex,Ikeja
+65000000.0,0,1,0,3,3,4,Other Lekki,Detached Duplex,Lekki
+70000000.0,1,1,0,4,5,5,Victoria Garden City,Detached Duplex,Lekki
+70000000.0,0,0,1,3,4,4,Ikate,Terraced Duplex,Lekki
+150000000.0,1,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+220000000.0,1,0,0,4,3,4,Foreshore,Semi Detached Duplex,Ikoyi
+55000000.0,0,0,0,6,6,7,Airport Road,Semi Detached Duplex,Ikeja
+30000000.0,0,0,0,4,4,5,Ikota,Semi Detached Duplex,Lekki
+45000000.0,1,1,1,3,4,4,Chevron,Detached Duplex,Lekki
+95000000.0,0,1,0,6,7,7,Ikota,Detached Duplex,Lekki
+200000000.0,1,1,1,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+80000000.0,0,1,1,4,5,4,Adeniyi Jones,Terraced Duplex,Ikeja
+390000000.0,0,0,0,5,5,6,Banana Island,Semi Detached Duplex,Ikoyi
+300000000.0,0,0,0,4,5,5,Lekki Phase 1,Detached Duplex,Lekki
+110000000.0,0,0,0,5,5,5,Adeniyi Jones,Detached Duplex,Ikeja
+120000000.0,0,1,0,4,4,5,Ologolo,Detached Duplex,Lekki
+45000000.0,0,0,1,4,4,4,Chevron,Semi Detached Duplex,Lekki
+160000000.0,0,0,0,5,5,6,Allen Avenue,Detached Duplex,Ikeja
+67000000.0,0,1,0,5,5,6,Other Lekki,Terraced Duplex,Lekki
+58000000.0,0,1,0,3,4,0,Osapa London,Terraced Duplex,Lekki
+40000000.0,0,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+41000000.0,1,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+200000000.0,1,1,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+65000000.0,0,0,1,5,6,6,Victoria Garden City,Detached Duplex,Lekki
+260000000.0,0,1,0,4,4,5,Lekki Phase 1,Detached Duplex,Lekki
+40000000.0,1,1,0,5,6,6,Osapa London,Semi Detached Duplex,Lekki
+55000000.0,0,1,0,3,3,4,Ikota,Terraced Duplex,Lekki
+110000000.0,0,0,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+43000000.0,0,1,0,3,3,3,Ikota,Terraced Duplex,Lekki
+180000000.0,0,0,0,6,7,7,GRA,Detached Duplex,Ikeja
+160000000.0,1,1,1,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+160000000.0,0,1,0,5,5,6,Ikate,Semi Detached Duplex,Lekki
+68000000.0,0,0,0,5,5,6,Other Lekki,Semi Detached Duplex,Lekki
+80000000.0,0,1,1,4,5,5,GRA,Terraced Duplex,Ikeja
+110000000.0,0,0,0,4,5,5,Ikate,Detached Duplex,Lekki
+300000000.0,0,1,0,5,5,6,Banana Island,Detached Duplex,Ikoyi
+85000000.0,0,0,0,6,6,7,Other Ikeja,Detached Duplex,Ikeja
+450000000.0,1,1,1,5,5,5,Banana Island,Semi Detached Duplex,Ikoyi
+140000000.0,0,1,0,5,5,4,Foreshore,Detached Duplex,Ikoyi
+115000000.0,0,0,0,4,4,5,Oniru,Terraced Duplex,Victoria Island
+130000000.0,1,0,0,4,4,5,Lekki Phase 1,Terraced Duplex,Lekki
+160000000.0,1,1,0,4,4,5,Ikate,Detached Duplex,Lekki
+150000000.0,0,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+50000000.0,0,1,1,4,4,5,Chevron,Terraced Duplex,Lekki
+500000000.0,0,0,0,5,6,6,GRA,Detached Duplex,Ikeja
+65000000.0,0,1,0,5,5,5,Ikate,Detached Duplex,Lekki
+40000000.0,0,0,0,4,4,5,Chevron,Terraced Duplex,Lekki
+185000000.0,0,0,0,4,4,5,GRA,Detached Duplex,Ikeja
+72000000.0,0,0,1,4,4,5,Chevron,Semi Detached Duplex,Lekki
+60000000.0,0,0,0,4,4,5,Adeniyi Jones,Detached Duplex,Ikeja
+55000000.0,0,1,0,3,0,0,Other Ikeja,Detached Duplex,Ikeja
+47000000.0,0,0,0,5,5,6,Ikota,Semi Detached Duplex,Lekki
+70000000.0,0,1,0,4,4,4,Other Lekki,Terraced Duplex,Lekki
+115000000.0,0,0,0,4,4,5,Oniru,Semi Detached Duplex,Victoria Island
+85000000.0,0,0,1,4,5,5,Chevron,Detached Duplex,Lekki
+128000000.0,0,0,1,4,4,5,Other Lekki,Detached Duplex,Lekki
+58000000.0,0,1,0,4,5,5,Chevron,Semi Detached Duplex,Lekki
+289000000.0,0,1,1,5,5,6,Osapa London,Detached Duplex,Lekki
+420000000.0,1,0,0,5,5,6,Osapa London,Detached Duplex,Lekki
+80000000.0,1,1,0,4,4,4,Opebi,Detached Duplex,Ikeja
+120000000.0,0,0,0,5,4,4,Other Lekki,Terraced Duplex,Lekki
+110000000.0,0,1,0,5,5,5,Other Lekki,Detached Duplex,Lekki
+160000000.0,0,0,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+44000000.0,0,0,0,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+110000000.0,0,1,1,5,5,6,Ikota,Detached Duplex,Lekki
+115000000.0,0,1,0,4,4,5,Osapa London,Semi Detached Duplex,Lekki
+150000000.0,0,0,0,5,5,6,GRA,Terraced Duplex,Ikeja
+40000000.0,0,0,0,4,4,4,Ikota,Detached Duplex,Lekki
+169500000.0,0,0,0,5,5,6,Ikota,Detached Duplex,Lekki
+220000000.0,0,0,0,5,7,7,Victoria Garden City,Detached Duplex,Lekki
+160000000.0,1,1,1,4,6,6,Victoria Garden City,Detached Duplex,Lekki
+50000000.0,0,1,1,4,4,5,Other Lekki,Detached Duplex,Lekki
+95000000.0,0,1,1,5,5,6,Lekki Phase 2,Detached Duplex,Lekki
+50000000.0,1,1,0,4,4,5,Agungi,Detached Duplex,Lekki
+80000000.0,0,0,0,5,4,4,Other Lekki,Detached Duplex,Lekki
+300000000.0,0,1,0,5,5,6,Ikate,Detached Duplex,Lekki
+45000000.0,0,0,0,5,5,6,Chevron,Semi Detached Duplex,Lekki
+79000000.0,0,1,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+250000000.0,0,0,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+55000000.0,0,1,0,4,3,4,Chevron,Detached Duplex,Lekki
+59000000.0,0,1,0,4,5,5,Chevron,Terraced Duplex,Lekki
+69000000.0,0,1,0,4,4,5,Other Lekki,Terraced Duplex,Lekki
+75000000.0,0,1,1,4,4,5,Ikate,Semi Detached Duplex,Lekki
+40500000.0,0,1,0,3,2,2,Chevron,Detached Duplex,Lekki
+50000000.0,0,1,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+35000000.0,0,1,0,3,3,4,Chevron,Detached Duplex,Lekki
+90000000.0,0,0,0,5,5,7,GRA,Detached Duplex,Ikeja
+80000000.0,0,1,1,4,4,5,Chevron,Terraced Duplex,Lekki
+60000000.0,0,0,0,4,4,5,Agungi,Terraced Duplex,Lekki
+130000000.0,0,0,0,4,4,5,Agungi,Semi Detached Duplex,Lekki
+65000000.0,0,1,0,4,4,5,Ologolo,Semi Detached Duplex,Lekki
+100000000.0,0,1,1,5,7,7,Other Lekki,Detached Duplex,Lekki
+68000000.0,1,1,0,4,4,5,Other Lekki,Detached Duplex,Lekki
+130000000.0,0,0,0,5,5,6,Ikate,Semi Detached Duplex,Lekki
+80000000.0,0,0,0,5,6,6,Osapa London,Detached Duplex,Lekki
+250000000.0,0,1,1,5,6,7,Lekki Phase 1,Detached Duplex,Lekki
+49000000.0,0,0,0,4,3,5,Chevron,Terraced Duplex,Lekki
+155000000.0,0,0,0,5,5,6,Oniru,Terraced Duplex,Victoria Island
+85000000.0,0,0,0,4,4,4,Victoria Garden City,Semi Detached Duplex,Lekki
+200000000.0,0,0,0,4,4,5,Old Ikoyi,Semi Detached Duplex,Ikoyi
+200000000.0,0,0,0,4,4,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+67000000.0,0,1,0,4,4,4,Other Lekki,Detached Duplex,Lekki
+38000000.0,0,0,0,4,4,4,Chevron,Terraced Duplex,Lekki
+130000000.0,0,0,0,4,5,5,Lekki Phase 1,Semi Detached Duplex,Lekki
+58000000.0,0,0,0,4,4,5,Chevron,Semi Detached Duplex,Lekki
+33000000.0,0,0,0,3,5,5,Chevron,Terraced Duplex,Lekki
+35000000.0,0,0,0,2,0,0,Ikate,Terraced Duplex,Lekki
+87000000.0,0,0,0,4,4,5,Chevron,Detached Duplex,Lekki
+120000000.0,0,1,0,4,4,4,Ikota,Detached Duplex,Lekki
+190000000.0,0,1,0,5,5,6,Victoria Garden City,Semi Detached Duplex,Lekki
+145000000.0,0,0,0,5,5,6,Other Lekki,Detached Duplex,Lekki
+100000000.0,0,0,0,4,4,5,Osapa London,Detached Duplex,Lekki
+100000000.0,0,0,0,5,5,6,Chevron,Semi Detached Duplex,Lekki
+65000000.0,0,1,0,4,5,5,Ikota,Detached Duplex,Lekki
+300000000.0,0,0,0,10,10,10,Lekki Phase 1,Detached Duplex,Lekki
+220000000.0,0,0,0,4,6,7,Lekki Phase 1,Semi Detached Duplex,Lekki
+180000000.0,0,1,0,5,5,7,Parkview,Semi Detached Duplex,Ikoyi
+143000000.0,0,1,0,4,4,5,Chevron,Detached Duplex,Lekki
+95000000.0,0,1,1,4,4,5,Osapa London,Detached Duplex,Lekki
+70000000.0,0,0,0,5,5,5,Agungi,Detached Duplex,Lekki
+165000000.0,0,0,0,5,5,5,Lekki Phase 2,Detached Duplex,Lekki
+120000000.0,1,1,0,5,5,6,Victoria Garden City,Detached Duplex,Lekki
+120000000.0,0,0,1,4,4,5,Ologolo,Terraced Duplex,Lekki
+45000000.0,0,0,0,4,4,5,Agungi,Detached Duplex,Lekki
+100000000.0,0,0,0,4,4,5,Victoria Garden City,Detached Duplex,Lekki
+47000000.0,0,1,0,4,6,6,Victoria Garden City,Detached Duplex,Lekki
+78000000.0,0,0,0,5,5,5,Lekki Phase 1,Detached Duplex,Lekki
+100000000.0,0,1,0,5,6,6,Osapa London,Detached Duplex,Lekki
+185000000.0,0,1,0,4,4,5,Other Victoria Island,Terraced Duplex,Victoria Island
+45000000.0,0,1,0,3,3,3,Chevron,Terraced Duplex,Lekki
+86000000.0,0,1,1,4,4,5,Other Lekki,Semi Detached Duplex,Lekki
+185000000.0,0,0,0,3,0,0,Other Victoria Island,Semi Detached Duplex,Victoria Island
+40000000.0,0,1,0,4,5,5,Ikota,Detached Duplex,Lekki
+65000000.0,0,0,0,5,5,5,Other Lekki,Semi Detached Duplex,Lekki
+55000000.0,0,0,0,3,4,4,Osapa London,Detached Duplex,Lekki
+150000000.0,0,0,0,5,5,5,Other Ikeja,Detached Duplex,Ikeja
+120000000.0,0,0,0,4,4,5,Opebi,Semi Detached Duplex,Ikeja
+45000000.0,0,1,0,4,5,5,Lekki Phase 2,Semi Detached Duplex,Lekki
+350000000.0,0,0,0,5,5,6,Other Lekki,Semi Detached Duplex,Lekki
+195000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
+40000000.0,1,1,0,3,3,4,Ikota,Detached Duplex,Lekki
+100000000.0,0,1,0,4,5,5,GRA,Terraced Duplex,Ikeja
+170000000.0,0,0,0,7,7,8,Ikota,Detached Duplex,Lekki
+450000000.0,0,1,0,5,6,6,Osapa London,Detached Duplex,Lekki
+80000000.0,0,0,0,5,5,6,Ikate,Detached Duplex,Lekki
+80000000.0,0,0,0,4,4,5,Victoria Island Extension,Terraced Duplex,Victoria Island
+350000000.0,0,0,0,4,4,5,Parkview,Detached Duplex,Ikoyi
+120000000.0,0,0,1,5,6,6,Ikota,Detached Duplex,Lekki
+98000000.0,0,0,0,4,4,5,Ikota,Detached Duplex,Lekki
+200000000.0,0,1,0,5,5,6,Ikota,Detached Duplex,Lekki
