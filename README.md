@@ -53,11 +53,11 @@ ___
 ## Exploratory Data Analysis
 According to analysis, the average (median) price of a residentaial property in Lagos state is around ₦99 million.
 
-![Histogram of Prices](Plots\price-hist.png)
+![Histogram of Prices](Plots/price-hist.png)
 **Histogram of Prices**
 The prices are positively skewed with majority of prices as the lower rates.
 
 Ikoyi has the most expensive homes with an average price of around ₦ 250 million.
-![City Prices](Plots\city-prices.png)
+![City Prices](Plots/city-prices.png)
 **Average price of each city**
 ___
