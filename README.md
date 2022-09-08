@@ -29,6 +29,8 @@ Mean Absolute Error (MAE) was used as the metric as the target data contained ma
 | **LightGBM**   | **46.28**   |
 | SVM   | 68.47   |
 | KNN   | 49.07   |
+
+The high MAE is due to many outliers in the target variable which are due to Nigeria's failing economy and poor political powerss leading to inflations of many properties. More features could be added to the dataset to achieve higher performance
 ___
 ## Model Deployment
 The final model with the best score was deployed on a web application built with **Django** with the frontend built with **HTML & CSS** with **Boostrap 4** as the CSS Framework.
