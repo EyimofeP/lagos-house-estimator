@@ -45,11 +45,12 @@
                         The estimated price of the property is 
                         <span style=" color: green;">
                           {% if prediction > 1e6 %}
-                            ₦{{prediction | intword }} 
+                            ₦{{prediction | intword }}
                           {% else %}
-                            ₦{{prediction| intcomma }} per year
+                            ₦{{prediction| intcomma }}
                           {% endif %}
                         </span>
+                        per year
                     </h3>
                 {% else %}
                     Developed by 
