@@ -1,0 +1,257 @@
+{% load static %}
+{% load humanize %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="{% static 'fonts/icomoon/style.css' %}">
+
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+
+    <!-- Style -->
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <link rel="stylesheet" href="{% static 'css/fine.css' %}">
+
+    <title>Lagos House Price Estimator</title>
+  </head>
+  <body>
+  
+
+  <div class="content">
+    
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-10">
+          
+
+          <div class="row justify-content-center">
+            <div class="col-md-6">         
+              <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP4RLxUq24G5fBSDkzRnpUHB8du0C9RO_7Uw&usqp=CAU" alt="Image" class="img-fluid center"></p>
+    
+              <h2 class="heading mb-4">Lagos House Rent Estimator</h2>
+              <p class="text-black" style="font-weight:bolder">Hi, There!, try estimating the rent of any home of your choice with our tool 😊.</p>
+              <br>
+
+              <h5 class="text-black" style="font-weight:bolder">  
+                {% if prediction %}
+                        Results:
+                    <h3 class="color--white mb-5" style="font-weight:bolder;">
+                        The estimated price of the property is 
+                        <span style=" color: green;">
+                          {% if prediction > 1e6 %}
+                            ₦{{prediction | intword }} 
+                          {% else %}
+                            ₦{{prediction| intcomma }} 
+                          {% endif %}
+                        </span>
+                    </h3>
+                {% else %}
+                    Developed by 
+                    <p class="text-black">Eyimofe A. Pinnick</p>     
+                    <p style="color: black;"><a href="https://github.com/EyimofeP/"> Github</a></p> 
+                </h5>
+                {% endif %}
+
+
+            </div>
+            <div class="col-md-6">
+              
+              <form action="{% url 'predict-rent' %}" method="POST" form class="mb-5"id="contactForm" name="contactForm">
+                {% csrf_token %}
+                <div class="row">
+                  <div class="col-md-12 form-group">
+                    {% if Bedrooms %}
+                      <input type="number" class="form-control" id="Bedrooms" name="Bedrooms" placeholder="Number of Bedrooms" value="{{Bedrooms}}" required>
+                    {% else %}
+                    <input type="number" class="form-control" id="Bedrooms" name="Bedrooms" placeholder="Number of Bedrooms" required>
+                    {% endif %}
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12 form-group">
+                    {% if Bathrooms %}
+                      <input type="number" class="form-control" id="Bathrooms" name="Bathrooms" placeholder="Number of Bathrooms" value="{{Bathrooms}}" required>
+                    {% else %}
+                    <input type="number" class="form-control" id="Bathrooms" name="Bathrooms" placeholder="Number of Bathrooms" required>
+                    {% endif %}
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12 form-group">
+                    {% if Toilets %}
+                      <input type="number" class="form-control" id="Toilets" name="Toilets" placeholder="Number of Toilets" value="{{Toilets}}" required>
+                    {% else %}
+                    <input type="number" class="form-control" id="Toilets" name="Toilets" placeholder="Number of Toilets" required>
+                    {% endif %}
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12 form-group">
+                    <select class="form-select form-control"  id="Newly Built" name="Newly_Built" required>
+                        <option value=""selected disabled>Is this home new? </option>
+                        <option value="1">Yes</option>
+                        <option value="0">No</option>
+                    </select>
+                  </div>
+                </div>  
+                <div class="row">
+                  <div class="col-md-12 form-group">
+                    <select class="form-select form-control"  id="Serviced" name="Serviced" placeholder="" required>
+                      <option value=""selected disabled>Is the property serviced e.g has electricity? </option>
+                      <option value="1">Yes</option>
+                      <option value="0">No</option>
+                  </select>
+                  </div>
+                </div>  
+                <div class="row">
+                  <div class="col-md-12 form-group">
+                    <select class="form-select form-control"  id="Furnished" name="Furnished" placeholder="" required>
+                      <option value=""selected disabled>Does the property contain furniture?</option>
+                      <option value="1">Yes</option>
+                      <option value="0">No</option>
+                    </select>
+                  </div>
+                </div>  
+                <div class="row">
+                  <div class="col-md-12 form-group">
+                    <select class="form-select form-control"  id="Type" name="Type" placeholder="" required>
+                      <option value=""selected disabled>What kind of home are you planning of checking?</option>
+                      <option value="Flat"> Flat</option>
+                      <option value="Self-contained"> Self-contained</option>
+                      <option value="Apartment"> Apartment</option>
+                      <option value="Fully Detached Duplex"> Fully Detached Duplex</option>
+                      <option value="Semi Detached Duplex"> Semi Detached Duplex</option>
+                      <option value="Terraced Duplex"> Terraced Duplex</option>
+                  </select>
+                  </div>
+                </div>  
+                <div class="row">
+                  <div class="col-md-12 form-group">
+                    <select  class="form-select form-control selectFilter"  id="City" name="City" data-target="Neighborhood" required>
+                      <option value=""selected disabled>Where in Lagos is this property located?</option>
+                      <option value="Ajah" data-ref="Ajah">Ajah</option>
+                      <option value="Ikeja" data-ref="Ikeja">Ikeja</option>
+                      <option value="Ikoyi" data-ref="Ikoyi"> Ikoyi</option>
+                      <option value="Lekki" data-ref="Lekki"> Lekki</option>
+                      <option value="Gbagada" data-ref="Gbagada">Gbagada</option>
+                      <option value="Ojodu" data-ref="Ojodu">Ojodu</option>
+                      <option value="Surulere" data-ref="Surulere">Surulere</option>
+                      <option value="Victoria Island" data-ref="Victoria Island"> Victoria Island</option>
+                      <option value="Yaba" data-ref="Yaba">Yaba</option>
+                  </select>
+                  </div>
+                </div>  
+                <div class="row">
+                  <div class="col-md-12 form-group">
+                    <select  class="form-select form-control Neighborhood selectFilter"  name="Neighborhood" id="Neighborhood" data-target="City" required>
+                      <option value=""selected disabled>Which area/neighborhood is the property?</option>
+                      <option data-ref="GRA" value="GRA" data-belong="Ikeja">GRA</option>
+                      <option data-ref="Adeniyi Jones" value="Adeniyi Jones" data-belong="Ikeja">Adeniyi Jones</option>
+                      <option data-ref="Opebi" value="Opebi" data-belong="Ikeja">Opebi</option>
+                      <option data-ref="Allen Avenue" value="Allen Avenue" data-belong="Ikeja">Allen Avenue</option>
+                      <option data-ref="Awolowo Way" value="Awolowo Way" data-belong="Ikeja">Awolowo Way</option>
+                      <option data-ref="Oregun" value="Oregun" data-belong="Ikeja">Oregun</option>
+                      <option data-ref="Alausa" value="alausa" data-belong="Ikeja">Alausa</option>
+                      <option data-ref="Toyin Street" value="Toyin Street" data-belong="Ikeja">Toyin Street</option>
+                      <option data-ref="Other Ikeja" value="Other Ikeja" data-belong="Ikeja">Others</option>
+
+                      <option data-ref="Old Ikoyi" value="Old Ikoyi" data-belong="Ikoyi">Old Ikoyi</option>
+                      <option data-ref="Banana Island" value="Banana Island" data-belong="Ikoyi">Banana Island</option>
+                      <option data-ref="Parkview Estate" value="Parkview Estate" data-belong="Ikoyi">Parkview Estate</option>
+                      <option data-ref="Osborne Foreshore Estate" value="Osborne Foreshore Estate" data-belong="Ikoyi">Osborne Foreshore Estate</option>
+                      <option data-ref="Bourdillon" value="Bourdillon" data-belong="Ikoyi">Bourdillon</option>
+                      <option data-ref="Awolowo Road" value="Awolowo Road" data-belong="Ikoyi">Awolowo Road</option>
+                      <option data-ref="Dolphin Estate" value="Dolphin Estate" data-belong="Ikoyi">Dolphin Estate</option>
+                      <option data-ref="Other Ikoyi" value="Other Ikoyi" data-belong="Ikoyi">Others</option>
+
+                      <option data-ref="Ifako" value="Ifako" data-belong="Gbagada">Ifako</option>
+                      <option data-ref="Soluyi" value="Soluyi" data-belong="Gbagada">Soluyi</option>
+                      <option data-ref="Medina" value="Medina" data-belong="Gbagada">Medina</option>
+                      <option data-ref="Millennium Ups" value="Millennium Ups" data-belong="Gbagada">Millennium Ups</option>
+                      <option data-ref="Gbagada Phase 1" value="Gbagada Phase 1" data-belong="Gbagada">Gbagada Phase 1</option>
+                      <option data-ref="Gbagada Phase 2" value="Gbagada Phase 2" data-belong="Gbagada">Gbagada Phase 2</option>
+                      <option data-ref="Oworonshoki" value="Oworonshoki" data-belong="Gbagada">Oworonshoki</option>
+                      <option data-ref="Other Gbagada" value="Other Gbagada" data-belong="Gbagada">Others</option>
+                      
+                      <option data-ref="Chevron" value="Chevron" data-belong="Lekki">Chevron</option>
+                      <option data-ref="Lekki Phase 1" value="Lekki Phase 1" data-belong="Lekki">Lekki Phase 1</option>
+                      <option data-ref="Ikate" value="Ikate" data-belong="Lekki">Ikate</option>
+                      <option data-ref="Osapa London" value="Osapa London" data-belong="Lekki">Osapa London</option>
+                      <option data-ref="Agungi" value="Agungi" data-belong="Lekki">Agungi</option>
+                      <option data-ref="Ikota" value="Ikota" data-belong="Lekki">Ikota</option>
+                      <option data-ref="Ologolo" value="Ologolo" data-belong="Lekki">Ologolo</option>
+                      <option data-ref="Other Lekki" value="Other Lekki" data-belong="Lekki">Others</option>
+
+                      <option data-ref="Oniru" value="Oniru" data-belong="Victoria Island">Oniru</option>
+                      <option data-ref="Victoria Island Extension" value="Victoria Island Extension" data-belong="Victoria Island">Victoria Island Extension</option>
+                      <option data-ref="Adeola Odeku" value="Adeola Odeku" data-belong="Victoria Island">Adeola Odeku</option>
+                      <option data-ref="1004" value="1004" data-belong="Victoria Island">1004 Estates</option>
+                      <option data-ref="Ligali Ayorinde" value="Ligali Ayorinde" data-belong="Victoria Island">Ligali Ayorinde</option>
+                      <option data-ref="Other Victoria Island" value="Other Victoria Island" data-belong="Victoria Island">Others</option>
+
+                      <option data-ref="Badore" value="Badore" data-belong="Ajah">Badore</option> 
+                      <option data-ref="Sangotedo" value="Sangotedo" data-belong="Ajah">Sangotedo</option>
+                      <option data-ref="Ado" value="Ado" data-belong="Ajah">Ado</option>
+                      <option data-ref="Lekki Scheme" value="Lekki Scheme" data-belong="Ajah">Lekki Scheme</option>
+                      <option data-ref="Other Ajah" value="Other Ajah" data-belong="Ajah">Others</option>
+                      
+                      
+                      <option data-ref="Magodo Phase 1" value="Magodo Phase 1" data-belong="Ojodu">Magodo Phase 1</option>
+                      <option data-ref="Ojodu Berger" value="Ojodu Berger" data-belong="Ojodu">Ojodu Berger</option>
+                      <option data-ref="Isheri North" value="Isheri North" data-belong="Ojodu">Isheri North</option>
+                      <option data-ref="Omole Phase 1" value="Omole Phase 1" data-belong="Ojodu">Omole Phase 1</option>
+                      <option data-ref="Omole Phase 2" value="Omole Phase 2" data-belong="Ojodu">Omole Phase 2</option>
+                      <option data-ref="Olowora" value="Olowora" data-belong="Ojodu">Olowora</option>
+                      <option data-ref="Other Ojodu" value="Other Ojodu" data-belong="Ojodu">Others</option>
+  
+                      <option data-ref="Aguda" value="Aguda" data-belong="Surulere">Aguda</option>
+                      <option data-ref="Bode Thomas" value="Bode thomas" data-belong="Surulere">Bode Thomas</option>
+                      <option data-ref="Ogunlana" value="Ogunlana" data-belong="Surulere">Ogunlana</option>
+                      <option data-ref="Marsha" value="Marsha" data-belong="Surulere">Marsha</option>
+                      <option data-ref="Lawanson" value="Lawanson" data-belong="Surulere">Lawanson</option>
+                      <option data-ref="Adelabu" value="Adelabu" data-belong="Surulere">Adelabu</option>
+                      <option data-ref="Randle Avenue" value="Randle Avenue" data-belong="Surulere">Randle Avenue</option>
+                      <option data-ref="Ijesha" value="Ijesha" data-belong="Surulere">Ijesha</option>
+                      <option data-ref="Ojuelegba" value="Ojuelegba" data-belong="Surulere">Ojuelegba</option>
+                      <option data-ref="Other Surulere" value="Other Surulere" data-belong="Surulere">Others</option>
+
+                      <option data-ref="Akoka" value="Akoka" data-belong="Yaba">Akoka</option>
+                      <option data-ref="Alagomeji" value="Alagomeji" data-belong="Yaba">Alagomeji</option>
+                      <option data-ref="Onike" value="Onike" data-belong="Yaba">Onike</option>
+                      <option data-ref="Agoro" value="Agoro" data-belong="Yaba">Agoro</option>
+                      <option data-ref="Ebute-Metta" value="Ebute-Metta" data-belong="Yaba">Ebute-Metta</option>
+                      <option data-ref="Sabo" value="Sabo" data-belong="Yaba">Sabo</option>
+                      <option data-ref="Jibowu" value="Jibowu" data-belong="Yaba">Jibowu</option>
+                      <option data-ref="Ijesha" value="Ijesha" data-belong="Yaba">Ijesha</option>
+                      <option data-ref="Other Yaba" value="Other Yaba" data-belong="Yaba">Others</option>
+                    </select>
+                  </div>
+                </div>  
+                <div class="row">
+                  <div class="col-sm-12 mb-3">
+                    <button type="submit" name="submit" class="btn btn-primary btn-block">Predict Price!</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="{% static 'js/selectFilter.min.js' %}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+    <!-- <script src="{% static 'js/jquery.validate.min.js '%}"></script> -->
+    <!-- <script src="{% static 'js/main.js '%}"></script> -->
+
+  </body>
+</html>
