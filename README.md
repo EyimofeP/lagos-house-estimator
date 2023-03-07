@@ -16,7 +16,7 @@ An application that allows users to estimate the price of a residential property
 
 * LightGBM had an Mean Absolute Error (MAE) score of ₦46.28 million
 
-* Model was deployed on a web application built using **Django** available at [Lagos Estimator](https://lagos-estimator.herokuapp.com/)
+* Model was deployed on a web application built using **Django** available at [Lagos Estimator](lagos-estimator.onrender.com)
 ___
 ## Model Performamce
 
